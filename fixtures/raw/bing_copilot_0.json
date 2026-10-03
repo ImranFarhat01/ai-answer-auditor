@@ -1,0 +1,289 @@
+{
+  "search_metadata": {
+    "id": "6ac0a7d5b13aa75c7fdcfa42",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lV22gftzTyf6WktHpOBeHLNF54QqGAt8vcwVWyNnGFw/6ac0a7d5b13aa75c7fdcfa42.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lV22gftzTyf6WktHpOBeHLNF54QqGAt8vcwVWyNnGFw/6ac0a7d5b13aa75c7fdcfa42.md",
+    "created_at": "2026-10-03 06:59:33 UTC",
+    "processed_at": "2026-10-03 06:59:33 UTC",
+    "bing_copilot_url": "https://www.bing.com/copilotsearch?q=Is+GST+charged+on+individual+health+insurance+premiums+in+India%3F&FORM=CSSCOP",
+    "raw_html_file": "https://serpapi.com/searches/lV22gftzTyf6WktHpOBeHLNF54QqGAt8vcwVWyNnGFw/6ac0a7d5b13aa75c7fdcfa42.html",
+    "total_time_taken": 28.58
+  },
+  "search_parameters": {
+    "q": "Is GST charged on individual health insurance premiums in India?",
+    "engine": "bing_copilot"
+  },
+  "search_information": {},
+  "header": "No—GST is not charged on individual health insurance premiums in India anymore; the rate has been 0% since 22 September 2025.",
+  "text_blocks": [
+    {
+      "type": "heading",
+      "snippet": "✅ Current GST Rate for Individual Health Insurance",
+      "level": 3
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "GST on all individual health insurance policies is 0% as of 22 September 2025 3 .",
+          "snippet_highlighted_words": [
+            "GST on all individual health insurance policies is 0%",
+            "22 September 2025"
+          ],
+          "reference_indexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "snippet": "This includes:",
+          "list": [
+            {
+              "snippet": "Individual health insurance",
+              "snippet_highlighted_words": [
+                "Individual health insurance"
+              ]
+            },
+            {
+              "snippet": "Family floater plans",
+              "snippet_highlighted_words": [
+                "Family floater plans"
+              ]
+            },
+            {
+              "snippet": "Senior citizen health insurance",
+              "snippet_highlighted_words": [
+                "Senior citizen health insurance"
+              ]
+            },
+            {
+              "snippet": "Individual critical illness plans",
+              "snippet_highlighted_words": [
+                "Individual critical illness plans"
+              ]
+            },
+            {
+              "snippet": "Top-up and super top-up plans 1",
+              "snippet_highlighted_words": [
+                "Top-up and super top-up plans"
+              ],
+              "reference_indexes": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "The exemption applies to both new purchases and renewals, as long as the premium payment date is on or after 22 September 2025 Ditto Insurance .",
+      "snippet_highlighted_words": [
+        "both new purchases and renewals",
+        "premium payment date"
+      ],
+      "reference_indexes": [
+        0
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "✅ What Still Attracts GST?",
+      "level": 3
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Group health insurance (employer-provided or bank-provided) continues to be taxed at 18% GST 3 .",
+          "snippet_highlighted_words": [
+            "Group health insurance",
+            "18% GST"
+          ],
+          "reference_indexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "snippet": "Reinsurance for group policies also remains at 18% 1 .",
+          "reference_indexes": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "✅ Why the Change?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "snippet": "The 56th GST Council meeting (September 2025) removed GST on individual health insurance to make coverage more affordable and increase insurance penetration in India Ditto Insurance+1 .",
+      "reference_indexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "✅ Example of Savings",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "snippet": "A 60-year-old in Delhi now pays ₹49,168 instead of ₹58,018 for a ₹15 lakh policy—because the earlier 18% GST no longer applies Ditto Insurance .",
+      "snippet_highlighted_words": [
+        "₹49,168 instead of ₹58,018"
+      ],
+      "reference_indexes": [
+        0
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "✅ Renewals",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "snippet": "If your renewal falls after 22 September 2025 and you pay on or after that date, your insurer must apply 0% GST automatically Ditto Insurance .",
+      "snippet_highlighted_words": [
+        "0% GST"
+      ],
+      "reference_indexes": [
+        0
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "✅ Key Distinction",
+      "level": 3
+    },
+    {
+      "type": "table",
+      "table": [
+        [
+          "Individual health insurance",
+          "0%",
+          "Applies to all retail plans and their reinsurance 3"
+        ],
+        [
+          "Group health insurance",
+          "18%",
+          "Employer or corporate plans only 3"
+        ]
+      ],
+      "headers": [
+        "Policy Type",
+        "GST Rate",
+        "Notes"
+      ],
+      "formatted": [
+        {
+          "policy_type": "Individual health insurance",
+          "gst_rate": "0%",
+          "notes": "Applies to all retail plans and their reinsurance 3"
+        },
+        {
+          "policy_type": "Group health insurance",
+          "gst_rate": "18%",
+          "notes": "Employer or corporate plans only 3"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "✅ Bottom Line",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "snippet": "If you are buying or renewing your own personal health insurance policy, you do NOT pay GST anymore. Only group/corporate policies still carry the 18% tax.",
+      "snippet_highlighted_words": [
+        "your own personal health insurance policy",
+        "you do NOT pay GST anymore"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like a breakdown of how this affects your premium or tax deductions under Section 80D?"
+    }
+  ],
+  "references": [
+    {
+      "index": 0,
+      "title": "GST on Health Insurance in India: 2026 Guide",
+      "link": "https://joinditto.in/articles/health-insurance/gst-on-health-insurance/",
+      "snippet": "GST on health insurance is now 0% for individual plans. Learn the current rate, impact on premiums, exemptions, and the latest updates explained simply.",
+      "source": "Ditto Insurance"
+    },
+    {
+      "index": 1,
+      "title": "GST on Insurance Premiums 2026: Rates, Rules | Tax Garden",
+      "link": "https://taxgarden.in/blog/gst-on-insurance-premiums-india-rates-exemption-2026",
+      "snippet": "GST on insurance premiums in India after GST 2.0: individual health and life insurance exempt at 0%, group and motor at 18%. Complete 2026 rate guide.",
+      "source": "taxgarden.in"
+    },
+    {
+      "index": 2,
+      "title": "GST on Insurance in India: GST Insurance Premium & Rates Explained ...",
+      "link": "https://www.axis.bank.in/blogs/taxation/gst-on-insurance",
+      "snippet": "Good news for everyone with individual health or Life Insurance: From 22 September 2025, the GST Council will reduce the GST on such policies to zero. That is to say that if you're paying for a policy for an individual, you won't have to pay GST at all—no matter what type of policy you have.",
+      "source": "axis.bank.in"
+    },
+    {
+      "index": 3,
+      "title": "GST on Health Insurance 2026: Rate, Impact & Tax Benefits",
+      "link": "https://cleartax.in/s/gst-on-health-insurance",
+      "snippet": "Know the latest GST rate on health insurance with HSN codes, types, and impact. Learn how to calculate GST, claim ITC on employee premiums, and save tax in 2026.",
+      "source": "ClearTax"
+    },
+    {
+      "index": 4,
+      "title": "GST on Insurance Premiums in India 2026 | DMI Finance",
+      "link": "https://www.dmifinance.in/gst/gst-on-insurance-premiums/",
+      "snippet": "As a result of the 56th Goods and Services Tax (GST) Council’s decision, the GST on individual health and life insurance premiums has been reduced to 0%, down from 18%.",
+      "source": "www.dmifinance.in"
+    },
+    {
+      "index": 5,
+      "title": "Exemption of GST on all Individual Life Insurance and Health Insurance ...",
+      "link": "https://www.financialservices.gov.in/exemption-gst-all-individual-life-insurance-and-health-insurance-policies",
+      "snippet": "GST rate on all Individual Life Insurance and Individual Health Insurance policies, including reinsurance of the same, has been reduced from 18% to zero and it has come into effect on 22nd September 2025.",
+      "source": "Department of Financial Services"
+    },
+    {
+      "index": 6,
+      "title": "GST on Health Insurance - Impact of GST on Medical Insurance Premium",
+      "link": "https://www.careinsurance.com/health-insurance/gst-on-health-insurance",
+      "snippet": "GST rate for health insurance on all individual policies (including family floater plans) is now 0%, effective 22 September 2025. The same exemption also applies to reinsurance of eligible policies.",
+      "source": "Care Insurance"
+    },
+    {
+      "index": 7,
+      "title": "Zero GST on Health Insurance Premiums starting from 22nd ... - Policybazaar",
+      "link": "https://www.policybazaar.com/health-insurance/gst-on-health-insurance-premium/",
+      "snippet": "But with the new GST rates in effect from September 22, 2025, anyone buying individual health plans, including family health insurance and senior citizen health insurance plans, is exempted from paying GST on premiums in India.",
+      "source": "Policybazaar"
+    },
+    {
+      "index": 8,
+      "title": "GST on health insurance premiums: Rate & how to calculate",
+      "link": "https://www.tatacapital.com/blog/insurance/gst-on-health-insurance-premium/",
+      "snippet": "No GST applies to individual health insurance plans. This includes family floater and senior citizen policies. However, there is an 18% GST charge on group or corporate health insurance plans. The following table explains the health insurance GST rate as per the 2025 update:",
+      "source": "Tata Capital"
+    },
+    {
+      "index": 9,
+      "title": "Impact of GST Exemption on Insurance Premiums - Tax Guru",
+      "link": "https://taxguru.in/goods-and-service-tax/impact-gst-exemption-insurance-premiums.html",
+      "snippet": "The decision, taken in the 56th GST Council meeting held on 3 September 2025 and notified on 17 September 2025, removes the 18% GST burden on such premiums, thereby reducing costs and improving affordability.",
+      "source": "Tax Guru"
+    }
+  ]
+}

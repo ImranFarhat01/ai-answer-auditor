@@ -1,0 +1,208 @@
+{
+  "search_metadata": {
+    "id": "6ac0aa8431aafe97bc0257b7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rT7wWBR3DsHig4C44K_sI_NVhOCsu23X17HqDOB-CBM/6ac0aa8431aafe97bc0257b7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rT7wWBR3DsHig4C44K_sI_NVhOCsu23X17HqDOB-CBM/6ac0aa8431aafe97bc0257b7.md",
+    "created_at": "2026-10-03 07:11:00 UTC",
+    "processed_at": "2026-10-03 07:11:00 UTC",
+    "bing_copilot_url": "https://www.bing.com/copilotsearch?q=What+is+the+current+repo+rate+set+by+the+Reserve+Bank+of+India%3F&FORM=CSSCOP",
+    "raw_html_file": "https://serpapi.com/searches/rT7wWBR3DsHig4C44K_sI_NVhOCsu23X17HqDOB-CBM/6ac0aa8431aafe97bc0257b7.html",
+    "total_time_taken": 14.5
+  },
+  "search_parameters": {
+    "q": "What is the current repo rate set by the Reserve Bank of India?",
+    "engine": "bing_copilot"
+  },
+  "search_information": {},
+  "header": "The current repo rate set by the Reserve Bank of India (RBI) is 5.25%.",
+  "text_blocks": [
+    {
+      "type": "heading",
+      "snippet": "Overview",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "snippet": "The repo rate is the interest rate at which commercial banks borrow funds from the RBI by pledging government securities as collateral. The RBI uses the repo rate as a primary tool to manage liquidity, inflation, and overall credit availability in the economy BankBazaar+1 .",
+      "snippet_highlighted_words": [
+        "repo rate"
+      ],
+      "reference_indexes": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Policy Rates",
+      "level": 3
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Repo Rate: 5.25%",
+          "snippet_highlighted_words": [
+            "Repo Rate"
+          ]
+        },
+        {
+          "snippet": "Standing Deposit Facility (SDF) Rate: 5.00%",
+          "snippet_highlighted_words": [
+            "Standing Deposit Facility (SDF) Rate"
+          ]
+        },
+        {
+          "snippet": "Marginal Standing Facility (MSF) Rate / Bank Rate: 5.50% 2",
+          "snippet_highlighted_words": [
+            "Marginal Standing Facility (MSF) Rate / Bank Rate"
+          ],
+          "reference_indexes": [
+            0,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Recent Updates",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "snippet": "The repo rate was last revised on 5 December 2025, when the RBI cut it by 25 basis points from 5.50% to 5.25% to support strong economic growth while maintaining low inflation BankBazaar . The Monetary Policy Committee (MPC) in its meeting in June 2026 kept the repo rate unchanged at 5.25%, maintaining a neutral stance in consideration of inflation and growth forecasts ClearTax .",
+      "snippet_highlighted_words": [
+        "5 December 2025",
+        "June 2026"
+      ],
+      "reference_indexes": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Significance",
+      "level": 3
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Impact on Borrowers: Changes in repo rate affect lending rates, EMIs on loans, and overall borrowing costs across the economy.",
+          "snippet_highlighted_words": [
+            "Impact on Borrowers"
+          ]
+        },
+        {
+          "snippet": "Inflation Management: A higher repo rate makes borrowing costlier and can curb inflation, while a lower repo rate encourages lending and investment.",
+          "snippet_highlighted_words": [
+            "Inflation Management"
+          ]
+        },
+        {
+          "snippet": "Economic Growth: Lower repo rates can support credit flow, boost investment, and encourage consumer spending 1 .",
+          "snippet_highlighted_words": [
+            "Economic Growth"
+          ],
+          "reference_indexes": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "In summary, the current repo rate of 5.25% reflects RBI's policy to balance growth and inflation while providing liquidity support to the banking system Reserve Bank of India+2 .",
+      "snippet_highlighted_words": [
+        "current repo rate of 5.25%"
+      ],
+      "reference_indexes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "references": [
+    {
+      "index": 0,
+      "title": "Home | Official website of Reserve Bank of India",
+      "link": "https://www.rbi.org.in/home.aspx//Scripts/Home.aspx/Webservice/Scripts/Statistics.aspx",
+      "snippet": "Data on Forex inflows via FCNR (B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
+      "source": "Reserve Bank of India"
+    },
+    {
+      "index": 1,
+      "title": "Check the Current Repo Rate 2026 - BankBazaar",
+      "link": "https://www.bankbazaar.com/home-loan/repo-rate.html",
+      "snippet": "On 5 December 2025, the Reserve Bank of India (RBI) reduced the repo rate of 5.50% by 25 basis points, bringing the repo rate down to 5.25%. The reverse repo rate stands unchanged at 3.35%.The Bank Rate and the Marginal Standing Facility (MSF) rate has changed to 5.55%. The current Standing Deposit Facility Rate is 5.00%.",
+      "source": "BankBazaar"
+    },
+    {
+      "index": 2,
+      "title": "Repo Rate 2026: Current, Reverse, SDF, Meaning & Monetary Policy",
+      "link": "https://cleartax.in/s/repo-rate",
+      "snippet": "Get the latest Repo & Reverse Repo Rate 2026, their meaning, history, impact on the economy, and RBI’s monetary policy updates.",
+      "source": "ClearTax"
+    },
+    {
+      "index": 3,
+      "title": "RBI Repo Rate Today: 5.25% | History Since 2014, Next MPC Meeting ...",
+      "link": "https://indiainflation.com/rbi/repo-rate",
+      "snippet": "Reserve Bank of India · monetary policy RBI repo rate today: 5.25 % The repo rate is 5.25%, unchanged since RBI cut it by 25 basis points on 5 December 2025. The Monetary Policy Committee held it at its latest meeting on 5 August 2026; the next decision is due on 7 October 2026. With CPI inflation at 4.82% (August 2026), the real repo rate is about 0.43%.",
+      "source": "indiainflation.com"
+    },
+    {
+      "index": 4,
+      "title": "RBI Policy Rates Dashboard — Repo Rate, CRR, SLR & More | Bankopedia ...",
+      "link": "https://www.bankopedia.co.in/rbi-rates",
+      "snippet": "All key monetary policy rates set by the Reserve Bank of India — updated after every MPC meeting. Repo Rate, Reverse Repo, CRR, SLR, MSF Rate, and Bank Rate in one place.",
+      "source": "bankopedia.co.in"
+    },
+    {
+      "index": 5,
+      "title": "RBI Policy Repo Rate | Policy rate Indian Central Bank - Global-Rates.com",
+      "link": "https://www.global-rates.com/en/interest-rates/central-banks/13/indian-rbi-policy-repo-rate/",
+      "snippet": "This page shows the current and historic values of the Policy Repo Rate as set by the Indian Central Bank (Reserve Bank of India, RBI). The Policy Repo Rate is often regarded as the most important interest rate of the RBI.",
+      "source": "Global-Rates.com"
+    },
+    {
+      "index": 6,
+      "title": "Current Repo & Reverse Repo Rate - History, Impact & Meaning",
+      "link": "https://savetaxs.com/blog/repo-rate",
+      "snippet": "Understand the current repo and reverse repo rates, their historical trends, and impact on loans, EMIs, inflation, and the Indian economy.",
+      "source": "savetaxs.com"
+    },
+    {
+      "index": 7,
+      "title": "RBI Repo Rate - Charts & Trends | ChartForest",
+      "link": "https://chartforest.com/data/rbi-monetary-policy/rbi-repo-rate/",
+      "snippet": "MPC held its 62nd meeting from August 3–5, 2026, chaired by Governor Sanjay Malhotra. Repo rate kept unchanged at 5.25% — unanimous decision. SDF at 5.00%; MSF and Bank Rate at 5.50%. Policy stance retained as neutral. Rate has now been held steady since the last change in December 2025.",
+      "source": "chartforest.com"
+    },
+    {
+      "index": 8,
+      "title": "CRR 3.00% | SLR 18.00% | Repo 5.25% — RBI Rates Today - Craytheon",
+      "link": "https://craytheon.com/charts/rbi-policy-rates/",
+      "snippet": "Understanding RBI Policy Rates The Reserve Bank of India (RBI) uses monetary policy tools to control inflation, manage liquidity, and ensure financial stability. These rates directly influence borrowing costs for banks, businesses, and consumers.",
+      "source": "Craytheon"
+    },
+    {
+      "index": 9,
+      "title": "Current Repo Rate in India 2026 | RBI Policy Updates & EMI Calculator ...",
+      "link": "https://www.smcinsurance.com/finance/articles/repo-rate-india",
+      "snippet": "What is the current repo rate in India? The current repo rate in India is 5.25% (as of April 8, 2026). The RBI's Monetary Policy Committee (MPC) held the rate unchanged at its 60th meeting (April 6–8, 2026), maintaining a neutral policy stance.",
+      "source": "smcinsurance.com"
+    },
+    {
+      "index": 10,
+      "title": "Current Repo & Reverse Repo Rate 2026 | WealthSure",
+      "link": "https://wealthsure.in/articles/tax/current-repo-and-reverse-repo-rate-2026",
+      "snippet": "As of the June 2026 rate context used in this guide, the RBI policy repo rate is 5.25% and the reverse repo rate is 3.35%. The Standing Deposit Facility rate is 5.00%, while the Marginal Standing Facility and Bank Rate are around 5.50%.",
+      "source": "wealthsure.in"
+    }
+  ]
+}

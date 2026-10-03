@@ -1,0 +1,103 @@
+{
+  "search_metadata": {
+    "id": "6ac0aa71217ade32c97162e7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/erbL7MB76iDdK2iC9GJesmTKWgVsj94lTTD8C7wI3Uo/6ac0aa71217ade32c97162e7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/erbL7MB76iDdK2iC9GJesmTKWgVsj94lTTD8C7wI3Uo/6ac0aa71217ade32c97162e7.md",
+    "created_at": "2026-10-03 07:10:41 UTC",
+    "processed_at": "2026-10-03 07:10:41 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=What+is+the+current+repo+rate+set+by+the+Reserve+Bank+of+India%3F&udm=50",
+    "raw_html_file": "https://serpapi.com/searches/erbL7MB76iDdK2iC9GJesmTKWgVsj94lTTD8C7wI3Uo/6ac0aa71217ade32c97162e7.html",
+    "prettify_html_file": "https://serpapi.com/searches/erbL7MB76iDdK2iC9GJesmTKWgVsj94lTTD8C7wI3Uo/6ac0aa71217ade32c97162e7.prettify",
+    "total_time_taken": 19.47
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "What is the current repo rate set by the Reserve Bank of India?",
+    "device": "desktop"
+  },
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of October 2026, the current repo rate set by the Reserve Bank of India (RBI) stands at $5.25\\%$.",
+      "snippet_latex": [
+        "5.25\\%"
+      ],
+      "snippet_highlighted_words": [
+        "October 2026"
+      ],
+      "reference_indexes": [
+        0
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Key monetary policy rates currently in effect:"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Repo Rate: 5.25%"
+        },
+        {
+          "snippet": "Reverse Repo Rate: 3.35%"
+        },
+        {
+          "snippet": "Marginal Standing Facility (MSF) Rate: 5.50%"
+        },
+        {
+          "snippet": "Standing Deposit Facility (SDF) Rate: 5.00%"
+        },
+        {
+          "snippet": "Bank Rate: 5.50%",
+          "reference_indexes": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "The next Monetary Policy Committee (MPC) meeting is scheduled for October 5–7, 2026, where a potential rate adjustment is being anticipated by analysts.",
+      "reference_indexes": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like me to set up a task to notify you as soon as the Reserve Bank of India announces the outcome of the upcoming October MPC meeting?"
+    }
+  ],
+  "references": [
+    {
+      "index": 0,
+      "title": "What is Repo Rate? Meaning, Current Rates and Impact",
+      "link": "https://www.bajajhousingfinance.in/repo-rate",
+      "snippet": "As per the announcement made by the Reserve Bank of India (RBI) on 05 August 2026, the current Repo Rate is 5.25%. The Reverse Repo Rate is 3.35%.",
+      "source": "Bajaj Housing Finance Ltd",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bajajhousingfinance.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdRTPI8pcmMUO3cpSvmgbB6GWKiXyMU-qCoAVIz1Vuic13W7ityG_08TtSHdFaPUing1dQDu-5_fGrEJIPiAiw3oEe7VZMkWiRVGa"
+    },
+    {
+      "index": 1,
+      "title": "RBI MPC Meeting: SBI Research, BofA Predict Repo Rate ...",
+      "link": "https://www.etvbharat.com/en/business/rbi-mpc-meeting-sbi-research-bofa-predict-repo-rate-hike-announcement-enn26100204565",
+      "snippet": "The RBI's Monetary Policy Committee is scheduled to meet from October 5 to 7. Currently, the Repo Rate stands at 5.25 per cent. it will rise to 6.25%.",
+      "source": "ETV Bharat",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4FFBpn4JBZjCX2lqy73JExgbWhkZyRuKcPHg2WcKFzLUgxYAc4acbUadwCGQZfybfBihuVG_BhBgTxfMYiB_MxUsWks9VnhhbpeFV"
+    },
+    {
+      "index": 2,
+      "title": "RBI May Raise Repo Rate by 25 Bps to 5.50% in October as ...",
+      "link": "https://www.kotakneo.com/news/regulations/rbi-may-raise-repo-rate-by-25-bps-in-october/",
+      "snippet": "The Monetary Policy Committee is scheduled to meet between 5 and 7 October. Its decision will be announced on 7 October.",
+      "source": "Kotak Neo",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.kotakneo.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjeEWf-zy2WKLSA0SgV9e7-xmSzB0CwHIef53LU5nf19_K28lyNGsc4UgfvqyAm_5rzuK0OCzLun07N6qy-gZVEa7Qs-7yfRMCMazB"
+    }
+  ],
+  "reconstructed_markdown": "As of October 2026, the current repo rate set by the Reserve Bank of India \\(RBI\\) stands at $5.25\\%$. [0]\n\nKey monetary policy rates currently in effect:\n\n- Repo Rate: 5.25%\n- Reverse Repo Rate: 3.35%\n- Marginal Standing Facility \\(MSF\\) Rate: 5.50%\n- Standing Deposit Facility \\(SDF\\) Rate: 5.00%\n- Bank Rate: 5.50% [0]\n\nThe next Monetary Policy Committee \\(MPC\\) meeting is scheduled for October 5–7, 2026, where a potential rate adjustment is being anticipated by analysts. [1] [2]\n\nWould you like me to set up a task to notify you as soon as the Reserve Bank of India announces the outcome of the upcoming October MPC meeting?\n\n\n### References\n\n[0] [What is Repo Rate? Meaning, Current Rates and Impact](https://www.google.com/goto?url=CAESZwHrOzAV7SMhrCMvDXlAUOrPzgWJIXHq6f_vUhQmnncm9-1lHLwwuquw0m0Z-ZhAepTWW9-MW4BYPQW29NYZiaYvmewDoLzdzgIb3dENrvT361IgiFe2GIAOBL4t1bTxly4ykDT2HEc) — As per the announcement made by the Reserve Bank of India \\(RBI\\) on 05 August 2026, the current Repo Rate is 5.25%. The Reverse Repo Rate is 3.35%.\n\n[1] [RBI MPC Meeting: SBI Research, BofA Predict Repo Rate ...](https://www.google.com/goto?url=CAEStQEB6zswFb5FArPl9cdtuWSyZ17ZXBpH3CLgX_4MmZeV78FHgUCrSHaCstylNUZ2Q9IUvxPkhXDf-lPzHHIcmvfisivdeeHgGd2vBmo9nVg7HHKCiopV9a9tGnNcn7aHuxoxJPjHQi6XvCWmvh3rdYppVfT-fJd6jpbXQog7lUIWjX9KZHby1sLN9DSFcmez0DoW13_pptQ3vHxO9audbAOQttagkCuxfAH3NW4HUe0AbgckaTXW) — The RBI's Monetary Policy Committee is scheduled to meet from October 5 to 7. Currently, the Repo Rate stands at 5.25 per cent. it will rise to 6.25%.\n\n[2] [RBI May Raise Repo Rate by 25 Bps to 5.50% in October as ...](https://www.google.com/goto?url=CAESkgEB6zswFRrKmuXfwIh7bYVnUhz_Dq9odz7lbkGx--T7VklwXVvH0OvdZN3dIM4PjDKNHOydUL2xdL6HMKv0_deQ5BfPEivCTc336DPWpZvY4AGM0E4QgS5ZznJZCVwEc02UebJqM8nwh5RMZQ2djvqunsQbSCEjq7ZlCiqMrpg0PKPWDYZzTgbAvov93u_GsRsrzA) — The Monetary Policy Committee is scheduled to meet between 5 and 7 October. Its decision will be announced on 7 October.\n"
+}

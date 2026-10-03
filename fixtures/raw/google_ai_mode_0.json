@@ -1,0 +1,97 @@
+{
+  "search_metadata": {
+    "id": "6ac0a7c7c203482fb1e1a45e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/34mzaNn0LEqHr2LtRkCF6x4r_aGw5-nje63tDVHRrxw/6ac0a7c7c203482fb1e1a45e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/34mzaNn0LEqHr2LtRkCF6x4r_aGw5-nje63tDVHRrxw/6ac0a7c7c203482fb1e1a45e.md",
+    "created_at": "2026-10-03 06:59:19 UTC",
+    "processed_at": "2026-10-03 06:59:19 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Is+GST+charged+on+individual+health+insurance+premiums+in+India%3F&udm=50",
+    "raw_html_file": "https://serpapi.com/searches/34mzaNn0LEqHr2LtRkCF6x4r_aGw5-nje63tDVHRrxw/6ac0a7c7c203482fb1e1a45e.html",
+    "prettify_html_file": "https://serpapi.com/searches/34mzaNn0LEqHr2LtRkCF6x4r_aGw5-nje63tDVHRrxw/6ac0a7c7c203482fb1e1a45e.prettify",
+    "total_time_taken": 13.67
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Is GST charged on individual health insurance premiums in India?",
+    "device": "desktop"
+  },
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "No, GST is not charged on individual health insurance premiums in India.",
+      "reference_indexes": [
+        0
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Individual Policies: Effective from September 22, 2025, the Goods and Services Tax (GST) rate on all individual health insurance policies (including family floater and senior citizen plans) was reduced from 18% to zero percent, making them fully exempt from GST.",
+          "reference_indexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "snippet": "Group/Corporate Policies: Keep in mind that employer-provided, group, or corporate health insurance policies still attract an 18% GST rate.",
+          "reference_indexes": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "For further details, you can consult the official announcement on the Department of Financial Services, Ministry of Finance or read the comprehensive breakdown on Tata Capital.",
+      "snippet_links": [
+        {
+          "text": "Department of Financial Services, Ministry of Finance",
+          "link": "https://financialservices.gov.in/exemption-gst-all-individual-life-insurance-and-health-insurance-policies"
+        },
+        {
+          "text": "Tata Capital",
+          "link": "https://www.tatacapital.com/blog/insurance/gst-on-health-insurance-premium/"
+        }
+      ],
+      "reference_indexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to know about the tax benefits available on health insurance premiums under Section 80D of the Income Tax Act?"
+    }
+  ],
+  "references": [
+    {
+      "index": 0,
+      "title": "GST on Health Insurance: Rate, Exemption & Calculation",
+      "link": "https://www.tatacapital.com/blog/insurance/gst-on-health-insurance-premium/",
+      "snippet": "At a glance: individual, family floater, and senior citizen health insurance carry 0% GST (fully exempt), while group and corporate health insurance still carries...",
+      "source": "Tata Capital",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tatacapital.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSc4s20nd4sDjn8RvYjDaBlVdkiux_5jr63RIQb4RF4fR0ZFq36IZkbSKSWAcV8a3pBBUWkfmO8gQBNzKiR9y63-0zpCDSd_Am8VuiS"
+    },
+    {
+      "index": 1,
+      "title": "Exemption of GST on all Individual Life Insurance and Health Insurance Policies | Department of Financial Services | Minsitry of Finance | Government of India",
+      "link": "https://financialservices.gov.in/exemption-gst-all-individual-life-insurance-and-health-insurance-policies",
+      "snippet": "GST rate on all Individual Life Insurance and Individual Health Insurance policies, including their reinsurance, reduced from 18% to zero percent.",
+      "source": "Department of Financial Services, Ministry of Finance",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://financialservices.gov.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    {
+      "index": 2,
+      "title": "New GST on Medical Insurance 2026: 0% / 18% Rate on Health Insurance",
+      "link": "https://busy.in/gst-rates/medical-insurance/",
+      "snippet": "From 22 Sep 2025: Specified individual, family floater, and senior citizen health insurance policies are 0% exempt from GST.",
+      "source": "BUSY",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://busy.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    }
+  ],
+  "reconstructed_markdown": "No, GST is not charged on individual health insurance premiums in India. [0]\n\n- Individual Policies: Effective from September 22, 2025, the Goods and Services Tax \\(GST\\) rate on all individual health insurance policies \\(including family floater and senior citizen plans\\) was reduced from 18% to zero percent, making them fully exempt from GST. [0] [1] [2]\n- Group/Corporate Policies: Keep in mind that employer\\-provided, group, or corporate health insurance policies still attract an 18% GST rate. [0]\n\nFor further details, you can consult the official announcement on the [Department of Financial Services, Ministry of Finance](https://financialservices.gov.in/exemption-gst-all-individual-life-insurance-and-health-insurance-policies) or read the comprehensive breakdown on [Tata Capital](https://www.tatacapital.com/blog/insurance/gst-on-health-insurance-premium/). [0] [1]\n\nWould you like to know about the tax benefits available on health insurance premiums under Section 80D of the Income Tax Act?\n\n\n### References\n\n[0] [GST on Health Insurance: Rate, Exemption & Calculation](https://www.google.com/goto?url=CAEShgEB6zswFY-_zIgF6tsdqeCnaYQfC5GKDjyfiy5asB38UF_HdSZd7ZG8QhFQ1khUUAwovZZ8gr4IRxV4BORwbhXcdcwaETHZ5jZkARSwGs6_F2Kd_d3KEZoq8g1BkDpLJt6xtzWGGcLY2dOYvtkIyGkwTiejFO6dbBF13cIuCJaTAkoTxeO2oA) — At a glance: individual, family floater, and senior citizen health insurance carry 0% GST \\(fully exempt\\), while group and corporate health insurance still carries...\n\n[1] [Exemption of GST on all Individual Life Insurance and Health Insurance Policies \\| Department of Financial Services \\| Minsitry of Finance \\| Government of India](https://www.google.com/goto?url=CAESpQEB6zswFR5okr9ofBQbv2mv2S9FAXTxvq12GqgF0FZtn_FBPphqYlfWX0x2zjIJKOnK_Nt0B1a6QbHh1OqD_nRla0gXr7bMRLsF2f8BOS4eYnKLvH1wZ5cmC_d0e_mHgoJeZkeISnnKuBc9rkhqewCNAzqpPQxVvPKAlYNiRv0V8dvnOpL_s9FDrMwFPjdeYpXYY8CtUhAnopvVHqFn6dqMoJVQpKw) — GST rate on all Individual Life Insurance and Individual Health Insurance policies, including their reinsurance, reduced from 18% to zero percent.\n\n[2] [New GST on Medical Insurance 2026: 0% / 18% Rate on Health Insurance](https://www.google.com/goto?url=CAESZwHrOzAVqs0__nEVGJMMofMdsXl5CihRJbn21szeDBO4r2OjwHMLj6KzaTWlAAT02e-FufxfOGXoAw1-ujivwY73fZf1MUm4IH7eUPhcZhNUMXdOlLkaaEWmz7uEWSTA9bAtzUu1Xns) — From 22 Sep 2025: Specified individual, family floater, and senior citizen health insurance policies are 0% exempt from GST.\n"
+}
