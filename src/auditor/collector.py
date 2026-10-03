@@ -67,9 +67,16 @@ def fetch_engine_answer(client: serpapi.Client, engine: str, query: str) -> Engi
         references=_parse_references(res.get("references", [])),
     )
 
-
 def fetch_all_engines(query: str, api_key: str | None = None) -> list[EngineAnswer]:
-    """Call every engine in ENGINES for one query, one at a time (no parallelism yet)."""
+    """Call every engine in ENGINES for one query, in parallel."""
+    from concurrent.futures import ThreadPoolExecutor
+
     key = api_key or os.environ["SERPAPI_API_KEY"]
     client = serpapi.Client(api_key=key, timeout=60)
-    return [fetch_engine_answer(client, engine, query) for engine in ENGINES]
+
+    with ThreadPoolExecutor(max_workers=len(ENGINES)) as pool:
+        futures = [
+            pool.submit(fetch_engine_answer, client, engine, query)
+            for engine in ENGINES
+        ]
+        return [f.result() for f in futures]
