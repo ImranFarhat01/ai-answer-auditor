@@ -112,3 +112,16 @@ def verify_claim(
         return VerificationResult(
             claim=claim, verdict="insufficient_evidence", reason="", best_source="", error=str(e)
         )
+
+
+def verify_claims(
+    claims: list[str],
+    serpapi_client: serpapi.Client,
+    max_claims: int = 8,
+    groq_api_key: str | None = None,
+) -> list[VerificationResult]:
+    """Verify a list of claims, up to max_claims, to control credit spend."""
+    results = []
+    for claim in claims[:max_claims]:
+        results.append(verify_claim(claim, serpapi_client, groq_api_key))
+    return results
