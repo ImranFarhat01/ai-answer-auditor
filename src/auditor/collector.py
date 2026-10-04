@@ -6,6 +6,8 @@ from dataclasses import dataclass, field
 
 import serpapi
 
+from auditor.cache import cached
+
 ENGINES = ["google_ai_mode", "bing_copilot"]
 
 
@@ -47,10 +49,17 @@ def _parse_references(raw_refs: list) -> list[Reference]:
     return refs
 
 
+@cached("engine_answers")
+def _raw_engine_search(engine: str, query: str, api_key: str) -> dict:
+    """The actual cached SerpApi call. Returns a plain dict, safe to cache."""
+    client = serpapi.Client(api_key=api_key, timeout=60)
+    return client.search({"engine": engine, "q": query}).as_dict()
+
+
 def fetch_engine_answer(client: serpapi.Client, engine: str, query: str) -> EngineAnswer:
     """Call one AI engine for one query and return a normalized result."""
     try:
-        res = client.search({"engine": engine, "q": query}).as_dict()
+        res = _raw_engine_search(engine, query, client.api_key)
     except Exception as e:
         return EngineAnswer(engine=engine, query=query, header="", error=str(e))
 
