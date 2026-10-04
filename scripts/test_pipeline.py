@@ -13,7 +13,7 @@ from auditor.arbiter import arbitrate
 
 load_dotenv()
 
-QUERY = "Is the sun a planet?"
+QUERY = "What is the current repo rate set by the Reserve Bank of India?"
 
 print("Step 1: collecting engine answers...")
 engine_answers = fetch_all_engines(QUERY)
@@ -35,7 +35,7 @@ for answer in engine_answers:
         print("   -", c)
 
     print("Step 3: verifying claims (max 3 for this test)...")
-    verified = verify_claims(extracted.claims, serpapi_client, max_claims=3)
+    verified = verify_claims(extracted.claims, serpapi_client, max_claims=5)
     for v in verified:
         print(f"   [{v.verdict}] {v.claim}")
 
