@@ -1,0 +1,327 @@
+{
+  "search_metadata": {
+    "id": "6ac1f726ea58e8a1962df2de",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/GHWLNbxKlal2wtSnWeGbdm9wrh4QAOr0jHNX-KYqlRU/6ac1f726ea58e8a1962df2de.json",
+    "markdown_endpoint": "https://serpapi.com/searches/GHWLNbxKlal2wtSnWeGbdm9wrh4QAOr0jHNX-KYqlRU/6ac1f726ea58e8a1962df2de.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/GHWLNbxKlal2wtSnWeGbdm9wrh4QAOr0jHNX-KYqlRU/6ac1f726ea58e8a1962df2de.json_with_pixel_position",
+    "created_at": "2026-10-04 06:50:14 UTC",
+    "processed_at": "2026-10-04 06:50:14 UTC",
+    "google_url": "https://www.google.com/search?q=The+Marginal+Standing+Facility+%28MSF%29+rate+listed+by+the+RBI+is+5.50%25.&oq=The+Marginal+Standing+Facility+%28MSF%29+rate+listed+by+the+RBI+is+5.50%25.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/GHWLNbxKlal2wtSnWeGbdm9wrh4QAOr0jHNX-KYqlRU/6ac1f726ea58e8a1962df2de.html",
+    "total_time_taken": 0.43
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "The Marginal Standing Facility (MSF) rate listed by the RBI is 5.50%.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "The Marginal Standing Facility (MSF) rate listed by the RBI is 5.50%.",
+    "total_results": 7240000000,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Do you need standing to sue?",
+      "type": "ai_overview",
+      "page_token": "JgR8xHicHdBdboIwAADg7DI-yp-6zcQs67CwOquUtkBfFigq2kqJMhm87S471U6zZQ_fBb6vb32s1c9dWrVtc51bVtd144MxB70bS3O28mtfS0vmWhe5VPPZ_cx52svF8tqBF9OBiDUN94kdU5IJW99SW5CIPQwJFX0O1x4Ppn_QhXGdFnXVSf7cZqzJcK0J0eW2dJv1hgNMfbQqHRRgLVZsEBN2EkyG3CmVPrIEmcKHHXFAva6JS5ZRS1XUviWlKzlwaVjduF2akk2zHSyTXRB58YCdDa0AHeAqH4AiqXIjB_a5jyoe4pC4dgztxhUKVUXv6LjG2yLQa8rBVKgWSg5JcESAhLjfJIKIsPrEvviIlLGzGuZYI6c4Pw6R4iSjr5PsBL3RXt4W3uh_bPG-P7fz5mIOv2HLeG0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JgR8xHicHdBdboIwAADg7DI-yp-6zcQs67CwOquUtkBfFigq2kqJMhm87S471U6zZQ_fBb6vb32s1c9dWrVtc51bVtd144MxB70bS3O28mtfS0vmWhe5VPPZ_cx52svF8tqBF9OBiDUN94kdU5IJW99SW5CIPQwJFX0O1x4Ppn_QhXGdFnXVSf7cZqzJcK0J0eW2dJv1hgNMfbQqHRRgLVZsEBN2EkyG3CmVPrIEmcKHHXFAva6JS5ZRS1XUviWlKzlwaVjduF2akk2zHSyTXRB58YCdDa0AHeAqH4AiqXIjB_a5jyoe4pC4dgztxhUKVUXv6LjG2yLQa8rBVKgWSg5JcESAhLjfJIKIsPrEvviIlLGzGuZYI6c4Pw6R4iSjr5PsBL3RXt4W3uh_bPG-P7fz5mIOv2HLeG0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FXaDNkRU5UVGpZdE9FOTRVVXBCUXpCSVRHRk9hMjVFUm5CWVJsOWxhVlF3VjJWdVduUnFVVTh0YzBadlJtVlNUWE5HVjNKRU0wOVVRazV4TkZSc2FVTktRMGRuU0Vab05GbHRNbmxTYjNCQlVYTlBRamRCU0hSZlp4SVhTblptUW1GdkxXVktjMDlzYVV4TlVIbG1TMFZ4VVZFYUlrRkVjM0k1WmxGWVJVVjRkVU15YkdoVmNWTXpSbmRyZUd4S05YWnlXVWswZG5jIiwiZmN2IjoiMyIsImVpIjoiSnZmQmFvLWVKc09saUxNUHlmS0VxUVEiLCJxYyI6IkNrSjBhR1VnYldGeVoybHVZV3dnYzNSaGJtUnBibWNnWm1GamFXeHBkSGtnYlhObUlISmhkR1VnYkdsemRHVmtJR0o1SUhSb1pTQnlZbWtnYVhNZ05TNDFNQ1VRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IkRvIHlvdSBuZWVkIHN0YW5kaW5nIHRvIHN1ZT8iLCJsayI6IkdodGtieUI1YjNVZ2JtVmxaQ0J6ZEdGdVpHbHVaeUIwYnlCemRXVSIsImJzIjoiYzVXT01RN0NNQXhGeFpxSk9SVEp3TVNhc2xaWldIb0M1cWd4cmFGTlJPS280dllFQmxvR2hCaTgyT181ZjFHSjR1amg3aE00UkF1UmpiUGtXbUFQTWFGV2E3bXkzLV9pS3NwVFp4aE1RT0R1T1FFUkF0NFNCUnpRY1lTekQ5QmphX3Ezck5WQnF2RnZUZFJpLXdxekhtTldtWm9lb1p3NkRXaWNWanU1R1g5Ui1kVy1qdFBPd0NVRmlwWWFKdTl5NXF5S1ZvV1VOSU1fMGVYaUFRIiwiaWQiOiJmY19KdmZCYW8tZUpzT2xpTE1QeWZLRXFRUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FXaDNkRU5UVGpZdE9FOTRVVXBCUXpCSVRHRk9hMjVFUm5CWVJsOWxhVlF3VjJWdVduUnFVVTh0YzBadlJtVlNUWE5HVjNKRU0wOVVRazV4TkZSc2FVTktRMGRuU0Vab05GbHRNbmxTYjNCQlVYTlBRamRCU0hSZlp4SVhTblptUW1GdkxXVktjMDlzYVV4TlVIbG1TMFZ4VVZFYUlrRkVjM0k1WmxGWVJVVjRkVU15YkdoVmNWTXpSbmRyZUd4S05YWnlXVWswZG5jIiwiZmN2IjoiMyIsImVpIjoiSnZmQmFvLWVKc09saUxNUHlmS0VxUVEiLCJxYyI6IkNrSjBhR1VnYldGeVoybHVZV3dnYzNSaGJtUnBibWNnWm1GamFXeHBkSGtnYlhObUlISmhkR1VnYkdsemRHVmtJR0o1SUhSb1pTQnlZbWtnYVhNZ05TNDFNQ1VRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IkRvIHlvdSBuZWVkIHN0YW5kaW5nIHRvIHN1ZT8iLCJsayI6IkdodGtieUI1YjNVZ2JtVmxaQ0J6ZEdGdVpHbHVaeUIwYnlCemRXVSIsImJzIjoiYzVXT01RN0NNQXhGeFpxSk9SVEp3TVNhc2xaWldIb0M1cWd4cmFGTlJPS280dllFQmxvR2hCaTgyT181ZjFHSjR1amg3aE00UkF1UmpiUGtXbUFQTWFGV2E3bXkzLV9pS3NwVFp4aE1RT0R1T1FFUkF0NFNCUnpRY1lTekQ5QmphX3Ezck5WQnF2RnZUZFJpLXdxekhtTldtWm9lb1p3NkRXaWNWanU1R1g5Ui1kVy1qdFBPd0NVRmlwWWFKdTl5NXF5S1ZvV1VOSU1fMGVYaUFRIiwiaWQiOiJmY19KdmZCYW8tZUpzT2xpTE1QeWZLRXFRUV81In0%3D"
+    },
+    {
+      "question": "What are the three requirements for legal standing?",
+      "type": "ai_overview",
+      "page_token": "jHQu_XicHZBdbqMwGADVy_SxMU6hTaRoJRITNU1IbfPZxi8VGAgF86ME5Ye3XqFn6Kn2NBvt-0gzmu9f-9XWfx9-ymHoT_PJ5HK5PB267mDzJ9M1k-R0a83EJNamiann3ovn_CnMgpyNvzwan0LfixVD3NqzHrULUzNSxPY7RVCuyucdzFgudJcTFuXSONyWnoCyTmXAsrZ2Qb5eZFRyqHWpq2CbYcHyKsYJbM7JaoNMsxsUtmq_dDhUm480uBNrVsB6FprWp6LydTyFMcWuw5TPOZymTAUOleGbRsJLbeBx7lCzYoKv0S2M6itfEUdUYafQbAAlPmIQ957-CCp81pjxfTArtjKrY6yve4gxkHC7w6ILUewmGBAps_es0ctYvg4a-jHC1z4iDs2l3t7dDFj3RYGNprINjG9I2syn9RAaskG8FXGKBMsCc0tHn4igd4E-Fua8mD7-f734LJph3h-7wz_nWoq_",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jHQu_XicHZBdbqMwGADVy_SxMU6hTaRoJRITNU1IbfPZxi8VGAgF86ME5Ye3XqFn6Kn2NBvt-0gzmu9f-9XWfx9-ymHoT_PJ5HK5PB267mDzJ9M1k-R0a83EJNamiann3ovn_CnMgpyNvzwan0LfixVD3NqzHrULUzNSxPY7RVCuyucdzFgudJcTFuXSONyWnoCyTmXAsrZ2Qb5eZFRyqHWpq2CbYcHyKsYJbM7JaoNMsxsUtmq_dDhUm480uBNrVsB6FprWp6LydTyFMcWuw5TPOZymTAUOleGbRsJLbeBx7lCzYoKv0S2M6itfEUdUYafQbAAlPmIQ957-CCp81pjxfTArtjKrY6yve4gxkHC7w6ILUewmGBAps_es0ctYvg4a-jHC1z4iDs2l3t7dDFj3RYGNprINjG9I2syn9RAaskG8FXGKBMsCc0tHn4igd4E-Fua8mD7-f734LJph3h-7wz_nWoq_",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FXaDNkRU5UVGpZdE9FOTRVVXBCUXpCSVRHRk9hMjVFUm5CWVJsOWxhVlF3VjJWdVduUnFVVTh0YzBadlJtVlNUWE5HVjNKRU0wOVVRazV4TkZSc2FVTktRMGRuU0Vab05GbHRNbmxTYjNCQlVYTlBRamRCU0hSZlp4SVhTblptUW1GdkxXVktjMDlzYVV4TlVIbG1TMFZ4VVZFYUlrRkVjM0k1WmxGWVJVVjRkVU15YkdoVmNWTXpSbmRyZUd4S05YWnlXVWswZG5jIiwiZmN2IjoiMyIsImVpIjoiSnZmQmFvLWVKc09saUxNUHlmS0VxUVEiLCJxYyI6IkNrSjBhR1VnYldGeVoybHVZV3dnYzNSaGJtUnBibWNnWm1GamFXeHBkSGtnYlhObUlISmhkR1VnYkdsemRHVmtJR0o1SUhSb1pTQnlZbWtnYVhNZ05TNDFNQ1VRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0aHJlZSByZXF1aXJlbWVudHMgZm9yIGxlZ2FsIHN0YW5kaW5nPyIsImxrIjoiYzVNeUtzOUlMRkZJTEVwVktNa0E0YUxVVklXaTFNTFN6S0xVM05TOGttS0Z0UHdpaFp6VTlNUWNoZUtTeEx5VXpMeDBBQSIsImJzIjoiYzVXT01RN0NNQXhGeFpxSk9SVEp3TVNhc2xaWldIb0M1cWd4cmFGTlJPS280dllFQmxvR2hCaTgyT181ZjFHSjR1amg3aE00UkF1UmpiUGtXbUFQTWFGV2E3bXkzLV9pS3NwVFp4aE1RT0R1T1FFUkF0NFNCUnpRY1lTekQ5QmphX3Ezck5WQnF2RnZUZFJpLXdxekhtTldtWm9lb1p3NkRXaWNWanU1R1g5Ui1kVy1qdFBPd0NVRmlwWWFKdTl5NXF5S1ZvV1VOSU1fMGVYaUFRIiwiaWQiOiJmY19KdmZCYW8tZUpzT2xpTE1QeWZLRXFRUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FXaDNkRU5UVGpZdE9FOTRVVXBCUXpCSVRHRk9hMjVFUm5CWVJsOWxhVlF3VjJWdVduUnFVVTh0YzBadlJtVlNUWE5HVjNKRU0wOVVRazV4TkZSc2FVTktRMGRuU0Vab05GbHRNbmxTYjNCQlVYTlBRamRCU0hSZlp4SVhTblptUW1GdkxXVktjMDlzYVV4TlVIbG1TMFZ4VVZFYUlrRkVjM0k1WmxGWVJVVjRkVU15YkdoVmNWTXpSbmRyZUd4S05YWnlXVWswZG5jIiwiZmN2IjoiMyIsImVpIjoiSnZmQmFvLWVKc09saUxNUHlmS0VxUVEiLCJxYyI6IkNrSjBhR1VnYldGeVoybHVZV3dnYzNSaGJtUnBibWNnWm1GamFXeHBkSGtnYlhObUlISmhkR1VnYkdsemRHVmtJR0o1SUhSb1pTQnlZbWtnYVhNZ05TNDFNQ1VRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0aHJlZSByZXF1aXJlbWVudHMgZm9yIGxlZ2FsIHN0YW5kaW5nPyIsImxrIjoiYzVNeUtzOUlMRkZJTEVwVktNa0E0YUxVVklXaTFNTFN6S0xVM05TOGttS0Z0UHdpaFp6VTlNUWNoZUtTeEx5VXpMeDBBQSIsImJzIjoiYzVXT01RN0NNQXhGeFpxSk9SVEp3TVNhc2xaWldIb0M1cWd4cmFGTlJPS280dllFQmxvR2hCaTgyT181ZjFHSjR1amg3aE00UkF1UmpiUGtXbUFQTWFGV2E3bXkzLV9pS3NwVFp4aE1RT0R1T1FFUkF0NFNCUnpRY1lTekQ5QmphX3Ezck5WQnF2RnZUZFJpLXdxekhtTldtWm9lb1p3NkRXaWNWanU1R1g5Ui1kVy1qdFBPd0NVRmlwWWFKdTl5NXF5S1ZvV1VOSU1fMGVYaUFRIiwiaWQiOiJmY19KdmZCYW8tZUpzT2xpTE1QeWZLRXFRUV81In0%3D"
+    },
+    {
+      "question": "What does article 3 standing mean?",
+      "type": "ai_overview",
+      "page_token": "Cl35CXicHdBdToMwAADgeBkfHRQ2dcligqMMHCwttEBfTGnZH6VUt8nPm3fxVJ7GxO8I3_ePOunm9-7reL2ay3I26_v-4dB1B1U_iK6d8cuoxUxwpSoumuXicWG_7MXKv4Xe60foIWIMXWMrtdx-WxgkmoQhIDeUPoexn5Q7KlsKqB1rmHECh0zDeRXAU66QtcsNktYwMKXiyhE9B9HbLlNhtZFhGsgB66PLA4Z5llxSB0PU2A5phiGFapMXpYu1uTHIrBoyhQtvrNvog69lkTS-XbfCzQJzQ2fvVFqJpmDupedoR9SRySKy2ZQoEURupTHD5wSXQK4z0k9x4I5yoto_yjfZstcyf7oyYqYMDCbzbVTnbIsLiAnuTojgSZxVS5reqQAF8WibZB0hrj2QUritW6Yry2jkdCNC93vxtXLu_z9X7_v2ujSf3eEPM7iD3A",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Cl35CXicHdBdToMwAADgeBkfHRQ2dcligqMMHCwttEBfTGnZH6VUt8nPm3fxVJ7GxO8I3_ePOunm9-7reL2ay3I26_v-4dB1B1U_iK6d8cuoxUxwpSoumuXicWG_7MXKv4Xe60foIWIMXWMrtdx-WxgkmoQhIDeUPoexn5Q7KlsKqB1rmHECh0zDeRXAU66QtcsNktYwMKXiyhE9B9HbLlNhtZFhGsgB66PLA4Z5llxSB0PU2A5phiGFapMXpYu1uTHIrBoyhQtvrNvog69lkTS-XbfCzQJzQ2fvVFqJpmDupedoR9SRySKy2ZQoEURupTHD5wSXQK4z0k9x4I5yoto_yjfZstcyf7oyYqYMDCbzbVTnbIsLiAnuTojgSZxVS5reqQAF8WibZB0hrj2QUritW6Yry2jkdCNC93vxtXLu_z9X7_v2ujSf3eEPM7iD3A",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FXaDNkRU5UVGpZdE9FOTRVVXBCUXpCSVRHRk9hMjVFUm5CWVJsOWxhVlF3VjJWdVduUnFVVTh0YzBadlJtVlNUWE5HVjNKRU0wOVVRazV4TkZSc2FVTktRMGRuU0Vab05GbHRNbmxTYjNCQlVYTlBRamRCU0hSZlp4SVhTblptUW1GdkxXVktjMDlzYVV4TlVIbG1TMFZ4VVZFYUlrRkVjM0k1WmxGWVJVVjRkVU15YkdoVmNWTXpSbmRyZUd4S05YWnlXVWswZG5jIiwiZmN2IjoiMyIsImVpIjoiSnZmQmFvLWVKc09saUxNUHlmS0VxUVEiLCJxYyI6IkNrSjBhR1VnYldGeVoybHVZV3dnYzNSaGJtUnBibWNnWm1GamFXeHBkSGtnYlhObUlISmhkR1VnYkdsemRHVmtJR0o1SUhSb1pTQnlZbWtnYVhNZ05TNDFNQ1VRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBhcnRpY2xlIDMgc3RhbmRpbmcgbWVhbj8iLCJsayI6IkdpRjNhR0YwSUdSdlpYTWdZWEowYVdOc1pTQXpJSE4wWVc1a2FXNW5JRzFsWVc0IiwiYnMiOiJjNVdPTVE3Q01BeEZ4WnFKT1JUSndNU2FzbFpaV0hvQzVxZ3hyYUZOUk9LbzR2WUVCbG9HaEJpODJPXzVmMUdKNHVqaDdoTTRSQXVSamJQa1dtQVBNYUZXYTdteTMtX2lLc3BUWnhoTVFPRHVPUUVSQXQ0U0JSelFjWVN6RDlCamFfcTNyTlZCcXZGdlRkUmktd3F6SG1OV21ab2VvWnc2RFdpY1ZqdTVHWDlSLWRXLWp0UE93Q1VGaXBZYUp1OXk1cXlLVm9XVU5JTV8wZVhpQVEiLCJpZCI6ImZjX0p2ZkJhby1lSnNPbGlMTVB5ZktFcVFRXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FXaDNkRU5UVGpZdE9FOTRVVXBCUXpCSVRHRk9hMjVFUm5CWVJsOWxhVlF3VjJWdVduUnFVVTh0YzBadlJtVlNUWE5HVjNKRU0wOVVRazV4TkZSc2FVTktRMGRuU0Vab05GbHRNbmxTYjNCQlVYTlBRamRCU0hSZlp4SVhTblptUW1GdkxXVktjMDlzYVV4TlVIbG1TMFZ4VVZFYUlrRkVjM0k1WmxGWVJVVjRkVU15YkdoVmNWTXpSbmRyZUd4S05YWnlXVWswZG5jIiwiZmN2IjoiMyIsImVpIjoiSnZmQmFvLWVKc09saUxNUHlmS0VxUVEiLCJxYyI6IkNrSjBhR1VnYldGeVoybHVZV3dnYzNSaGJtUnBibWNnWm1GamFXeHBkSGtnYlhObUlISmhkR1VnYkdsemRHVmtJR0o1SUhSb1pTQnlZbWtnYVhNZ05TNDFNQ1VRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBhcnRpY2xlIDMgc3RhbmRpbmcgbWVhbj8iLCJsayI6IkdpRjNhR0YwSUdSdlpYTWdZWEowYVdOc1pTQXpJSE4wWVc1a2FXNW5JRzFsWVc0IiwiYnMiOiJjNVdPTVE3Q01BeEZ4WnFKT1JUSndNU2FzbFpaV0hvQzVxZ3hyYUZOUk9LbzR2WUVCbG9HaEJpODJPXzVmMUdKNHVqaDdoTTRSQXVSamJQa1dtQVBNYUZXYTdteTMtX2lLc3BUWnhoTVFPRHVPUUVSQXQ0U0JSelFjWVN6RDlCamFfcTNyTlZCcXZGdlRkUmktd3F6SG1OV21ab2VvWnc2RFdpY1ZqdTVHWDlSLWRXLWp0UE93Q1VGaXBZYUp1OXk1cXlLVm9XVU5JTV8wZVhpQVEiLCJpZCI6ImZjX0p2ZkJhby1lSnNPbGlMTVB5ZktFcVFRXzUifQ%3D%3D"
+    },
+    {
+      "question": "Is standing a jurisdictional requirement?",
+      "type": "ai_overview",
+      "page_token": "rgKcknicHdDNUsIwFEDh8WVcStMOiMwwjoWGFiVMQ3Kb3o0TU6CW_kSotLDzXXwqn0bH7dl95-u7fK8PPzfnvG3taTIYdF13t2-afbm9M0010KdLbQZGl-WbNofJ6H5EHndmGnxG_uwj8mNpLcy5s3HsWlQrF9QSsABHh5gyGl9MkF0lOfSmYHIbRi6EdJiJXGPhK6ysBFWWLwA1L-iZq_0V56WHiuqE5p-8zpms8cjgYWRIBuiBQMki7py6VCFJCQ3XSctFzavVfNkmxVO7CnohKl5zr3G0HF-4ZIXylq4Af6YJHYLjeJtDjtmCFhCy4zrETVrjM3dzH8BCLKPhNsi8IM-eswpnaTJuUdqrcHsrAhJvE3zhinLJm_dY8qspygoW_Qcs0P3zWLmwrhHspBPC_lqkCIQJjHvsbnfmPPVu_39OX3dVO7HHZv8LGs6C7g",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rgKcknicHdDNUsIwFEDh8WVcStMOiMwwjoWGFiVMQ3Kb3o0TU6CW_kSotLDzXXwqn0bH7dl95-u7fK8PPzfnvG3taTIYdF13t2-afbm9M0010KdLbQZGl-WbNofJ6H5EHndmGnxG_uwj8mNpLcy5s3HsWlQrF9QSsABHh5gyGl9MkF0lOfSmYHIbRi6EdJiJXGPhK6ysBFWWLwA1L-iZq_0V56WHiuqE5p-8zpms8cjgYWRIBuiBQMki7py6VCFJCQ3XSctFzavVfNkmxVO7CnohKl5zr3G0HF-4ZIXylq4Af6YJHYLjeJtDjtmCFhCy4zrETVrjM3dzH8BCLKPhNsi8IM-eswpnaTJuUdqrcHsrAhJvE3zhinLJm_dY8qspygoW_Qcs0P3zWLmwrhHspBPC_lqkCIQJjHvsbnfmPPVu_39OX3dVO7HHZv8LGs6C7g",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FXaDNkRU5UVGpZdE9FOTRVVXBCUXpCSVRHRk9hMjVFUm5CWVJsOWxhVlF3VjJWdVduUnFVVTh0YzBadlJtVlNUWE5HVjNKRU0wOVVRazV4TkZSc2FVTktRMGRuU0Vab05GbHRNbmxTYjNCQlVYTlBRamRCU0hSZlp4SVhTblptUW1GdkxXVktjMDlzYVV4TlVIbG1TMFZ4VVZFYUlrRkVjM0k1WmxGWVJVVjRkVU15YkdoVmNWTXpSbmRyZUd4S05YWnlXVWswZG5jIiwiZmN2IjoiMyIsImVpIjoiSnZmQmFvLWVKc09saUxNUHlmS0VxUVEiLCJxYyI6IkNrSjBhR1VnYldGeVoybHVZV3dnYzNSaGJtUnBibWNnWm1GamFXeHBkSGtnYlhObUlISmhkR1VnYkdsemRHVmtJR0o1SUhSb1pTQnlZbWtnYVhNZ05TNDFNQ1VRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IklzIHN0YW5kaW5nIGEganVyaXNkaWN0aW9uYWwgcmVxdWlyZW1lbnQ/IiwibGsiOiJHaHBwY3lCemRHRnVaR2x1WnlCcWRYSnBjMlJwWTNScGIyNWhiQSIsImJzIjoiYzVXT01RN0NNQXhGeFpxSk9SVEp3TVNhc2xaWldIb0M1cWd4cmFGTlJPS280dllFQmxvR2hCaTgyT181ZjFHSjR1amg3aE00UkF1UmpiUGtXbUFQTWFGV2E3bXkzLV9pS3NwVFp4aE1RT0R1T1FFUkF0NFNCUnpRY1lTekQ5QmphX3Ezck5WQnF2RnZUZFJpLXdxekhtTldtWm9lb1p3NkRXaWNWanU1R1g5Ui1kVy1qdFBPd0NVRmlwWWFKdTl5NXF5S1ZvV1VOSU1fMGVYaUFRIiwiaWQiOiJmY19KdmZCYW8tZUpzT2xpTE1QeWZLRXFRUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FXaDNkRU5UVGpZdE9FOTRVVXBCUXpCSVRHRk9hMjVFUm5CWVJsOWxhVlF3VjJWdVduUnFVVTh0YzBadlJtVlNUWE5HVjNKRU0wOVVRazV4TkZSc2FVTktRMGRuU0Vab05GbHRNbmxTYjNCQlVYTlBRamRCU0hSZlp4SVhTblptUW1GdkxXVktjMDlzYVV4TlVIbG1TMFZ4VVZFYUlrRkVjM0k1WmxGWVJVVjRkVU15YkdoVmNWTXpSbmRyZUd4S05YWnlXVWswZG5jIiwiZmN2IjoiMyIsImVpIjoiSnZmQmFvLWVKc09saUxNUHlmS0VxUVEiLCJxYyI6IkNrSjBhR1VnYldGeVoybHVZV3dnYzNSaGJtUnBibWNnWm1GamFXeHBkSGtnYlhObUlISmhkR1VnYkdsemRHVmtJR0o1SUhSb1pTQnlZbWtnYVhNZ05TNDFNQ1VRQUgyeUdEQV8iLCJxdWVzdGlvbiI6IklzIHN0YW5kaW5nIGEganVyaXNkaWN0aW9uYWwgcmVxdWlyZW1lbnQ%2FIiwibGsiOiJHaHBwY3lCemRHRnVaR2x1WnlCcWRYSnBjMlJwWTNScGIyNWhiQSIsImJzIjoiYzVXT01RN0NNQXhGeFpxSk9SVEp3TVNhc2xaWldIb0M1cWd4cmFGTlJPS280dllFQmxvR2hCaTgyT181ZjFHSjR1amg3aE00UkF1UmpiUGtXbUFQTWFGV2E3bXkzLV9pS3NwVFp4aE1RT0R1T1FFUkF0NFNCUnpRY1lTekQ5QmphX3Ezck5WQnF2RnZUZFJpLXdxekhtTldtWm9lb1p3NkRXaWNWanU1R1g5Ui1kVy1qdFBPd0NVRmlwWWFKdTl5NXF5S1ZvV1VOSU1fMGVYaUFRIiwiaWQiOiJmY19KdmZCYW8tZUpzT2xpTE1QeWZLRXFRUV81In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "QnsaFXiczVVbkqJIFF3ArKONmbALEHyUFUF0ZAIqqKX4KvWHSAFTlEcVoBT9N3uZzcwWZjWToCi-qrr7Y2IyApPMvPdyz817PH_-ZVvu5p_f_l6F4WvwRNNRFFHY87BtUrrn0CiIXZ1eenbg66tvgbf1ddMyeH3le45ZiHc8V9ADnimYFq_slhB5D6YS9Gyr0-3Hy7b0pqqFNASvLVBgrskX3tcBrdHkZ_OFE8mCCijTpZq10ev6gR23WjLFMixH9WjkEAPwnw4sAxVAIJAHyHetyKHwI9EkidjKQMp5wnTKeWNyDJNJVtN14340OQ0kr44BtHXLaUYAPB9jqXe9lfyis5_k7j4b4gWlK48Pxz4BAR9S-9Ty9mYKfT-audO7lZeIXx4iKZbUx6SoUuaCzz-j5u0Tmyh9a8mgD6tAjdT75U7cZSA44FlRP0YIko4YTHE7Wy0AQ3ZoA5P-ZeiFT6YSbekrPX3xg6SthVGd8RrxrD1j5y8VVB5sAlawoMgN1r1hm9UBrS-Ine0hwzS0lcZ8S9cltlRh6lzt8WvKJz04EirIE2oWrWYLiw2eFUB1KFjK2CTki5uvZLI7vtU9CRkS9PDGWXKPMrhuOkHwzpaHSyEdjiQgnddSaLSSYzHLixD-HYPt-UVmHoQlV2wSskxOGQOswkNSg9PdnaUpS8IpEeGsSXtXKOFlXxF_WczOutledEzkrFhYSRox-4JwWS9MYAikNDit00SX9qFOfFBBFwqD7LvHBJLaEy98hv1Ay5x3ksoktW9KhD4CHAxJecDwgCjJxTuAawiXMPEV7v14IU_ndkd8NuCNfrllldHmggV59rRWm_lMroqPbyOpuRXHa2-olRSvjYcD9TZbPGfxE_qj_9_4lKkT3qvTfT4JP8Inok74hjodyLDvpEydVOWgTvf51E4TOahT4p2pU_9gclKnaz4peT5l6vS4B3SpTj_NJ-kDPh3_s2_wiUC_xSf5Hp8ydcrxaXOpTnncJ3XK-PRr6qT-mjql9DL307lUbdf4vmSVorEtzia4vqirqPbmip5Rm4BJy2OiTyVr6YRPDjLsr5plPEFWCWPjq0Y2vCfTKLzxo5VZ7CIfWy6yi8MQuYbl4mID6ZZthXHx9-6w8UfRR6FZtK0gNI3iIi6GxGcA5aIVFCtUhfnCVqiCY_sez6DysD435hu443rNhjFi-6jUeZcru8XzSJamo2VYG-7ms-W0v9PKYq-FXKkjxzAu23bPbQKkNiqcGdqxK3Hhar6tdxqlxlrf-nXxnYvb8L2lRCP8fcqUuXJtW-u_PE6i6Wb6UhtjTWdmyhzNH5xV75V9qK5NqClSlOYV8LC6geKy-YaEccHxdZ50TRmDZxW8YKADYQZU0rhj5JE5AmqTNIIEWXLFhUBHmhns-Bp6ZLgqwcdWTYOroYKDw_iVL5cKgevzpX8Bn_BSng",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QnsaFXiczVVbkqJIFF3ArKONmbALEHyUFUF0ZAIqqKX4KvWHSAFTlEcVoBT9N3uZzcwWZjWToCi-qrr7Y2IyApPMvPdyz817PH_-ZVvu5p_f_l6F4WvwRNNRFFHY87BtUrrn0CiIXZ1eenbg66tvgbf1ddMyeH3le45ZiHc8V9ADnimYFq_slhB5D6YS9Gyr0-3Hy7b0pqqFNASvLVBgrskX3tcBrdHkZ_OFE8mCCijTpZq10ev6gR23WjLFMixH9WjkEAPwnw4sAxVAIJAHyHetyKHwI9EkidjKQMp5wnTKeWNyDJNJVtN14340OQ0kr44BtHXLaUYAPB9jqXe9lfyis5_k7j4b4gWlK48Pxz4BAR9S-9Ty9mYKfT-audO7lZeIXx4iKZbUx6SoUuaCzz-j5u0Tmyh9a8mgD6tAjdT75U7cZSA44FlRP0YIko4YTHE7Wy0AQ3ZoA5P-ZeiFT6YSbekrPX3xg6SthVGd8RrxrD1j5y8VVB5sAlawoMgN1r1hm9UBrS-Ine0hwzS0lcZ8S9cltlRh6lzt8WvKJz04EirIE2oWrWYLiw2eFUB1KFjK2CTki5uvZLI7vtU9CRkS9PDGWXKPMrhuOkHwzpaHSyEdjiQgnddSaLSSYzHLixD-HYPt-UVmHoQlV2wSskxOGQOswkNSg9PdnaUpS8IpEeGsSXtXKOFlXxF_WczOutledEzkrFhYSRox-4JwWS9MYAikNDit00SX9qFOfFBBFwqD7LvHBJLaEy98hv1Ay5x3ksoktW9KhD4CHAxJecDwgCjJxTuAawiXMPEV7v14IU_ndkd8NuCNfrllldHmggV59rRWm_lMroqPbyOpuRXHa2-olRSvjYcD9TZbPGfxE_qj_9_4lKkT3qvTfT4JP8Inok74hjodyLDvpEydVOWgTvf51E4TOahT4p2pU_9gclKnaz4peT5l6vS4B3SpTj_NJ-kDPh3_s2_wiUC_xSf5Hp8ydcrxaXOpTnncJ3XK-PRr6qT-mjql9DL307lUbdf4vmSVorEtzia4vqirqPbmip5Rm4BJy2OiTyVr6YRPDjLsr5plPEFWCWPjq0Y2vCfTKLzxo5VZ7CIfWy6yi8MQuYbl4mID6ZZthXHx9-6w8UfRR6FZtK0gNI3iIi6GxGcA5aIVFCtUhfnCVqiCY_sez6DysD435hu443rNhjFi-6jUeZcru8XzSJamo2VYG-7ms-W0v9PKYq-FXKkjxzAu23bPbQKkNiqcGdqxK3Hhar6tdxqlxlrf-nXxnYvb8L2lRCP8fcqUuXJtW-u_PE6i6Wb6UhtjTWdmyhzNH5xV75V9qK5NqClSlOYV8LC6geKy-YaEccHxdZ50TRmDZxW8YKADYQZU0rhj5JE5AmqTNIIEWXLFhUBHmhns-Bp6ZLgqwcdWTYOroYKDw_iVL5cKgevzpX8Bn_BSng"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "standing | Wex | US Law | LII / Legal Information Institute",
+      "link": "https://www.law.cornell.edu/wex/standing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV4VZWsIH_M6H5WDq1x9kxoVZX1z37DKQdf8hkdMqF68Y-rYPc2xwboF9kXzQqSR6XkkyVA0WwrqWXka9tp4R0gnyVVu4yZ7v_McnrUtqNNMZCMltmNBvdPEJJJkUHJw&ved=2ahUKEwiPyeTr4p-XAxXDEmIAHUk5IUUQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.law.cornell.edu \u203a Wex",
+      "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAACwBQCdASogACAAPtEwtFooIigoGAEAGglqALEMCTsCwACDVCw1fZmAK0Brb67pApexZsmVlxgA_vYFU-e8V3TqxEPlpfK7hKORENda65v-iO85UHoPDFQLgT1MYw6lXbRc4zKMxCu3X4dDHd3aXlsxXjT12EQgaMpTnwuIfE7ap38R-5xfPqjvdP6cE8XKjyQnRDrTm7cSrmzgYWY_Dnd2-cx2cz5ULBGpTYeT22qx87wJfmAB5B7z2MpSNLxNdM3gqXVY6b-8S8MyrCOJZnDGPA2IpY3QxJRG_Xtp0IqUv-T_pYm_ywbThZJ3XiQpXGmKJeWuspFN-8ErtxnMHxGs3Fhy8ckP2b-xNAAA.webp",
+      "snippet": "Standing, or locus standi, is the capacity of a party to bring a lawsuit in court. To have standing, a party must demonstrate a sufficient connection to and ...",
+      "snippet_highlighted_words": [
+        "Standing",
+        "standing"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Standing, or locus standi, is the capacity of a party to bring a lawsuit in court. To have standing, a party must demonstrate a sufficient connection to and ...",
+          "source_info_link": "https://www.law.cornell.edu/wex/standing",
+          "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAACwBQCdASogACAAPtEwtFooIigoGAEAGglqALEMCTsCwACDVCw1fZmAK0Brb67pApexZsmVlxgA_vYFU-e8V3TqxEPlpfK7hKORENda65v-iO85UHoPDFQLgT1MYw6lXbRc4zKMxCu3X4dDHd3aXlsxXjT12EQgaMpTnwuIfE7ap38R-5xfPqjvdP6cE8XKjyQnRDrTm7cSrmzgYWY_Dnd2-cx2cz5ULBGpTYeT22qx87wJfmAB5B7z2MpSNLxNdM3gqXVY6b-8S8MyrCOJZnDGPA2IpY3QxJRG_Xtp0IqUv-T_pYm_ywbThZJ3XiQpXGmKJeWuspFN-8ErtxnMHxGs3Fhy8ckP2b-xNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjRWWldzSUhfTTZINVdEcTF4OWt4b1ZaWDF6MzdES1FkZjhoa2RNcUY2OFktcllQYzJ4d2JvRjlrWHpRcVNSNlhra3lWQTBXd3JxV1hrYTl0cDRSMGdueVZWdTR5Wjd2X01jbnJVdHFOTk1aQ01sdG1OQnZkUEVKSkprVUhKdxIEGgIIABrYAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLIDCAAQABgAIAAqCgoDdGhlFcC8t0AylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWNFZaV3NJSF9NNkg1V0RxMXg5a3hvVlpYMXozN0RLUWRmOGhrZE1xRjY4WS1yWVBjMnh3Ym9GOWtYelFxU1I2WGtreVZBMFd3cnFXWGthOXRwNFIwZ255VlZ1NHlaN3ZfTWNuclV0cU5OTVpDTWx0bU5CdmRQRUpKSmtVSEp3OkI8Yj5zdGFuZGluZzwvYj4gfCBXZXggfCBVUyBMYXcgfCBMSUkgLyBMZWdhbCBJbmZvcm1hdGlvbiBJbnN0aXR1dGVCswE8Yj5TdGFuZGluZzwvYj4sIG9yIGxvY3VzIHN0YW5kaSwgaXMgdGhlIGNhcGFjaXR5IG9mIGEgcGFydHkgdG8gYnJpbmcgYSBsYXdzdWl0IGluIGNvdXJ0LiBUbyBoYXZlIDxiPnN0YW5kaW5nPC9iPiwgYSBwYXJ0eSBtdXN0IGRlbW9uc3RyYXRlIGEgc3VmZmljaWVudCBjb25uZWN0aW9uIHRvIGFuZCZuYnNwOy4uLkoCaXNKAmJ5SgN0aGUiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjRWWldzSUhfTTZINVdEcTF4OWt4b1ZaWDF6MzdES1FkZjhoa2RNcUY2OFktcllQYzJ4d2JvRjlrWHpRcVNSNlhra3lWQTBXd3JxV1hrYTl0cDRSMGdueVZWdTR5Wjd2X01jbnJVdHFOTk1aQ01sdG1OQnZkUEVKSkprVUhKdxIEGgIIABrYAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLIDCAAQABgAIAAqCgoDdGhlFcC8t0AylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWNFZaV3NJSF9NNkg1V0RxMXg5a3hvVlpYMXozN0RLUWRmOGhrZE1xRjY4WS1yWVBjMnh3Ym9GOWtYelFxU1I2WGtreVZBMFd3cnFXWGthOXRwNFIwZ255VlZ1NHlaN3ZfTWNuclV0cU5OTVpDTWx0bU5CdmRQRUpKSmtVSEp3OkI8Yj5zdGFuZGluZzwvYj4gfCBXZXggfCBVUyBMYXcgfCBMSUkgLyBMZWdhbCBJbmZvcm1hdGlvbiBJbnN0aXR1dGVCswE8Yj5TdGFuZGluZzwvYj4sIG9yIGxvY3VzIHN0YW5kaSwgaXMgdGhlIGNhcGFjaXR5IG9mIGEgcGFydHkgdG8gYnJpbmcgYSBsYXdzdWl0IGluIGNvdXJ0LiBUbyBoYXZlIDxiPnN0YW5kaW5nPC9iPiwgYSBwYXJ0eSBtdXN0IGRlbW9uc3RyYXRlIGEgc3VmZmljaWVudCBjb25uZWN0aW9uIHRvIGFuZCZuYnNwOy4uLkoCaXNKAmJ5SgN0aGUiAhABSABYAGgA",
+      "source": "LII | Legal Information Institute"
+    },
+    {
+      "position": 2,
+      "title": "ArtIII.S2.C1.6.1 Overview of Standing - Constitution Annotated",
+      "link": "https://constitution.congress.gov/browse/essay/artIII-S2-C1-6-1/ALDE_00012992/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFYbx0ovKbN__TEziIrvZdKhIB5aa_z2uDD9MgeXTDqmAGJgSpHsnlHVEYrM1Gsswb3FZLAMjT0GLauyQXVezXlxN_O3Oz9L3jddG7luhPyMl9Y1Qj8C7RZ7YK88EylOb2dAWbXklL9yMzCDWqKgmyUvLz5ryqpXVh_oAlTfCOz1kg-BHfw&ved=2ahUKEwiPyeTr4p-XAxXDEmIAHUk5IUUQFnoECBwQAQ&uoh=1",
+      "displayed_link": "https://constitution.congress.gov \u203a ALDE_00012992",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAP0lEQVQ4jWOUiW7_z4AD1C6txCUFB0wEVRAALPgk0_7jdBydXDCLkZH2LmD8_58Ij9LUBTMZGAbYBaNhMAgAAJ3OEdzY1tdKAAAAAElFTkSuQmCC.png",
+      "snippet": "The following essays trace the development of Article III standing doctrine in Supreme Court jurisprudence from its origins in the 1920s",
+      "snippet_highlighted_words": [
+        "standing"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The following essays trace the development of Article III standing doctrine in Supreme Court jurisprudence from its origins in the 1920s",
+          "source_info_link": "https://constitution.congress.gov/browse/essay/artIII-S2-C1-6-1/ALDE_00012992/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAP0lEQVQ4jWOUiW7_z4AD1C6txCUFB0wEVRAALPgk0_7jdBydXDCLkZH2LmD8_58Ij9LUBTMZGAbYBaNhMAgAAJ3OEdzY1tdKAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZZYngwb3ZLYk5fX1RFemlJcnZaZEtoSUI1YWFfejJ1REQ5TWdlWFREcW1BR0pnU3BIc25sSFZFWXJNMUdzc3diM0ZaTEFNalQwR0xhdXlRWFZlelhseE5fTzNPejlMM2pkZEc3bHVoUHlNbDlZMVFqOEM3Ulo3WUs4OEV5bE9iMmRBV2JYa2xMOXlNekNEV3FLZ215VXZMejVyeXFwWFZoX29BbFRmQ096MWtnLUJIZncSBBoCCAAa6wMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDFAwgAEAAYACAAKgoKA3RoZRVWjI9AMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZZYngwb3ZLYk5fX1RFemlJcnZaZEtoSUI1YWFfejJ1REQ5TWdlWFREcW1BR0pnU3BIc25sSFZFWXJNMUdzc3diM0ZaTEFNalQwR0xhdXlRWFZlelhseE5fTzNPejlMM2pkZEc3bHVoUHlNbDlZMVFqOEM3Ulo3WUs4OEV5bE9iMmRBV2JYa2xMOXlNekNEV3FLZ215VXZMejVyeXFwWFZoX29BbFRmQ096MWtnLUJIZnc6RUFydElJSS5TMi5DMS42LjEgT3ZlcnZpZXcgb2YgPGI-U3RhbmRpbmc8L2I-IC0gQ29uc3RpdHV0aW9uIEFubm90YXRlZEKPAVRoZSBmb2xsb3dpbmcgZXNzYXlzIHRyYWNlIHRoZSBkZXZlbG9wbWVudCBvZiBBcnRpY2xlIElJSSA8Yj5zdGFuZGluZzwvYj4gZG9jdHJpbmUgaW4gU3VwcmVtZSBDb3VydCBqdXJpc3BydWRlbmNlIGZyb20gaXRzIG9yaWdpbnMgaW4gdGhlIDE5MjBzSgJpc0oCYnlKA3RoZSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZZYngwb3ZLYk5fX1RFemlJcnZaZEtoSUI1YWFfejJ1REQ5TWdlWFREcW1BR0pnU3BIc25sSFZFWXJNMUdzc3diM0ZaTEFNalQwR0xhdXlRWFZlelhseE5fTzNPejlMM2pkZEc3bHVoUHlNbDlZMVFqOEM3Ulo3WUs4OEV5bE9iMmRBV2JYa2xMOXlNekNEV3FLZ215VXZMejVyeXFwWFZoX29BbFRmQ096MWtnLUJIZncSBBoCCAAa6wMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDFAwgAEAAYACAAKgoKA3RoZRVWjI9AMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZZYngwb3ZLYk5fX1RFemlJcnZaZEtoSUI1YWFfejJ1REQ5TWdlWFREcW1BR0pnU3BIc25sSFZFWXJNMUdzc3diM0ZaTEFNalQwR0xhdXlRWFZlelhseE5fTzNPejlMM2pkZEc3bHVoUHlNbDlZMVFqOEM3Ulo3WUs4OEV5bE9iMmRBV2JYa2xMOXlNekNEV3FLZ215VXZMejVyeXFwWFZoX29BbFRmQ096MWtnLUJIZnc6RUFydElJSS5TMi5DMS42LjEgT3ZlcnZpZXcgb2YgPGI-U3RhbmRpbmc8L2I-IC0gQ29uc3RpdHV0aW9uIEFubm90YXRlZEKPAVRoZSBmb2xsb3dpbmcgZXNzYXlzIHRyYWNlIHRoZSBkZXZlbG9wbWVudCBvZiBBcnRpY2xlIElJSSA8Yj5zdGFuZGluZzwvYj4gZG9jdHJpbmUgaW4gU3VwcmVtZSBDb3VydCBqdXJpc3BydWRlbmNlIGZyb20gaXRzIG9yaWdpbnMgaW4gdGhlIDE5MjBzSgJpc0oCYnlKA3RoZSICEAFIAFgAaAA",
+      "source": "Library of Congress \u2013 Constitution Annotated (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "MLB Standings - 2026 season",
+      "link": "https://www.espn.com/mlb/standings",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVycKWwJXambQI4DhVo0cVtFlYr-WOdeIewhocoK1DWpkZ90LOpL8EJRushIIrGi3Gyw2lzmQNfevmSac6KZQGBYjmU6DIv86NvdjkgwjOB0DO5erU6-nBIA&ved=2ahUKEwiPyeTr4p-XAxXDEmIAHUk5IUUQFnoECBsQAQ&uoh=1",
+      "displayed_link": "https://www.espn.com \u203a mlb \u203a standings",
+      "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAwBgCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHXnqrjAeIB62dygfCiD8RISKNr0-QYGvpjrBu0AAP7YnZAVlENbs38Tkn7dQruJyUU-zf5i19JtPOFlewW7N-rl6KA3D-KbS6hzntpf_tof5DH592iF3v7LqhzOlNtD2iHdk7nqkX5d7Pihk85cnf60UoAzYIk4OYkMCkM3edXlHsYrCjr4UNchAfzi4v63H-qxF0zFZMZelYesztXuCxPZ9U9lSuFln5rVB3P1D_M7mUdJ28EEBgGLiP-a8HS-SBdQL6SpTUp4YnjP90f7MznVbi8zJIAA.webp",
+      "snippet": "W \u00b7 L \u00b7 PCT \u00b7 GB, HOME, AWAY, RS \u00b7 RA \u00b7 DIFF \u00b7 STRK, L10, POFF. 98, 64 .605, -, 55-26, 43-38, 736, 650, +86, L1, 5-5, 100.0%. 93, 68 .578, 4.5, 46-34, 47-34 ...",
+      "about_this_result": {
+        "source": {
+          "description": "W \u00b7 L \u00b7 PCT \u00b7 GB, HOME, AWAY, RS \u00b7 RA \u00b7 DIFF \u00b7 STRK, L10, POFF. 98, 64 .605, -, 55-26, 43-38, 736, 650, +86, L1, 5-5, 100.0%. 93, 68 .578, 4.5, 46-34, 47-34 ...",
+          "source_info_link": "https://www.espn.com/mlb/standings",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAwBgCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHXnqrjAeIB62dygfCiD8RISKNr0-QYGvpjrBu0AAP7YnZAVlENbs38Tkn7dQruJyUU-zf5i19JtPOFlewW7N-rl6KA3D-KbS6hzntpf_tof5DH592iF3v7LqhzOlNtD2iHdk7nqkX5d7Pihk85cnf60UoAzYIk4OYkMCkM3edXlHsYrCjr4UNchAfzi4v63H-qxF0zFZMZelYesztXuCxPZ9U9lSuFln5rVB3P1D_M7mUdJ28EEBgGLiP-a8HS-SBdQL6SpTUp4YnjP90f7MznVbi8zJIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVnljS1d3SlhhbWJRSTREaFZvMGNWdEZsWXItV09kZUlld2hvY29LMURXcGtaOTBMT3BMOEVKUnVzaElJckdpM0d5dzJsem1RTmZldm1TYWM2S1pRR0JZam1VNkRJdjg2TnZkamtnd2pPQjBETzVlclU2LW5CSUESBBoCCAAa0wMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCtAwgAEAAYACAAKgoKA3RoZRUAAAAAMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVnljS1d3SlhhbWJRSTREaFZvMGNWdEZsWXItV09kZUlld2hvY29LMURXcGtaOTBMT3BMOEVKUnVzaElJckdpM0d5dzJsem1RTmZldm1TYWM2S1pRR0JZam1VNkRJdjg2TnZkamtnd2pPQjBETzVlclU2LW5CSUE6KU1MQiA8Yj5TdGFuZGluZ3M8L2I-IC0gMjAyNiBzZWFzb24gLSBFU1BOQs8BVyAmbWlkZG90OyBMICZtaWRkb3Q7IFBDVCAmbWlkZG90OyBHQiwgSE9NRSwgQVdBWSwgUlMgJm1pZGRvdDsgUkEgJm1pZGRvdDsgRElGRiAmbWlkZG90OyBTVFJLLCBMMTAsIFBPRkYuIDk4LCA2NCAuNjA1LCAtLCA1NS0yNiwgNDMtMzgsIDczNiwgNjUwLCArODYsIEwxLCA1LTUsIDEwMC4wJS4gOTMsIDY4IC41NzgsIDQuNSwgNDYtMzQsIDQ3LTM0Jm5ic3A7Li4uSgJpc0oCYnlKA3RoZSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVnljS1d3SlhhbWJRSTREaFZvMGNWdEZsWXItV09kZUlld2hvY29LMURXcGtaOTBMT3BMOEVKUnVzaElJckdpM0d5dzJsem1RTmZldm1TYWM2S1pRR0JZam1VNkRJdjg2TnZkamtnd2pPQjBETzVlclU2LW5CSUESBBoCCAAa0wMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCtAwgAEAAYACAAKgoKA3RoZRUAAAAAMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVnljS1d3SlhhbWJRSTREaFZvMGNWdEZsWXItV09kZUlld2hvY29LMURXcGtaOTBMT3BMOEVKUnVzaElJckdpM0d5dzJsem1RTmZldm1TYWM2S1pRR0JZam1VNkRJdjg2TnZkamtnd2pPQjBETzVlclU2LW5CSUE6KU1MQiA8Yj5TdGFuZGluZ3M8L2I-IC0gMjAyNiBzZWFzb24gLSBFU1BOQs8BVyAmbWlkZG90OyBMICZtaWRkb3Q7IFBDVCAmbWlkZG90OyBHQiwgSE9NRSwgQVdBWSwgUlMgJm1pZGRvdDsgUkEgJm1pZGRvdDsgRElGRiAmbWlkZG90OyBTVFJLLCBMMTAsIFBPRkYuIDk4LCA2NCAuNjA1LCAtLCA1NS0yNiwgNDMtMzgsIDczNiwgNjUwLCArODYsIEwxLCA1LTUsIDEwMC4wJS4gOTMsIDY4IC41NzgsIDQuNSwgNDYtMzQsIDQ3LTM0Jm5ic3A7Li4uSgJpc0oCYnlKA3RoZSICEAFIAFgAaAA",
+      "source": "ESPN",
+      "read_more_link": "https://www.espn.com/mlb/standings#:~:text=W,47%2D34"
+    },
+    {
+      "position": 4,
+      "title": "Standing",
+      "link": "https://en.wikipedia.org/wiki/Standing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVXJjGN5k08P4Z1S8YKYeyesQywvq6HOBsKOirfZiRdW3q0YCkJsB9XgDLc4nS9fYBGyboAz7rRskh6QNsg6Ft24txFRKEJKoiSWpToegOOHZPDD_suCwzXtdu1C8&ved=2ahUKEwiPyeTr4p-XAxXDEmIAHUk5IUUQFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Standing",
+      "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "snippet": "Standing, also referred to as orthostasis, is a position in which the body is held in an upright (orthostatic) position and supported only by the feet.",
+      "snippet_highlighted_words": [
+        "Standing"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Standing, also referred to as orthostasis, is a position in which the body is held in an upright (orthostatic) position and supported only by the feet.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Standing",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVlhKakdONWswOFA0WjFTOFlLWWV5ZXNReXd2cTZIT0JzS09pcmZaaVJkVzNxMFlDa0pzQjlYZ0RMYzRuUzlmWUJHeWJvQXo3clJza2g2UU5zZzZGdDI0dHhGUktFSktvaVNXcFRvZWdPT0haUEREX3N1Q3d6WHRkdTFDOBIEGgIIABqZAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPMCCAAQABgAIAAqCgoDdGhlFdIBrkAykQEvZ290bz91cmw9Q0FFU1lRSHJPekFWWEpqR041azA4UDRaMVM4WUtZZXllc1F5d3ZxNkhPQnNLT2lyZlppUmRXM3EwWUNrSnNCOVhnRExjNG5TOWZZQkd5Ym9BejdyUnNraDZRTnNnNkZ0MjR0eEZSS0VKS29pU1dwVG9lZ09PSFpQRERfc3VDd3pYdGR1MUM4Ohs8Yj5TdGFuZGluZzwvYj4gLSBXaWtpcGVkaWFCngE8Yj5TdGFuZGluZzwvYj4sIGFsc28gcmVmZXJyZWQgdG8gYXMgb3J0aG9zdGFzaXMsIGlzIGEgcG9zaXRpb24gaW4gd2hpY2ggdGhlIGJvZHkgaXMgaGVsZCBpbiBhbiB1cHJpZ2h0IChvcnRob3N0YXRpYykgcG9zaXRpb24gYW5kIHN1cHBvcnRlZCBvbmx5IGJ5IHRoZSBmZWV0LkoDdGhlSgJieUoCaXMiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVlhKakdONWswOFA0WjFTOFlLWWV5ZXNReXd2cTZIT0JzS09pcmZaaVJkVzNxMFlDa0pzQjlYZ0RMYzRuUzlmWUJHeWJvQXo3clJza2g2UU5zZzZGdDI0dHhGUktFSktvaVNXcFRvZWdPT0haUEREX3N1Q3d6WHRkdTFDOBIEGgIIABqZAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPMCCAAQABgAIAAqCgoDdGhlFdIBrkAykQEvZ290bz91cmw9Q0FFU1lRSHJPekFWWEpqR041azA4UDRaMVM4WUtZZXllc1F5d3ZxNkhPQnNLT2lyZlppUmRXM3EwWUNrSnNCOVhnRExjNG5TOWZZQkd5Ym9BejdyUnNraDZRTnNnNkZ0MjR0eEZSS0VKS29pU1dwVG9lZ09PSFpQRERfc3VDd3pYdGR1MUM4Ohs8Yj5TdGFuZGluZzwvYj4gLSBXaWtpcGVkaWFCngE8Yj5TdGFuZGluZzwvYj4sIGFsc28gcmVmZXJyZWQgdG8gYXMgb3J0aG9zdGFzaXMsIGlzIGEgcG9zaXRpb24gaW4gd2hpY2ggdGhlIGJvZHkgaXMgaGVsZCBpbiBhbiB1cHJpZ2h0IChvcnRob3N0YXRpYykgcG9zaXRpb24gYW5kIHN1cHBvcnRlZCBvbmx5IGJ5IHRoZSBmZWV0LkoDdGhlSgJieUoCaXMiAhABSABYAGgA",
+      "source": "Wikipedia",
+      "read_more_link": "https://en.wikipedia.org/wiki/Standing#:~:text=Standing%2C%20also%20referred%20to%20as,supported%20only%20by%20the%20feet."
+    },
+    {
+      "position": 5,
+      "title": "Justice Manual | 35. Standing to Sue",
+      "link": "https://www.justice.gov/archives/jm/civil-resource-manual-35-standing-sue",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFc1H8p10fC8hU1CYhTuqek9TnmQhE0ZSYvUpUg-_XTAaH-yQzShGPkdAuwb9xD6nqAiZ9_Y0pVfjyf9zru-WzqTHmZWFTP5PyjGZB2p_SpFmb6NC0vHEYGLHd5q7dmFkZ-cjJjskgAR19CFNrbl3T1wzP9bBVdqJNW-qGt1qfnc&ved=2ahUKEwiPyeTr4p-XAxXDEmIAHUk5IUUQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://www.justice.gov \u203a archives \u203a civil-resource-man...",
+      "favicon": "https://serpapi.com/images/i/UklGRtoBAABXRUJQVlA4IM4BAABwCQCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhIK_BDzG3GmlqW3MIDii1S3Mx9GewH0h_Q5_W4OKMn7Siu959kBp_WqNWUnxAVuRacYuoDNhtAAA_vYSM-SrJKlPlqyxzkj5q8JXD8Xk-rC984POc9LJwRwz2xEeqFIiQcHoCdmeYxsB0BvEBF9xXklpbKAIwcaqYZQnz2V12yNIiCHKxOD8WWb_5L9ZctJnVEdAAveo5UBq9j5G_hiGwZ9VLq4YnDNRA7wegQqIKqjiEvbYpEs3Scxo_x1Zwh8Wv3bje0Q4vznMYNYxhR7GIsMvj0I4lVDWXnBzXfhcxO_mUnIfsoYE0NhtB4fSDnanCnYAFEb4u0CovFU7IqmZOsdfXKbc0IZ87sZramAc7X0BCCeZDPhjLiObqKIi7uKnfo2XEWYjJO_AXd9egwb6flv0eMf1NtksqyZHpi8NpZmUKKbMmboW9yvJ2dzC-tvgVucriB5RO7_AgmV40AiR0w8oI-nxq_K5jG_Z49RN2UfX26DcwTTbXahWjrSj6n3T_5DXNoF7sTwTvbth4Dlgb7b3GY3pJqjVRAZrpUqhsTPoH23YeT-A-9clob7SxOUAAAA.webp",
+      "snippet": "This is archived content from the U.S. Department of Justice website. The information here may be outdated and links may no longer function.",
+      "about_this_result": {
+        "source": {
+          "description": "This is archived content from the U.S. Department of Justice website. The information here may be outdated and links may no longer function.",
+          "source_info_link": "https://www.justice.gov/archives/jm/civil-resource-manual-35-standing-sue",
+          "icon": "https://serpapi.com/images/i/UklGRtoBAABXRUJQVlA4IM4BAABwCQCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhIK_BDzG3GmlqW3MIDii1S3Mx9GewH0h_Q5_W4OKMn7Siu959kBp_WqNWUnxAVuRacYuoDNhtAAA_vYSM-SrJKlPlqyxzkj5q8JXD8Xk-rC984POc9LJwRwz2xEeqFIiQcHoCdmeYxsB0BvEBF9xXklpbKAIwcaqYZQnz2V12yNIiCHKxOD8WWb_5L9ZctJnVEdAAveo5UBq9j5G_hiGwZ9VLq4YnDNRA7wegQqIKqjiEvbYpEs3Scxo_x1Zwh8Wv3bje0Q4vznMYNYxhR7GIsMvj0I4lVDWXnBzXfhcxO_mUnIfsoYE0NhtB4fSDnanCnYAFEb4u0CovFU7IqmZOsdfXKbc0IZ87sZramAc7X0BCCeZDPhjLiObqKIi7uKnfo2XEWYjJO_AXd9egwb6flv0eMf1NtksqyZHpi8NpZmUKKbMmboW9yvJ2dzC-tvgVucriB5RO7_AgmV40AiR0w8oI-nxq_K5jG_Z49RN2UfX26DcwTTbXahWjrSj6n3T_5DXNoF7sTwTvbth4Dlgb7b3GY3pJqjVRAZrpUqhsTPoH23YeT-A-9clob7SxOUAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZjMUg4cDEwZkM4aFUxQ1loVHVxZWs5VG5tUWhFMFpTWXZVcFVnLV9YVEFhSC15UXpTaEdQa2RBdXdiOXhENm5xQWlaOV9ZMHBWZmp5Zjl6cnUtV3pxVEhtWldGVFA1UHlqR1pCMnBfU3BGbWI2TkMwdkhFWUdMSGQ1cTdkbUZrWi1jakpqc2tnQVIxOUNGTnJibDNUMXd6UDliQlZkcUpOVy1xR3QxcWZuYxIEGgIIABrcAxICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQLYDCAAQABgAIAAqCgoDdGhlFWXpgEAywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RmMxSDhwMTBmQzhoVTFDWWhUdXFlazlUbm1RaEUwWlNZdlVwVWctX1hUQWFILXlRelNoR1BrZEF1d2I5eEQ2bnFBaVo5X1kwcFZmanlmOXpydS1XenFUSG1aV0ZUUDVQeWpHWkIycF9TcEZtYjZOQzB2SEVZR0xIZDVxN2RtRmtaLWNqSmpza2dBUjE5Q0ZOcmJsM1Qxd3pQOWJCVmRxSk5XLXFHdDFxZm5jOkAzNS4gPGI-U3RhbmRpbmc8L2I-IHRvIFN1ZSB8IFVuaXRlZCBTdGF0ZXMgRGVwYXJ0bWVudCBvZiBKdXN0aWNlQowBVGhpcyBpcyBhcmNoaXZlZCBjb250ZW50IGZyb20gdGhlIFUuUy4gRGVwYXJ0bWVudCBvZiBKdXN0aWNlIHdlYnNpdGUuIFRoZSBpbmZvcm1hdGlvbiBoZXJlIG1heSBiZSBvdXRkYXRlZCBhbmQgbGlua3MgbWF5IG5vIGxvbmdlciBmdW5jdGlvbi5KAmlzSgJieUoDdGhlIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZjMUg4cDEwZkM4aFUxQ1loVHVxZWs5VG5tUWhFMFpTWXZVcFVnLV9YVEFhSC15UXpTaEdQa2RBdXdiOXhENm5xQWlaOV9ZMHBWZmp5Zjl6cnUtV3pxVEhtWldGVFA1UHlqR1pCMnBfU3BGbWI2TkMwdkhFWUdMSGQ1cTdkbUZrWi1jakpqc2tnQVIxOUNGTnJibDNUMXd6UDliQlZkcUpOVy1xR3QxcWZuYxIEGgIIABrcAxICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQLYDCAAQABgAIAAqCgoDdGhlFWXpgEAywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RmMxSDhwMTBmQzhoVTFDWWhUdXFlazlUbm1RaEUwWlNZdlVwVWctX1hUQWFILXlRelNoR1BrZEF1d2I5eEQ2bnFBaVo5X1kwcFZmanlmOXpydS1XenFUSG1aV0ZUUDVQeWpHWkIycF9TcEZtYjZOQzB2SEVZR0xIZDVxN2RtRmtaLWNqSmpza2dBUjE5Q0ZOcmJsM1Qxd3pQOWJCVmRxSk5XLXFHdDFxZm5jOkAzNS4gPGI-U3RhbmRpbmc8L2I-IHRvIFN1ZSB8IFVuaXRlZCBTdGF0ZXMgRGVwYXJ0bWVudCBvZiBKdXN0aWNlQowBVGhpcyBpcyBhcmNoaXZlZCBjb250ZW50IGZyb20gdGhlIFUuUy4gRGVwYXJ0bWVudCBvZiBKdXN0aWNlIHdlYnNpdGUuIFRoZSBpbmZvcm1hdGlvbiBoZXJlIG1heSBiZSBvdXRkYXRlZCBhbmQgbGlua3MgbWF5IG5vIGxvbmdlciBmdW5jdGlvbi5KAmlzSgJieUoDdGhlIgIQAUgAWABoAA",
+      "source": "Department of Justice (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "Stiffness control of balance in quiet standing",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/9744933/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV4w9KW3mTz8ZsvuKCbN2kEwpKzqe3ChNVqt6TgjKTL-9XD7XGvTDPzwzAKZPQqd8PSlzjnfUriZUxLzOJhfjqvAH8dcPVv_EpmFzrVVeYcadnkq6vPEzVX_-1hckXTQ&ved=2ahUKEwiPyeTr4p-XAxXDEmIAHUk5IUUQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://pubmed.ncbi.nlm.nih.gov \u203a ...",
+      "favicon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAADwBQCdASocABwAPtEutFooIagoGAEAGglqAMixoDbACnj3QCsi13AWY3jeSE8kXP3gnmhDP-Tq6AD-7mZvnFWx8hQbIAfk_Mjv1fLFmJs8KMfz0xoKMg2DX5G-fIAVazcuRcfzsMHHeLK3e9dDbEu2AkjC1Rp4hri-ebcTjChh979xV8qr_g1mV1ina4f20Q9WfvPos1XgikAzAskx5av_ool21lDb_YbtxKbFfJR3N44z-NqP7_2W-z7P41dtxt2uN8GCtz47XdezCj77stKS9_ArCtCRq29enrahYEZ8ekz3R4Xp5fp0eFYAAA.webp",
+      "author": "by DA Winter",
+      "snippet": "A stiffness model was developed for quiet standing. The model assumes that muscles act as springs to cause the center-of-pressure (COP) to move in phase with ...",
+      "snippet_highlighted_words": [
+        "standing"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A stiffness model was developed for quiet standing. The model assumes that muscles act as springs to cause the center-of-pressure (COP) to move in phase with ...",
+          "source_info_link": "https://pubmed.ncbi.nlm.nih.gov/9744933/",
+          "icon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAADwBQCdASocABwAPtEutFooIagoGAEAGglqAMixoDbACnj3QCsi13AWY3jeSE8kXP3gnmhDP-Tq6AD-7mZvnFWx8hQbIAfk_Mjv1fLFmJs8KMfz0xoKMg2DX5G-fIAVazcuRcfzsMHHeLK3e9dDbEu2AkjC1Rp4hri-ebcTjChh979xV8qr_g1mV1ina4f20Q9WfvPos1XgikAzAskx5av_ool21lDb_YbtxKbFfJR3N44z-NqP7_2W-z7P41dtxt2uN8GCtz47XdezCj77stKS9_ArCtCRq29enrahYEZ8ekz3R4Xp5fp0eFYAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjR3OUtXM21Uejhac3Z1S0NiTjJrRXdwS3pxZTNDaE5WcXQ2VGdqS1RMLTlYRDdYR3ZURFB6d3pBS1pQUXFkOFBTbHpqbmZVcmlaVXhMek9KaGZqcXZBSDhkY1BWdl9FcG1GenJWVmVZY2FkbmtxNnZQRXpWWF8tMWhja1hUURIEGgIIABrOAxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKgDCAAQABgAIAAqCgoDdGhlFTyJhEAylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWNHc5S1czbVR6OFpzdnVLQ2JOMmtFd3BLenFlM0NoTlZxdDZUZ2pLVEwtOVhEN1hHdlREUHp3ekFLWlBRcWQ4UFNsempuZlVyaVpVeEx6T0poZmpxdkFIOGRjUFZ2X0VwbUZ6clZWZVljYWRua3E2dlBFelZYXy0xaGNrWFRROj5TdGlmZm5lc3MgY29udHJvbCBvZiBiYWxhbmNlIGluIHF1aWV0IDxiPnN0YW5kaW5nPC9iPiAtIFB1Yk1lZEKtAUEgc3RpZmZuZXNzIG1vZGVsIHdhcyBkZXZlbG9wZWQgZm9yIHF1aWV0IDxiPnN0YW5kaW5nPC9iPi4gVGhlIG1vZGVsIGFzc3VtZXMgdGhhdCBtdXNjbGVzIGFjdCBhcyBzcHJpbmdzIHRvIGNhdXNlIHRoZSBjZW50ZXItb2YtcHJlc3N1cmUgKENPUCkgdG8gbW92ZSBpbiBwaGFzZSB3aXRoJm5ic3A7Li4uSgJpc0oCYnlKA3RoZSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjR3OUtXM21Uejhac3Z1S0NiTjJrRXdwS3pxZTNDaE5WcXQ2VGdqS1RMLTlYRDdYR3ZURFB6d3pBS1pQUXFkOFBTbHpqbmZVcmlaVXhMek9KaGZqcXZBSDhkY1BWdl9FcG1GenJWVmVZY2FkbmtxNnZQRXpWWF8tMWhja1hUURIEGgIIABrOAxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKgDCAAQABgAIAAqCgoDdGhlFTyJhEAylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWNHc5S1czbVR6OFpzdnVLQ2JOMmtFd3BLenFlM0NoTlZxdDZUZ2pLVEwtOVhEN1hHdlREUHp3ekFLWlBRcWQ4UFNsempuZlVyaVpVeEx6T0poZmpxdkFIOGRjUFZ2X0VwbUZ6clZWZVljYWRua3E2dlBFelZYXy0xaGNrWFRROj5TdGlmZm5lc3MgY29udHJvbCBvZiBiYWxhbmNlIGluIHF1aWV0IDxiPnN0YW5kaW5nPC9iPiAtIFB1Yk1lZEKtAUEgc3RpZmZuZXNzIG1vZGVsIHdhcyBkZXZlbG9wZWQgZm9yIHF1aWV0IDxiPnN0YW5kaW5nPC9iPi4gVGhlIG1vZGVsIGFzc3VtZXMgdGhhdCBtdXNjbGVzIGFjdCBhcyBzcHJpbmdzIHRvIGNhdXNlIHRoZSBjZW50ZXItb2YtcHJlc3N1cmUgKENPUCkgdG8gbW92ZSBpbiBwaGFzZSB3aXRoJm5ic3A7Li4uSgJpc0oCYnlKA3RoZSICEAFIAFgAaAA",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "read_more_link": "https://pubmed.ncbi.nlm.nih.gov/9744933/#:~:text=A%20stiffness%20model%20was%20developed,sways%20about%20some%20desired%20position."
+    },
+    {
+      "position": 7,
+      "title": "2026 MLB Standings and Records: Regular Season",
+      "link": "https://www.mlb.com/standings",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAViXYn4yfpPCjkM9ty9qKRlz9MVP8L-3kR7v0CCmCdrOYLti4pV_ooSYHgK5dREchtfSeIs_m_GpKQ6t6FjRMD0jEUj30gOW0H5eBmK3_jcwlSUcY&ved=2ahUKEwiPyeTr4p-XAxXDEmIAHUk5IUUQFnoECEYQAQ&uoh=1",
+      "displayed_link": "https://www.mlb.com \u203a standings",
+      "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABwBQCdASocABwAPrUurVanIacnG_DgFoloAHfe9ABsNXpLKbWj7XSdGex6WaZemA9Zb37gAP7-wh5_3-fKQKXV_oE6sgsjzKOhJ7DtqpPFD__Px_kyXh2WGR6bN7ff8CTPmTrSltO8vp_-J0HCFD_wo1MJTn1a3jcbD4t5_5NcmfW9CTGLoU1r0YjOKRUH4XYFbUrX7Xrkkt7Rizqwnx9YSMT16FRuJhubHTbD8DxXSRQt-S7f-LrHIWwu_mA4zufadblIw_7twJyHhxrb2pGFyd6Mgn0BV6NUo5QzxVLwZkE_q6e3CoWWD0y0DOBgTzw3l2ytC6MLTWjaMAAAAA.webp",
+      "date": "3 days ago",
+      "snippet": "The official standings for Major League Baseball including division and league standings for regular season, wild card, and playoffs.",
+      "snippet_highlighted_words": [
+        "standings",
+        "standings"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The official standings for Major League Baseball including division and league standings for regular season, wild card, and playoffs.",
+          "source_info_link": "https://www.mlb.com/standings",
+          "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABwBQCdASocABwAPrUurVanIacnG_DgFoloAHfe9ABsNXpLKbWj7XSdGex6WaZemA9Zb37gAP7-wh5_3-fKQKXV_oE6sgsjzKOhJ7DtqpPFD__Px_kyXh2WGR6bN7ff8CTPmTrSltO8vp_-J0HCFD_wo1MJTn1a3jcbD4t5_5NcmfW9CTGLoU1r0YjOKRUH4XYFbUrX7Xrkkt7Rizqwnx9YSMT16FRuJhubHTbD8DxXSRQt-S7f-LrHIWwu_mA4zufadblIw_7twJyHhxrb2pGFyd6Mgn0BV6NUo5QzxVLwZkE_q6e3CoWWD0y0DOBgTzw3l2ytC6MLTWjaMAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVmlYWW40eWZwUENqa005dHk5cUtSbHo5TVZQOEwtM2tSN3YwQ0NtQ2RyT1lMdGk0cFZfb29TWUhnSzVkUkVjaHRmU2VJc19tX0dwS1E2dDZGalJNRDBqRVVqMzBnT1cwSDVlQm1LM19qY3dsU1VjWRIEGgIIABqeAxICCAEaACICCAEqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9gIIABAAGAAgACoKCgN0aGUVAAAAADKFAS9nb3RvP3VybD1DQUVTV0FIck96QVZpWFluNHlmcFBDamtNOXR5OXFLUmx6OU1WUDhMLTNrUjd2MENDbUNkck9ZTHRpNHBWX29vU1lIZ0s1ZFJFY2h0ZlNlSXNfbV9HcEtRNnQ2RmpSTUQwakVVajMwZ09XMEg1ZUJtSzNfamN3bFNVY1k6NTIwMjYgTUxCIDxiPlN0YW5kaW5nczwvYj4gYW5kIFJlY29yZHM6IFJlZ3VsYXIgU2Vhc29uQpMBVGhlIG9mZmljaWFsIDxiPnN0YW5kaW5nczwvYj4gZm9yIE1ham9yIExlYWd1ZSBCYXNlYmFsbCBpbmNsdWRpbmcgZGl2aXNpb24gYW5kIGxlYWd1ZSA8Yj5zdGFuZGluZ3M8L2I-IGZvciByZWd1bGFyIHNlYXNvbiwgd2lsZCBjYXJkLCBhbmQgcGxheW9mZnMuSgN0aGVKAmJ5SgJpcyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVmlYWW40eWZwUENqa005dHk5cUtSbHo5TVZQOEwtM2tSN3YwQ0NtQ2RyT1lMdGk0cFZfb29TWUhnSzVkUkVjaHRmU2VJc19tX0dwS1E2dDZGalJNRDBqRVVqMzBnT1cwSDVlQm1LM19qY3dsU1VjWRIEGgIIABqeAxICCAEaACICCAEqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9gIIABAAGAAgACoKCgN0aGUVAAAAADKFAS9nb3RvP3VybD1DQUVTV0FIck96QVZpWFluNHlmcFBDamtNOXR5OXFLUmx6OU1WUDhMLTNrUjd2MENDbUNkck9ZTHRpNHBWX29vU1lIZ0s1ZFJFY2h0ZlNlSXNfbV9HcEtRNnQ2RmpSTUQwakVVajMwZ09XMEg1ZUJtSzNfamN3bFNVY1k6NTIwMjYgTUxCIDxiPlN0YW5kaW5nczwvYj4gYW5kIFJlY29yZHM6IFJlZ3VsYXIgU2Vhc29uQpMBVGhlIG9mZmljaWFsIDxiPnN0YW5kaW5nczwvYj4gZm9yIE1ham9yIExlYWd1ZSBCYXNlYmFsbCBpbmNsdWRpbmcgZGl2aXNpb24gYW5kIGxlYWd1ZSA8Yj5zdGFuZGluZ3M8L2I-IGZvciByZWd1bGFyIHNlYXNvbiwgd2lsZCBjYXJkLCBhbmQgcGxheW9mZnMuSgN0aGVKAmJ5SgJpcyICEAFIAFgAaAA",
+      "source": "MLB.com"
+    },
+    {
+      "position": 8,
+      "title": "Standing",
+      "link": "https://www.youtube.com/watch?v=g9rNVBderak",
+      "displayed_link": "32.8K+ views \u00b7 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6ac1f726ea58e8a1962df2de/images/ug3Mv7e-i5nwo7_9ZcsIqqjOSGooa5dUcNCLR314RP8.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "Provided to YouTube by eOne Music Standing \u00b7 William McDowell Arise \u2117 2011 Koch Records Released on: 2011-11-08 \u2026 32K views1 year ago",
+      "duration": "4:53",
+      "about_this_result": {
+        "source": {
+          "description": "Provided to YouTube by eOne Music Standing \u00b7 William McDowell Arise \u2117 2011 Koch Records Released on: 2011-11-08 \u2026 32K views1 year ago",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnNiZGlRNEViYU4wa0dwUVZhSUhVeWE2N2FtQVU3bW5yLW9OVk1yNkFJWDA3dmhudUpfQ21JblR1T29YdnZOOERYMlJKYmdZN1BZWk1rcG5YTVBzTEIzQUl2R2NMVTBTOHViYk5JZzlvVmlvRjZHcW1ZdWR2ZXdkM0h3ZjVWdXkwVFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnNiZGlRNEViYU4wa0dwUVZhSUhVeWE2N2FtQVU3bW5yLW9OVk1yNkFJWDA3dmhudUpfQ21JblR1T29YdnZOOERYMlJKYmdZN1BZWk1rcG5YTVBzTEIzQUl2R2NMVTBTOHViYk5JZzlvVmlvRjZHcW1ZdWR2ZXdkM0h3ZjVWdXkwVFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "YouTube \u00b7 William McDowell Music"
+    },
+    {
+      "position": 9,
+      "title": "Standing Invitation",
+      "link": "https://www.kalzumeus.com/standing-invitation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVDcwQcvSOgGmP-WIk60qcMTRjwMqqM052eUBO60ERUSe0v2fsoiDyeEzlJrTmU8dYRrp8O4d8_XYQ-mT3-x5I2LMM64giP8YcLx7o3Cq0m35EQ3jJ-szNT2dXlNnry-sM8tgB2A&ved=2ahUKEwiPyeTr4p-XAxXDEmIAHUk5IUUQFnoECEIQAQ&uoh=1",
+      "displayed_link": "https://www.kalzumeus.com \u203a standing-invitation",
+      "favicon": "https://serpapi.com/images/i/UklGRsQAAABXRUJQVlA4ILgAAABQAwCdASoQABAAAsBMJbACdEfgDC3c0-aYXoXaXc2iKTD6AAD--q3wlU_tabo8iO05_wiMqhQO-X39JoCZuXGIOdrcRM2OZ4ruzUmr-jONX6uDgT5Yx7IaunRzWdNOJjr0nqodzul6QxfzDfy9mUZ5PE5zDo_t79SqLlq59f_r5bkdgCYdau59JJtC_Pfm0jNju8bn0_7XYjWh-KWpW2UJc1pndozZhAs3WpXhwLZDyPVGAaTddAAA.webp",
+      "snippet": "Update (October 2nd, 2024): I have had this invitation up for approximately 12.5 years at this point. During that time, it has resulted in approximately low ...",
+      "about_this_result": {
+        "source": {
+          "description": "Update (October 2nd, 2024): I have had this invitation up for approximately 12.5 years at this point. During that time, it has resulted in approximately low ...",
+          "source_info_link": "https://www.kalzumeus.com/standing-invitation/",
+          "icon": "https://serpapi.com/images/i/UklGRsQAAABXRUJQVlA4ILgAAABQAwCdASoQABAAAsBMJbACdEfgDC3c0-aYXoXaXc2iKTD6AAD--q3wlU_tabo8iO05_wiMqhQO-X39JoCZuXGIOdrcRM2OZ4ruzUmr-jONX6uDgT5Yx7IaunRzWdNOJjr0nqodzul6QxfzDfy9mUZ5PE5zDo_t79SqLlq59f_r5bkdgCYdau59JJtC_Pfm0jNju8bn0_7XYjWh-KWpW2UJc1pndozZhAs3WpXhwLZDyPVGAaTddAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkRjd1FjdlNPZ0dtUC1XSWs2MHFjTVRSandNcXFNMDUyZVVCTzYwRVJVU2UwdjJmc29pRHllRXpsSnJUbVU4ZFlScnA4TzRkOF9YWVEtbVQzLXg1STJMTU02NGdpUDhZY0x4N28zQ3EwbTM1RVEzakotc3pOVDJkWGxObnJ5LXNNOHRnQjJBEgQaAggAGr8DEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmQMIABAAGAAgACoKCgN0aGUV_BdeQDKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZEY3dRY3ZTT2dHbVAtV0lrNjBxY01UUmp3TXFxTTA1MmVVQk82MEVSVVNlMHYyZnNvaUR5ZUV6bEpyVG1VOGRZUnJwOE80ZDhfWFlRLW1UMy14NUkyTE1NNjRnaVA4WWNMeDdvM0NxMG0zNUVRM2pKLXN6TlQyZFhsTm5yeS1zTTh0Z0IyQTovPGI-U3RhbmRpbmc8L2I-IEludml0YXRpb24gLSBLYWx6dW1ldXMgU29mdHdhcmVCpQFVcGRhdGUgKE9jdG9iZXIgMm5kLCAyMDI0KTogSSBoYXZlIGhhZCB0aGlzIGludml0YXRpb24gdXAgZm9yIGFwcHJveGltYXRlbHkgMTIuNSB5ZWFycyBhdCB0aGlzIHBvaW50LiBEdXJpbmcgdGhhdCB0aW1lLCBpdCBoYXMgcmVzdWx0ZWQgaW4gYXBwcm94aW1hdGVseSBsb3cmbmJzcDsuLi5KA3RoZUoCYnlKAmlzIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkRjd1FjdlNPZ0dtUC1XSWs2MHFjTVRSandNcXFNMDUyZVVCTzYwRVJVU2UwdjJmc29pRHllRXpsSnJUbVU4ZFlScnA4TzRkOF9YWVEtbVQzLXg1STJMTU02NGdpUDhZY0x4N28zQ3EwbTM1RVEzakotc3pOVDJkWGxObnJ5LXNNOHRnQjJBEgQaAggAGr8DEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmQMIABAAGAAgACoKCgN0aGUV_BdeQDKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZEY3dRY3ZTT2dHbVAtV0lrNjBxY01UUmp3TXFxTTA1MmVVQk82MEVSVVNlMHYyZnNvaUR5ZUV6bEpyVG1VOGRZUnJwOE80ZDhfWFlRLW1UMy14NUkyTE1NNjRnaVA4WWNMeDdvM0NxMG0zNUVRM2pKLXN6TlQyZFhsTm5yeS1zTTh0Z0IyQTovPGI-U3RhbmRpbmc8L2I-IEludml0YXRpb24gLSBLYWx6dW1ldXMgU29mdHdhcmVCpQFVcGRhdGUgKE9jdG9iZXIgMm5kLCAyMDI0KTogSSBoYXZlIGhhZCB0aGlzIGludml0YXRpb24gdXAgZm9yIGFwcHJveGltYXRlbHkgMTIuNSB5ZWFycyBhdCB0aGlzIHBvaW50LiBEdXJpbmcgdGhhdCB0aW1lLCBpdCBoYXMgcmVzdWx0ZWQgaW4gYXBwcm94aW1hdGVseSBsb3cmbmJzcDsuLi5KA3RoZUoCYnlKAmlzIgIQAUgAWABoAA",
+      "source": "Kalzumeus Software",
+      "read_more_link": "https://www.kalzumeus.com/standing-invitation/#:~:text=Update%20(October%202nd%2C%202024)%3A%20I,has%20resulted%20in%20approximately%20low"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=The+Marginal+Standing+Facility+(MSF)+rate+listed+by+the+RBI+is+5.50%25.&sca_esv=7a80360a426ed37a&sxsrf=APpeQnuS2OHROEl131HHtRMfCXuU1u4Phw:1791096614632&ei=JvfBao-eJsOliLMPyfKEqQQ&start=10&sa=N&sstk=AS6-VmLmq9OAjSSm0ardVtvqkhxpPf6OZ8EjCspzbvVMledjMRyDroAofsn46O-zJdAiM-xxgVzxnnl8qnFrQKdxyy3VfklFBV-JcQ&ved=2ahUKEwiPyeTr4p-XAxXDEmIAHUk5IUUQ8NMDegQIPhAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=The+Marginal+Standing+Facility+(MSF)+rate+listed+by+the+RBI+is+5.50%25.&sca_esv=7a80360a426ed37a&sxsrf=APpeQnuS2OHROEl131HHtRMfCXuU1u4Phw:1791096614632&ei=JvfBao-eJsOliLMPyfKEqQQ&start=10&sa=N&sstk=AS6-VmLmq9OAjSSm0ardVtvqkhxpPf6OZ8EjCspzbvVMledjMRyDroAofsn46O-zJdAiM-xxgVzxnnl8qnFrQKdxyy3VfklFBV-JcQ&ved=2ahUKEwiPyeTr4p-XAxXDEmIAHUk5IUUQ8tMDegQIPhAE",
+      "3": "https://www.google.com/search?q=The+Marginal+Standing+Facility+(MSF)+rate+listed+by+the+RBI+is+5.50%25.&sca_esv=7a80360a426ed37a&sxsrf=APpeQnuS2OHROEl131HHtRMfCXuU1u4Phw:1791096614632&ei=JvfBao-eJsOliLMPyfKEqQQ&start=20&sa=N&sstk=AS6-VmLmq9OAjSSm0ardVtvqkhxpPf6OZ8EjCspzbvVMledjMRyDroAofsn46O-zJdAiM-xxgVzxnnl8qnFrQKdxyy3VfklFBV-JcQ&ved=2ahUKEwiPyeTr4p-XAxXDEmIAHUk5IUUQ8tMDegQIPhAG",
+      "4": "https://www.google.com/search?q=The+Marginal+Standing+Facility+(MSF)+rate+listed+by+the+RBI+is+5.50%25.&sca_esv=7a80360a426ed37a&sxsrf=APpeQnuS2OHROEl131HHtRMfCXuU1u4Phw:1791096614632&ei=JvfBao-eJsOliLMPyfKEqQQ&start=30&sa=N&sstk=AS6-VmLmq9OAjSSm0ardVtvqkhxpPf6OZ8EjCspzbvVMledjMRyDroAofsn46O-zJdAiM-xxgVzxnnl8qnFrQKdxyy3VfklFBV-JcQ&ved=2ahUKEwiPyeTr4p-XAxXDEmIAHUk5IUUQ8tMDegQIPhAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Marginal+Standing+Facility+%28MSF%29+rate+listed+by+the+RBI+is+5.50%25.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Marginal+Standing+Facility+%28MSF%29+rate+listed+by+the+RBI+is+5.50%25.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Marginal+Standing+Facility+%28MSF%29+rate+listed+by+the+RBI+is+5.50%25.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Marginal+Standing+Facility+%28MSF%29+rate+listed+by+the+RBI+is+5.50%25.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Marginal+Standing+Facility+%28MSF%29+rate+listed+by+the+RBI+is+5.50%25.&start=30"
+    }
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "search_metadata": {
+    "id": "6ac1f3c100a7fbbf0d1bb515",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/T_EFgoMuiXcHbcgylNlf8QNGZ6_LHz_hxvuKyxICfD0/6ac1f3c100a7fbbf0d1bb515.json",
+    "markdown_endpoint": "https://serpapi.com/searches/T_EFgoMuiXcHbcgylNlf8QNGZ6_LHz_hxvuKyxICfD0/6ac1f3c100a7fbbf0d1bb515.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/T_EFgoMuiXcHbcgylNlf8QNGZ6_LHz_hxvuKyxICfD0/6ac1f3c100a7fbbf0d1bb515.json_with_pixel_position",
+    "created_at": "2026-10-04 06:35:45 UTC",
+    "processed_at": "2026-10-04 06:35:45 UTC",
+    "google_url": "https://www.google.com/search?q=The+Bank+Rate+listed+by+RBI+is+5.50%25.&oq=The+Bank+Rate+listed+by+RBI+is+5.50%25.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/T_EFgoMuiXcHbcgylNlf8QNGZ6_LHz_hxvuKyxICfD0/6ac1f3c100a7fbbf0d1bb515.html",
+    "total_time_taken": 0.34
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "The Bank Rate listed by RBI is 5.50%.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "The Bank Rate listed by RBI is 5.50%.",
+    "total_results": 10,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the bank rate by RBI?",
+      "type": "ai_overview",
+      "page_token": "n3UEgnicHdBfbpswAIBx9TJ9bGwgmYgUVXPiJNDaFY7_gF8mYpOQYoLb0lB42112qp1m1U7w_fT9_uMu1-bv3a3ue_-xnM2GYXg4d93ZVQ-ma2flx3g1M1M6dyxNs1z8WMDHk1nhzwSt3xKUCe_lhgG-YYHmIsyUGdUuGqySoQY4PMJ4rxzNidBrAnBEQ98WrQCV-BqlY3sqYsDBPGU7KFkuyWGENdv-jLjoS9Nmk81JX8kzrL4bdo_wof16eVExJE53XHgssG90YBO6cc8Cp4BtPdfK48O1GSV3i-I1za0kU3kBEdtuS6LSJAc6KSZ5szhGVTOEtqE1VfKJqXlHQuSIoyGubagdWhc5JaTJ4LOKIG_j7Lhj36oUUdRdMsEm8-paEWhhr_Y943VHXb3hAQgKMZ_rxirDC0inGons_mRuq_D-_8_Vr1PbL_17d_4HypmAYQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=n3UEgnicHdBfbpswAIBx9TJ9bGwgmYgUVXPiJNDaFY7_gF8mYpOQYoLb0lB42112qp1m1U7w_fT9_uMu1-bv3a3ue_-xnM2GYXg4d93ZVQ-ma2flx3g1M1M6dyxNs1z8WMDHk1nhzwSt3xKUCe_lhgG-YYHmIsyUGdUuGqySoQY4PMJ4rxzNidBrAnBEQ98WrQCV-BqlY3sqYsDBPGU7KFkuyWGENdv-jLjoS9Nmk81JX8kzrL4bdo_wof16eVExJE53XHgssG90YBO6cc8Cp4BtPdfK48O1GSV3i-I1za0kU3kBEdtuS6LSJAc6KSZ5szhGVTOEtqE1VfKJqXlHQuSIoyGubagdWhc5JaTJ4LOKIG_j7Lhj36oUUdRdMsEm8-paEWhhr_Y943VHXb3hAQgKMZ_rxirDC0inGons_mRuq_D-_8_Vr1PbL_17d_4HypmAYQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgxTTNSRWxvZWt4VVFqZE9WV2RVUmxNM2VYRkJUVXhaUVUweFIwRlpkRjlyV2psZlFtWm5kekUzUkcxVVpUVlNTemRFZFhoaWRXWnNiMlJNV0RKdE1EbDZNbVZUUVVzM09UZDFhRzl3YjAxRFpVVk1RekZLZEhwVWR4SVhkMlpRUW1GelRESkVOUzF1TlU1dlVHeGtaa015UVRRYUlrRkVjM0k1WmxGVWJIVlNZVlpQVDNVNGMyaERZbkUxY0hsaVpHZDFNbE5CY1ZFIiwiZmN2IjoiMyIsImVpIjoid2ZQQmFzTDJENS1uNU5vUGxkZkMyQTQiLCJxYyI6IkNpUjBhR1VnWW1GdWF5QnlZWFJsSUd4cGMzUmxaQ0JpZVNCeVlta2dhWE1nTlM0MU1DVVFBSDNXS0dFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmFuayByYXRlIGJ5IFJCST8iLCJsayI6IkdoaDNhR0YwSUdseklHSmhibXNnY21GMFpTQmllU0J5WW1rIiwiYnMiOiJjMjJPTVEtQ1FBeEc0OXJKMFJTSk5kRWRibVc0eEkyVnhmblFNeENUTzFKS0NQX2VFMEhSdURYOVhsOF95Q0EtVjBhb2Jra3FTNlZ4ZDJJallScW9PT1ZhSVc3NkNmZ0t1YXdoaDhQeU9QQlVPN0ZzVzNseDRxOW0wR3FQdTlrUnp2NHhrRUUwcTlJa09ZNHV0bzBmR2EyMmlQMHlmbXJlTVJTUUxudGNPbWJyNU9lUGFhbXhQQmZWS3NabzNQdmJCNXlZWUYtdkhnIiwiaWQiOiJmY193ZlBCYXNMMkQ1LW41Tm9QbGRmQzJBNF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgxTTNSRWxvZWt4VVFqZE9WV2RVUmxNM2VYRkJUVXhaUVUweFIwRlpkRjlyV2psZlFtWm5kekUzUkcxVVpUVlNTemRFZFhoaWRXWnNiMlJNV0RKdE1EbDZNbVZUUVVzM09UZDFhRzl3YjAxRFpVVk1RekZLZEhwVWR4SVhkMlpRUW1GelRESkVOUzF1TlU1dlVHeGtaa015UVRRYUlrRkVjM0k1WmxGVWJIVlNZVlpQVDNVNGMyaERZbkUxY0hsaVpHZDFNbE5CY1ZFIiwiZmN2IjoiMyIsImVpIjoid2ZQQmFzTDJENS1uNU5vUGxkZkMyQTQiLCJxYyI6IkNpUjBhR1VnWW1GdWF5QnlZWFJsSUd4cGMzUmxaQ0JpZVNCeVlta2dhWE1nTlM0MU1DVVFBSDNXS0dFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmFuayByYXRlIGJ5IFJCST8iLCJsayI6IkdoaDNhR0YwSUdseklHSmhibXNnY21GMFpTQmllU0J5WW1rIiwiYnMiOiJjMjJPTVEtQ1FBeEc0OXJKMFJTSk5kRWRibVc0eEkyVnhmblFNeENUTzFKS0NQX2VFMEhSdURYOVhsOF95Q0EtVjBhb2Jra3FTNlZ4ZDJJallScW9PT1ZhSVc3NkNmZ0t1YXdoaDhQeU9QQlVPN0ZzVzNseDRxOW0wR3FQdTlrUnp2NHhrRUUwcTlJa09ZNHV0bzBmR2EyMmlQMHlmbXJlTVJTUUxudGNPbWJyNU9lUGFhbXhQQmZWS3NabzNQdmJCNXlZWUYtdkhnIiwiaWQiOiJmY193ZlBCYXNMMkQ1LW41Tm9QbGRmQzJBNF81In0%3D"
+    },
+    {
+      "question": "What is the RBI interest rate today?",
+      "type": "ai_overview",
+      "page_token": "Wh4qvXicHdBdToMwAADgeBkfXQtsZksWIxvtxmxnS1tgL6ZS9gPlR8WBvHkXT-VpTPyO8H3_2Etd_t5cz13Xfiwmk77v705Nc7L5XdZUE_3xVWeTTFv7qrNyMbufwYdjtgw-t_7qbesz2bZqzYHA4btxBl8Ls9rH8yCu-BupKaGBgabguyiAuxwPgADTU9xuBTAboeyTQcqThY9TJ1znG9tSJ_SoRXqPEI4C2tFgmpLaTnWFVgSphsgOE5fPIreZKqG43ChwKBsnj4d2r3hihFWyeBzSAk157ffRGD4bhypRQqqdEvCa9HkwjHEE3XQ8gVR6kIoDlxA5LAaORuoS15YHZ-MerL9KE0pIyeBT7EFRzdkr5hUbQ5_6zYVJPmaFrWQ1B3lprkTSJAJUH7BNdMI8BcMowhbkhYSM3R6z69K9_f9cvhyrbtG-N6c_1H5_wA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Wh4qvXicHdBdToMwAADgeBkfXQtsZksWIxvtxmxnS1tgL6ZS9gPlR8WBvHkXT-VpTPyO8H3_2Etd_t5cz13Xfiwmk77v705Nc7L5XdZUE_3xVWeTTFv7qrNyMbufwYdjtgw-t_7qbesz2bZqzYHA4btxBl8Ls9rH8yCu-BupKaGBgabguyiAuxwPgADTU9xuBTAboeyTQcqThY9TJ1znG9tSJ_SoRXqPEI4C2tFgmpLaTnWFVgSphsgOE5fPIreZKqG43ChwKBsnj4d2r3hihFWyeBzSAk157ffRGD4bhypRQqqdEvCa9HkwjHEE3XQ8gVR6kIoDlxA5LAaORuoS15YHZ-MerL9KE0pIyeBT7EFRzdkr5hUbQ5_6zYVJPmaFrWQ1B3lprkTSJAJUH7BNdMI8BcMowhbkhYSM3R6z69K9_f9cvhyrbtG-N6c_1H5_wA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgxTTNSRWxvZWt4VVFqZE9WV2RVUmxNM2VYRkJUVXhaUVUweFIwRlpkRjlyV2psZlFtWm5kekUzUkcxVVpUVlNTemRFZFhoaWRXWnNiMlJNV0RKdE1EbDZNbVZUUVVzM09UZDFhRzl3YjAxRFpVVk1RekZLZEhwVWR4SVhkMlpRUW1GelRESkVOUzF1TlU1dlVHeGtaa015UVRRYUlrRkVjM0k1WmxGVWJIVlNZVlpQVDNVNGMyaERZbkUxY0hsaVpHZDFNbE5CY1ZFIiwiZmN2IjoiMyIsImVpIjoid2ZQQmFzTDJENS1uNU5vUGxkZkMyQTQiLCJxYyI6IkNpUjBhR1VnWW1GdWF5QnlZWFJsSUd4cGMzUmxaQ0JpZVNCeVlta2dhWE1nTlM0MU1DVVFBSDNXS0dFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgUkJJIGludGVyZXN0IHJhdGUgdG9kYXk/IiwibGsiOiJHaDkzYUdGMElHbHpJSEppYVNCcGJuUmxjbVZ6ZENCeVlYUmxJSFJ2WkdGNSIsImJzIjoiYzIyT01RLUNRQXhHNDlySjBSU0pOZEVkYm1XNHhJMlZ4Zm5RTXhDVE8xSktDUF9lRTBIUnVEWDlYbDhfeUNBLVYwYW9ia2txUzZWeGQySWpZUnFvT09WYUlXNzZDZmdLdWF3aGg4UHlPUEJVTzdGc1czbHg0cTltMEdxUHU5a1J6djR4a0VFMHE5SWtPWTR1dG8wZkdhMjJpUDB5Zm1yZU1SU1FMbnRjT21icjVPZVBhYW14UEJmVktzWm8zUHZiQjV5WVlGLXZIZyIsImlkIjoiZmNfd2ZQQmFzTDJENS1uNU5vUGxkZkMyQTRfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgxTTNSRWxvZWt4VVFqZE9WV2RVUmxNM2VYRkJUVXhaUVUweFIwRlpkRjlyV2psZlFtWm5kekUzUkcxVVpUVlNTemRFZFhoaWRXWnNiMlJNV0RKdE1EbDZNbVZUUVVzM09UZDFhRzl3YjAxRFpVVk1RekZLZEhwVWR4SVhkMlpRUW1GelRESkVOUzF1TlU1dlVHeGtaa015UVRRYUlrRkVjM0k1WmxGVWJIVlNZVlpQVDNVNGMyaERZbkUxY0hsaVpHZDFNbE5CY1ZFIiwiZmN2IjoiMyIsImVpIjoid2ZQQmFzTDJENS1uNU5vUGxkZkMyQTQiLCJxYyI6IkNpUjBhR1VnWW1GdWF5QnlZWFJsSUd4cGMzUmxaQ0JpZVNCeVlta2dhWE1nTlM0MU1DVVFBSDNXS0dFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgUkJJIGludGVyZXN0IHJhdGUgdG9kYXk%2FIiwibGsiOiJHaDkzYUdGMElHbHpJSEppYVNCcGJuUmxjbVZ6ZENCeVlYUmxJSFJ2WkdGNSIsImJzIjoiYzIyT01RLUNRQXhHNDlySjBSU0pOZEVkYm1XNHhJMlZ4Zm5RTXhDVE8xSktDUF9lRTBIUnVEWDlYbDhfeUNBLVYwYW9ia2txUzZWeGQySWpZUnFvT09WYUlXNzZDZmdLdWF3aGg4UHlPUEJVTzdGc1czbHg0cTltMEdxUHU5a1J6djR4a0VFMHE5SWtPWTR1dG8wZkdhMjJpUDB5Zm1yZU1SU1FMbnRjT21icjVPZVBhYW14UEJmVktzWm8zUHZiQjV5WVlGLXZIZyIsImlkIjoiZmNfd2ZQQmFzTDJENS1uNU5vUGxkZkMyQTRfNSJ9"
+    },
+    {
+      "question": "What is 100% RBI repo rate?",
+      "type": "ai_overview",
+      "page_token": "SEM_NHicHdBdboIwAADg7DI-CpXoEhOzBPlbM3C0tIW-LFAQteVHaAR82112qp1myb4jfN8_6trK35f0onU_7g1jmqZ13XW1qtaia4x8XFphiFypIhdyv3vdgbezOLjjZB-7yY5J31MHmTjt5tAH7yzgQwy6JwkURgzumIRB5Ucn7JU-sogZb9SnkHBbtWXH0z6PNuMcYkCQ6-nQ4WFyk2bBpJVt6IADdQ9TuP0gABQSyayhLlOlxqoPs6fd4ySCEY1UQmCaqIuN2QxY24OIckAJHDNqP5iyB9yEmpG5QS46EuYtGaO6ugnsWWVDXHgR5rQgh-jiRk8FsEfucyeUrulfoY2CaDkxjimJp5jyJEu5xdvapIrmJYhAlao7c3UjGEers3gcrNX_2OHr3Oh9P3T1H6tBebk",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SEM_NHicHdBdboIwAADg7DI-CpXoEhOzBPlbM3C0tIW-LFAQteVHaAR82112qp1myb4jfN8_6trK35f0onU_7g1jmqZ13XW1qtaia4x8XFphiFypIhdyv3vdgbezOLjjZB-7yY5J31MHmTjt5tAH7yzgQwy6JwkURgzumIRB5Ucn7JU-sogZb9SnkHBbtWXH0z6PNuMcYkCQ6-nQ4WFyk2bBpJVt6IADdQ9TuP0gABQSyayhLlOlxqoPs6fd4ySCEY1UQmCaqIuN2QxY24OIckAJHDNqP5iyB9yEmpG5QS46EuYtGaO6ugnsWWVDXHgR5rQgh-jiRk8FsEfucyeUrulfoY2CaDkxjimJp5jyJEu5xdvapIrmJYhAlao7c3UjGEers3gcrNX_2OHr3Oh9P3T1H6tBebk",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgxTTNSRWxvZWt4VVFqZE9WV2RVUmxNM2VYRkJUVXhaUVUweFIwRlpkRjlyV2psZlFtWm5kekUzUkcxVVpUVlNTemRFZFhoaWRXWnNiMlJNV0RKdE1EbDZNbVZUUVVzM09UZDFhRzl3YjAxRFpVVk1RekZLZEhwVWR4SVhkMlpRUW1GelRESkVOUzF1TlU1dlVHeGtaa015UVRRYUlrRkVjM0k1WmxGVWJIVlNZVlpQVDNVNGMyaERZbkUxY0hsaVpHZDFNbE5CY1ZFIiwiZmN2IjoiMyIsImVpIjoid2ZQQmFzTDJENS1uNU5vUGxkZkMyQTQiLCJxYyI6IkNpUjBhR1VnWW1GdWF5QnlZWFJsSUd4cGMzUmxaQ0JpZVNCeVlta2dhWE1nTlM0MU1DVVFBSDNXS0dFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyAxMDAlIFJCSSByZXBvIHJhdGU/IiwibGsiOiJHaHAzYUdGMElHbHpJREV3TUNVZ2NtSnBJSEpsY0c4Z2NtRjBaUSIsImJzIjoiYzIyT01RLUNRQXhHNDlySjBSU0pOZEVkYm1XNHhJMlZ4Zm5RTXhDVE8xSktDUF9lRTBIUnVEWDlYbDhfeUNBLVYwYW9ia2txUzZWeGQySWpZUnFvT09WYUlXNzZDZmdLdWF3aGg4UHlPUEJVTzdGc1czbHg0cTltMEdxUHU5a1J6djR4a0VFMHE5SWtPWTR1dG8wZkdhMjJpUDB5Zm1yZU1SU1FMbnRjT21icjVPZVBhYW14UEJmVktzWm8zUHZiQjV5WVlGLXZIZyIsImlkIjoiZmNfd2ZQQmFzTDJENS1uNU5vUGxkZkMyQTRfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgxTTNSRWxvZWt4VVFqZE9WV2RVUmxNM2VYRkJUVXhaUVUweFIwRlpkRjlyV2psZlFtWm5kekUzUkcxVVpUVlNTemRFZFhoaWRXWnNiMlJNV0RKdE1EbDZNbVZUUVVzM09UZDFhRzl3YjAxRFpVVk1RekZLZEhwVWR4SVhkMlpRUW1GelRESkVOUzF1TlU1dlVHeGtaa015UVRRYUlrRkVjM0k1WmxGVWJIVlNZVlpQVDNVNGMyaERZbkUxY0hsaVpHZDFNbE5CY1ZFIiwiZmN2IjoiMyIsImVpIjoid2ZQQmFzTDJENS1uNU5vUGxkZkMyQTQiLCJxYyI6IkNpUjBhR1VnWW1GdWF5QnlZWFJsSUd4cGMzUmxaQ0JpZVNCeVlta2dhWE1nTlM0MU1DVVFBSDNXS0dFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyAxMDAlIFJCSSByZXBvIHJhdGU%2FIiwibGsiOiJHaHAzYUdGMElHbHpJREV3TUNVZ2NtSnBJSEpsY0c4Z2NtRjBaUSIsImJzIjoiYzIyT01RLUNRQXhHNDlySjBSU0pOZEVkYm1XNHhJMlZ4Zm5RTXhDVE8xSktDUF9lRTBIUnVEWDlYbDhfeUNBLVYwYW9ia2txUzZWeGQySWpZUnFvT09WYUlXNzZDZmdLdWF3aGg4UHlPUEJVTzdGc1czbHg0cTltMEdxUHU5a1J6djR4a0VFMHE5SWtPWTR1dG8wZkdhMjJpUDB5Zm1yZU1SU1FMbnRjT21icjVPZVBhYW14UEJmVktzWm8zUHZiQjV5WVlGLXZIZyIsImlkIjoiZmNfd2ZQQmFzTDJENS1uNU5vUGxkZkMyQTRfNSJ9"
+    },
+    {
+      "question": "What is the current interest rate as per the RBI?",
+      "type": "ai_overview",
+      "page_token": "jd5AdnicHdBdboIwAADg7DI-yp-6aWKWMFsZCUULbaEvSykozhYqEFHfdpedaqfZsht8-b6-1ak5_zxl9TCYfmVZ4zhOj217VNVUttoS_b2RlhRKFUKeV4vnhfN6kGvQj_5bO_p7YgzdYDsh82tMwigG-YiJoznAriCQRU44kIb6KXj3MrtsBMxn3KNxYsMA2Y5m9MVlaYmoNl2VhheilgsETceJucSZL1KAM6nn1-zhP4oGPkRadxXleeHe6r07ZCkwiih0w8C2c1b3xYZ3LPjzsNmtYnWQeCEsKX4k2-UON9gXegk5u-1ydkygV2oCwlra4x1vyFB80rhw_J5v-SY6A3t7Cn0coHvMeJozY-R50MnWxFGGKQYoQFAJlqGOKxwIhvDkIK9rb_I_tv446GFluvb4C_pyeOQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jd5AdnicHdBdboIwAADg7DI-yp-6aWKWMFsZCUULbaEvSykozhYqEFHfdpedaqfZsht8-b6-1ak5_zxl9TCYfmVZ4zhOj217VNVUttoS_b2RlhRKFUKeV4vnhfN6kGvQj_5bO_p7YgzdYDsh82tMwigG-YiJoznAriCQRU44kIb6KXj3MrtsBMxn3KNxYsMA2Y5m9MVlaYmoNl2VhheilgsETceJucSZL1KAM6nn1-zhP4oGPkRadxXleeHe6r07ZCkwiih0w8C2c1b3xYZ3LPjzsNmtYnWQeCEsKX4k2-UON9gXegk5u-1ydkygV2oCwlra4x1vyFB80rhw_J5v-SY6A3t7Cn0coHvMeJozY-R50MnWxFGGKQYoQFAJlqGOKxwIhvDkIK9rb_I_tv446GFluvb4C_pyeOQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgxTTNSRWxvZWt4VVFqZE9WV2RVUmxNM2VYRkJUVXhaUVUweFIwRlpkRjlyV2psZlFtWm5kekUzUkcxVVpUVlNTemRFZFhoaWRXWnNiMlJNV0RKdE1EbDZNbVZUUVVzM09UZDFhRzl3YjAxRFpVVk1RekZLZEhwVWR4SVhkMlpRUW1GelRESkVOUzF1TlU1dlVHeGtaa015UVRRYUlrRkVjM0k1WmxGVWJIVlNZVlpQVDNVNGMyaERZbkUxY0hsaVpHZDFNbE5CY1ZFIiwiZmN2IjoiMyIsImVpIjoid2ZQQmFzTDJENS1uNU5vUGxkZkMyQTQiLCJxYyI6IkNpUjBhR1VnWW1GdWF5QnlZWFJsSUd4cGMzUmxaQ0JpZVNCeVlta2dhWE1nTlM0MU1DVVFBSDNXS0dFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgY3VycmVudCBpbnRlcmVzdCByYXRlIGFzIHBlciB0aGUgUkJJPyIsImxrIjoiR2h0eVlYUmxJRzltSUdsdWRHVnlaWE4wSUdGeklIQmxjaUJ5WW1rIiwiYnMiOiJjMjJPTVEtQ1FBeEc0OXJKMFJTSk5kRWRibVc0eEkyVnhmblFNeENUTzFKS0NQX2VFMEhSdURYOVhsOF95Q0EtVjBhb2Jra3FTNlZ4ZDJJallScW9PT1ZhSVc3NkNmZ0t1YXdoaDhQeU9QQlVPN0ZzVzNseDRxOW0wR3FQdTlrUnp2NHhrRUUwcTlJa09ZNHV0bzBmR2EyMmlQMHlmbXJlTVJTUUxudGNPbWJyNU9lUGFhbXhQQmZWS3NabzNQdmJCNXlZWUYtdkhnIiwiaWQiOiJmY193ZlBCYXNMMkQ1LW41Tm9QbGRmQzJBNF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlgxTTNSRWxvZWt4VVFqZE9WV2RVUmxNM2VYRkJUVXhaUVUweFIwRlpkRjlyV2psZlFtWm5kekUzUkcxVVpUVlNTemRFZFhoaWRXWnNiMlJNV0RKdE1EbDZNbVZUUVVzM09UZDFhRzl3YjAxRFpVVk1RekZLZEhwVWR4SVhkMlpRUW1GelRESkVOUzF1TlU1dlVHeGtaa015UVRRYUlrRkVjM0k1WmxGVWJIVlNZVlpQVDNVNGMyaERZbkUxY0hsaVpHZDFNbE5CY1ZFIiwiZmN2IjoiMyIsImVpIjoid2ZQQmFzTDJENS1uNU5vUGxkZkMyQTQiLCJxYyI6IkNpUjBhR1VnWW1GdWF5QnlZWFJsSUd4cGMzUmxaQ0JpZVNCeVlta2dhWE1nTlM0MU1DVVFBSDNXS0dFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgY3VycmVudCBpbnRlcmVzdCByYXRlIGFzIHBlciB0aGUgUkJJPyIsImxrIjoiR2h0eVlYUmxJRzltSUdsdWRHVnlaWE4wSUdGeklIQmxjaUJ5WW1rIiwiYnMiOiJjMjJPTVEtQ1FBeEc0OXJKMFJTSk5kRWRibVc0eEkyVnhmblFNeENUTzFKS0NQX2VFMEhSdURYOVhsOF95Q0EtVjBhb2Jra3FTNlZ4ZDJJallScW9PT1ZhSVc3NkNmZ0t1YXdoaDhQeU9QQlVPN0ZzVzNseDRxOW0wR3FQdTlrUnp2NHhrRUUwcTlJa09ZNHV0bzBmR2EyMmlQMHlmbXJlTVJTUUxudGNPbWJyNU9lUGFhbXhQQmZWS3NabzNQdmJCNXlZWUYtdkhnIiwiaWQiOiJmY193ZlBCYXNMMkQ1LW41Tm9QbGRmQzJBNF81In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "eMbtrXiczVXbkqJIEP2A_Y7xxRawkFY7gpgoSkRob3hpx3khELBARbopHXTe9l_2ZX9pv2YKFAUv3TPzMLEVgUVVZSaZWed4_v5n5a2X__31r7vZvJInlo2iiMFBgFcOYwU-a5L92mLnwYqElvuZBNvQcjxbtNww8J3C_pvIFywicgXHE6N5XzJJGzSE0lroBv2VPUcAVgpJCNGYmcRZ0C_sFoQ1WPqz_MQ36IIhjLNmlOrodVEC41ZLZQAHeKbHmj41gH90YBXqUIKIPlC9a0UP0c9Ek2Vqq0I54yklU8Yb02MpnlQ9WTfvR1OTQKp7CmAsWr4SQdg9xdLvemvZRfswqZ1DNtRLkq883h2HBBA-pvah5e3NpPTDUDKndzsvU79sibRZch_TpsqpC85_Rs_axzZR8tZSYV96hHqk32937K5C5MOupr9fIYwRMfiCn9PVDHJ0h7UxxS_HzkI6lVnPcq3kJSQxrNGozgXN_fR5Cr5OBLMyWBKAPKnBDxa94TOwIGvNqN0qMG3HNlyD-5ysy6AscHW-WntI-GSRE6FIllDTyJ3OPEC6GmTajFRO2YSyzc12Mt4d30JPTIa4eunGWXyPKrwGHUJBbnm8FIpwU4Zyvpeo2YqPTzynLzsMt_mLTD0oS67YhNJMzhlDrEvHpF7Od5dLU5XRORGUA2nvqkrpElfUX22kZ510LzolkmsW1mIgpl9Al_3CtAxEW4OTPr1Y8iHUmQ-61JHQIP3uKYG499QL52o_0jLjHafyktgrMqUPkgZD2h44PFak04DBsbgmuiwTX9V9GBP6tG8j4qMh3cDLLauUNhcsyLGnvem462nvZTLuvT2_8ZHi4Z4sfOnPZvA2WwJ_9gv6Y_3f-JSqEz6o030-oZ_hE1UnfEOdjmQ4IClVJ107qtN9Pj0niRzVKfZO1al_NDmr0zWftCyfUnWqHQq6VKdf5pP8Dp9O_9k3-ERLv8Un9R6fEnXK82l5qU7Zus_qlPLp99RJ_z11SujlHKa8VG0X-K5ktUZc2RKawFR2q-Y65OaqKeymRO0q2seSNfc3T75prx4Mz36SgLbZ2w8G3QieHLvwJo5cpyiZ62VxYG6c4sojG8cuzvbFgaQWPVIUGIH7BASm4K_CQOTMahcDdWUTwKm1Zm2vdYxKfwT7y41ibwJu52w53V9XFp26o_ETYFh2Z_jatBuePd7PvVbbmkjlbWT27ZLgD0q-MgwA4LePVWHn9MxGtcSHen04Xbv6C2h-dRue4pc0H0xGDWVYnW_HfKC10SAwav36LuygyjZK8iLiMNTdqvRdwHNY8ENLpKioYNjV4QRDC6Ip1Ckwx2ZA5wjqCr1oWQL0CgvEMg2HfBOrZo3jHzmzAh4dm6-aBR9v9q9inSuQdSiWfwCWDUV5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eMbtrXiczVXbkqJIEP2A_Y7xxRawkFY7gpgoSkRob3hpx3khELBARbopHXTe9l_2ZX9pv2YKFAUv3TPzMLEVgUVVZSaZWed4_v5n5a2X__31r7vZvJInlo2iiMFBgFcOYwU-a5L92mLnwYqElvuZBNvQcjxbtNww8J3C_pvIFywicgXHE6N5XzJJGzSE0lroBv2VPUcAVgpJCNGYmcRZ0C_sFoQ1WPqz_MQ36IIhjLNmlOrodVEC41ZLZQAHeKbHmj41gH90YBXqUIKIPlC9a0UP0c9Ek2Vqq0I54yklU8Yb02MpnlQ9WTfvR1OTQKp7CmAsWr4SQdg9xdLvemvZRfswqZ1DNtRLkq883h2HBBA-pvah5e3NpPTDUDKndzsvU79sibRZch_TpsqpC85_Rs_axzZR8tZSYV96hHqk32937K5C5MOupr9fIYwRMfiCn9PVDHJ0h7UxxS_HzkI6lVnPcq3kJSQxrNGozgXN_fR5Cr5OBLMyWBKAPKnBDxa94TOwIGvNqN0qMG3HNlyD-5ysy6AscHW-WntI-GSRE6FIllDTyJ3OPEC6GmTajFRO2YSyzc12Mt4d30JPTIa4eunGWXyPKrwGHUJBbnm8FIpwU4Zyvpeo2YqPTzynLzsMt_mLTD0oS67YhNJMzhlDrEvHpF7Od5dLU5XRORGUA2nvqkrpElfUX22kZ510LzolkmsW1mIgpl9Al_3CtAxEW4OTPr1Y8iHUmQ-61JHQIP3uKYG499QL52o_0jLjHafyktgrMqUPkgZD2h44PFak04DBsbgmuiwTX9V9GBP6tG8j4qMh3cDLLauUNhcsyLGnvem462nvZTLuvT2_8ZHi4Z4sfOnPZvA2WwJ_9gv6Y_3f-JSqEz6o030-oZ_hE1UnfEOdjmQ4IClVJ107qtN9Pj0niRzVKfZO1al_NDmr0zWftCyfUnWqHQq6VKdf5pP8Dp9O_9k3-ERLv8Un9R6fEnXK82l5qU7Zus_qlPLp99RJ_z11SujlHKa8VG0X-K5ktUZc2RKawFR2q-Y65OaqKeymRO0q2seSNfc3T75prx4Mz36SgLbZ2w8G3QieHLvwJo5cpyiZ62VxYG6c4sojG8cuzvbFgaQWPVIUGIH7BASm4K_CQOTMahcDdWUTwKm1Zm2vdYxKfwT7y41ibwJu52w53V9XFp26o_ETYFh2Z_jatBuePd7PvVbbmkjlbWT27ZLgD0q-MgwA4LePVWHn9MxGtcSHen04Xbv6C2h-dRue4pc0H0xGDWVYnW_HfKC10SAwav36LuygyjZK8iLiMNTdqvRdwHNY8ENLpKioYNjV4QRDC6Ip1Ckwx2ZA5wjqCr1oWQL0CgvEMg2HfBOrZo3jHzmzAh4dm6-aBR9v9q9inSuQdSiWfwCWDUV5"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Bank of America - Banking, Credit Cards, Loans and Merrill ...",
+      "link": "https://www.bankofamerica.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVuleyttHj-BvFp518MGpAzJkkVtqaldg61xZlDP6e1vD5Ln8y1HtPF5J7dPWRtWH2O8YwR6-30VKMjqSyoiuT1UQPgHB1pbYgrRBssmMWcnfaSGJ2&ved=2ahUKEwiC257N35-XAxWfE1kFHZWrEOsQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://www.bankofamerica.com",
+      "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAABwBgCdASocABwAPtEutFooIagoGAEAGglsAMcJADn1dMA3jbyQDABTHvGQg38rShn15v7XOOzOCD1-HAAA_vYB3rL0t4pCYaYbk382S53T9GAFfuDCDxafVf70JXX-umtBKOrS6QulT4a4CjWB2u2zRE8x5kxp33p5v04iz_f5uYaZi1dptrxfiwrcqO33EFXvzOMI0zIFQnjLpA26_zBbMzEur3P9euPYQTR8LaNxiQ4Rlg_HJOY02BNGHe1OR74BnlXfh-cLeOGksao_DadO0XmbC_xPuM_urKAZL9__Z3GHrX3Dv0-qEwmqb8VZ_Za0nNjMmxHxyMKBm0FaNhnxV35idsy-6U4GP6b5zbmEZDMo2AeUNbqc_lWduiOH844ZqQAA.webp",
+      "snippet": "At Bank of America, our purpose is to help make financial lives better through the power of every connection. Secure, convenient banking anytime. Clients: 888- ...",
+      "snippet_highlighted_words": [
+        "Bank",
+        "banking"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "At Bank of America, our purpose is to help make financial lives better through the power of every connection. Secure, convenient banking anytime. Clients: 888- ...",
+          "source_info_link": "https://www.bankofamerica.com/",
+          "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAABwBgCdASocABwAPtEutFooIagoGAEAGglsAMcJADn1dMA3jbyQDABTHvGQg38rShn15v7XOOzOCD1-HAAA_vYB3rL0t4pCYaYbk382S53T9GAFfuDCDxafVf70JXX-umtBKOrS6QulT4a4CjWB2u2zRE8x5kxp33p5v04iz_f5uYaZi1dptrxfiwrcqO33EFXvzOMI0zIFQnjLpA26_zBbMzEur3P9euPYQTR8LaNxiQ4Rlg_HJOY02BNGHe1OR74BnlXfh-cLeOGksao_DadO0XmbC_xPuM_urKAZL9__Z3GHrX3Dv0-qEwmqb8VZ_Za0nNjMmxHxyMKBm0FaNhnxV35idsy-6U4GP6b5zbmEZDMo2AeUNbqc_lWduiOH844ZqQAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVnVsZXl0dEhqLUJ2RnA1MThNR3BBekpra1Z0cWFsZGc2MXhabERQNmUxdkQ1TG44eTFIdFBGNUo3ZFBXUnRXSDJPOFl3UjYtMzBWS01qcVN5b2l1VDFVUVBnSEIxcGJZZ3JSQnNzbU1XY25mYVNHSjISBBoCCAAa2AMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCyAwgAEAAYACAAKg0KA3RoZRWohIBAGgFhMoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVnVsZXl0dEhqLUJ2RnA1MThNR3BBekpra1Z0cWFsZGc2MXhabERQNmUxdkQ1TG44eTFIdFBGNUo3ZFBXUnRXSDJPOFl3UjYtMzBWS01qcVN5b2l1VDFVUVBnSEIxcGJZZ3JSQnNzbU1XY25mYVNHSjI6TDxiPkJhbms8L2I-IG9mIEFtZXJpY2EgLSA8Yj5CYW5raW5nPC9iPiwgQ3JlZGl0IENhcmRzLCBMb2FucyBhbmQgTWVycmlsbCAuLi5CtgFBdCA8Yj5CYW5rPC9iPiBvZiBBbWVyaWNhLCBvdXIgcHVycG9zZSBpcyB0byBoZWxwIG1ha2UgZmluYW5jaWFsIGxpdmVzIGJldHRlciB0aHJvdWdoIHRoZSBwb3dlciBvZiBldmVyeSBjb25uZWN0aW9uLiBTZWN1cmUsIGNvbnZlbmllbnQgPGI-YmFua2luZzwvYj4gYW55dGltZS4gQ2xpZW50czogODg4LSZuYnNwOy4uLkoCYnlKAmlzUgFhIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVnVsZXl0dEhqLUJ2RnA1MThNR3BBekpra1Z0cWFsZGc2MXhabERQNmUxdkQ1TG44eTFIdFBGNUo3ZFBXUnRXSDJPOFl3UjYtMzBWS01qcVN5b2l1VDFVUVBnSEIxcGJZZ3JSQnNzbU1XY25mYVNHSjISBBoCCAAa2AMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCyAwgAEAAYACAAKg0KA3RoZRWohIBAGgFhMoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVnVsZXl0dEhqLUJ2RnA1MThNR3BBekpra1Z0cWFsZGc2MXhabERQNmUxdkQ1TG44eTFIdFBGNUo3ZFBXUnRXSDJPOFl3UjYtMzBWS01qcVN5b2l1VDFVUVBnSEIxcGJZZ3JSQnNzbU1XY25mYVNHSjI6TDxiPkJhbms8L2I-IG9mIEFtZXJpY2EgLSA8Yj5CYW5raW5nPC9iPiwgQ3JlZGl0IENhcmRzLCBMb2FucyBhbmQgTWVycmlsbCAuLi5CtgFBdCA8Yj5CYW5rPC9iPiBvZiBBbWVyaWNhLCBvdXIgcHVycG9zZSBpcyB0byBoZWxwIG1ha2UgZmluYW5jaWFsIGxpdmVzIGJldHRlciB0aHJvdWdoIHRoZSBwb3dlciBvZiBldmVyeSBjb25uZWN0aW9uLiBTZWN1cmUsIGNvbnZlbmllbnQgPGI-YmFua2luZzwvYj4gYW55dGltZS4gQ2xpZW50czogODg4LSZuYnNwOy4uLkoCYnlKAmlzUgFhIgIQAUgAWABoAA",
+      "source": "Bank of America"
+    },
+    {
+      "position": 2,
+      "title": "World Bank Group - International Development, Poverty and ...",
+      "link": "https://www.worldbank.org/ext/en/home",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV3oFtakUWmky5Nazuu_2xFQH6RFClWlsxErU7nO_qRWmcnUN7ljdkvDP4Sf2riivaKYlb4qv0EziKbGXmY0VC7eKVWQSm_byNdirvtW5XM2FHiG8z4GTLFo8ghA&ved=2ahUKEwiC257N35-XAxWfE1kFHZWrEOsQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://www.worldbank.org \u203a ext",
+      "favicon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0ygxg9ldkAlAL9-MCtACdcp4Yx7LwD_uydvc5ILP3_tpxicU47NEkr0xVAAP71E8jN2yCP6zUN1jxlcF-MoW3DzDgjlNdMvW7HeNZsAQs0Mz_-4e1TDaAZLUTyp9E_oHjV1bCnGrJ73mmSRq_RhuVwSK1Cetz-nzeXA7Kx4Tz3M7i2M0rAWhs8P0l8wU4Vyp4Bzwp3q1DeyOdOzziCzfQiBNzmIeA2RE9rtL9ZfxSDmdRCCK4BE_Tty_3rkdCaTXDm47gpWzc6qOTIk1qTIezhO2l88V1ebHXYWjhrBLJGLC9gu8-ci8F6OuZBzdV-_TGyqa86t9JUylszkNTT2xDl0I7OwaxON1rKOR_zBPjgFXxPTJbPJg-f6UHWQF6-svXQg9y6Mi_qcFgZNKJmMPM8XFr20YNkv5fND2PfgKOitcEFoAAA.webp",
+      "snippet": "With 189 member countries, the World Bank Group is a unique global partnership fighting poverty worldwide through sustainable solutions.",
+      "snippet_highlighted_words": [
+        "Bank"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "With 189 member countries, the World Bank Group is a unique global partnership fighting poverty worldwide through sustainable solutions.",
+          "source_info_link": "https://www.worldbank.org/ext/en/home",
+          "icon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0ygxg9ldkAlAL9-MCtACdcp4Yx7LwD_uydvc5ILP3_tpxicU47NEkr0xVAAP71E8jN2yCP6zUN1jxlcF-MoW3DzDgjlNdMvW7HeNZsAQs0Mz_-4e1TDaAZLUTyp9E_oHjV1bCnGrJ73mmSRq_RhuVwSK1Cetz-nzeXA7Kx4Tz3M7i2M0rAWhs8P0l8wU4Vyp4Bzwp3q1DeyOdOzziCzfQiBNzmIeA2RE9rtL9ZfxSDmdRCCK4BE_Tty_3rkdCaTXDm47gpWzc6qOTIk1qTIezhO2l88V1ebHXYWjhrBLJGLC9gu8-ci8F6OuZBzdV-_TGyqa86t9JUylszkNTT2xDl0I7OwaxON1rKOR_zBPjgFXxPTJbPJg-f6UHWQF6-svXQg9y6Mi_qcFgZNKJmMPM8XFr20YNkv5fND2PfgKOitcEFoAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVjNvRnRha1VXbWt5NU5henV1XzJ4RlFINlJGQ2xXbHN4RXJVN25PX3FSV21jblVON2xqZGt2RFA0U2YycmlpdmFLWWxiNHF2MEV6aUtiR1htWTBWQzdlS1ZXUVNtX2J5TmRpcnZ0VzVYTTJGSGlHOHo0R1RMRm84Z2hBEgQaAggAGrMDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjQMIABAAGAAgACoNCgN0aGUVjNiRQBoBYTKQAS9nb3RvP3VybD1DQUVTWUFIck96QVYzb0Z0YWtVV21reTVOYXp1dV8yeEZRSDZSRkNsV2xzeEVyVTduT19xUldtY25VTjdsamRrdkRQNFNmMnJpaXZhS1lsYjRxdjBFemlLYkdYbVkwVkM3ZUtWV1FTbV9ieU5kaXJ2dFc1WE0yRkhpRzh6NEdUTEZvOGdoQTpEV29ybGQgPGI-QmFuazwvYj4gR3JvdXAgLSBJbnRlcm5hdGlvbmFsIERldmVsb3BtZW50LCBQb3ZlcnR5IGFuZCAuLi5CjwFXaXRoIDE4OSBtZW1iZXIgY291bnRyaWVzLCB0aGUgV29ybGQgPGI-QmFuazwvYj4gR3JvdXAgaXMgYSB1bmlxdWUgZ2xvYmFsIHBhcnRuZXJzaGlwIGZpZ2h0aW5nIHBvdmVydHkgd29ybGR3aWRlIHRocm91Z2ggc3VzdGFpbmFibGUgc29sdXRpb25zLkoCaXNKAmJ5UgFhIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVjNvRnRha1VXbWt5NU5henV1XzJ4RlFINlJGQ2xXbHN4RXJVN25PX3FSV21jblVON2xqZGt2RFA0U2YycmlpdmFLWWxiNHF2MEV6aUtiR1htWTBWQzdlS1ZXUVNtX2J5TmRpcnZ0VzVYTTJGSGlHOHo0R1RMRm84Z2hBEgQaAggAGrMDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjQMIABAAGAAgACoNCgN0aGUVjNiRQBoBYTKQAS9nb3RvP3VybD1DQUVTWUFIck96QVYzb0Z0YWtVV21reTVOYXp1dV8yeEZRSDZSRkNsV2xzeEVyVTduT19xUldtY25VTjdsamRrdkRQNFNmMnJpaXZhS1lsYjRxdjBFemlLYkdYbVkwVkM3ZUtWV1FTbV9ieU5kaXJ2dFc1WE0yRkhpRzh6NEdUTEZvOGdoQTpEV29ybGQgPGI-QmFuazwvYj4gR3JvdXAgLSBJbnRlcm5hdGlvbmFsIERldmVsb3BtZW50LCBQb3ZlcnR5IGFuZCAuLi5CjwFXaXRoIDE4OSBtZW1iZXIgY291bnRyaWVzLCB0aGUgV29ybGQgPGI-QmFuazwvYj4gR3JvdXAgaXMgYSB1bmlxdWUgZ2xvYmFsIHBhcnRuZXJzaGlwIGZpZ2h0aW5nIHBvdmVydHkgd29ybGR3aWRlIHRocm91Z2ggc3VzdGFpbmFibGUgc29sdXRpb25zLkoCaXNKAmJ5UgFhIgIQAUgAWABoAA",
+      "source": "World Bank Group"
+    },
+    {
+      "position": 3,
+      "title": "Bank Secrecy Act (BSA)",
+      "link": "https://www.occ.gov/topics/supervision-and-examination/bsa/index-bsa.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFdfPWhIRFAJ_ipMSG3ZPjXQ5NO6dBM5I6KRlTM8AvVDuQjwidECjT9sT6RFteMFWfMnGDuKyZcplFPAT6EZ-QtA4hC4qdbNYVA26ndVhGovjycrgEEbHyl9l53c87h1U8weZa_9wj8mSBFzkS7xX6anhjk8vWMb_kfLprvfcz3M&ved=2ahUKEwiC257N35-XAxWfE1kFHZWrEOsQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://www.occ.gov \u203a topics \u203a bsa \u203a index-bsa",
+      "favicon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAADwAwCdASoQABAAAsBMJbACdLoBJgIsA3G79AHMAx6DG1HmVHPqbdYAAP7ws7kbc3Y8f15388GZ53fi0mLnUivg_cgdf9GLSBNDvQan-5ydf7--PDq1tzMUryanQeNQfiXwg_yaQla0GH1mFYwsdI4r0fUpysfqHMqnDM8IeV-g0cHjPO-rx3rAu3modyO36wyRaWa7-cianYDn-43xemq5lF5YsX3SZst1LKYnJLUWDxNWq77vzyvUAAA.webp",
+      "snippet": "The Bank Secrecy Act \u2026 establishes program, recordkeeping and reporting requirements for national banks, federal savings associations, federal branches",
+      "snippet_highlighted_words": [
+        "The Bank",
+        "banks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Bank Secrecy Act \u2026 establishes program, recordkeeping and reporting requirements for national banks, federal savings associations, federal branches",
+          "source_info_link": "https://www.occ.gov/topics/supervision-and-examination/bsa/index-bsa.html",
+          "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAADwAwCdASoQABAAAsBMJbACdLoBJgIsA3G79AHMAx6DG1HmVHPqbdYAAP7ws7kbc3Y8f15388GZ53fi0mLnUivg_cgdf9GLSBNDvQan-5ydf7--PDq1tzMUryanQeNQfiXwg_yaQla0GH1mFYwsdI4r0fUpysfqHMqnDM8IeV-g0cHjPO-rx3rAu3modyO36wyRaWa7-cianYDn-43xemq5lF5YsX3SZst1LKYnJLUWDxNWq77vzyvUAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZkZlBXaElSRkFKX2lwTVNHM1pQalhRNU5PNmRCTTVJNktSbFRNOEF2VkR1UWp3aWRFQ2pUOXNUNlJGdGVNRldmTW5HRHVLeVpjcGxGUEFUNkVaLVF0QTRoQzRxZGJOWVZBMjZuZFZoR292anljcmdFRWJIeWw5bDUzYzg3aDFVOHdlWmFfOXdqOG1TQkZ6a1M3eFg2YW5oams4dldNYl9rZkxwcnZmY3ozTRIEGgIIABrfAxICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQLkDCAAQABgAIAAqDQoDdGhlFQzum0AaAWEywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RmRmUFdoSVJGQUpfaXBNU0czWlBqWFE1Tk82ZEJNNUk2S1JsVE04QXZWRHVRandpZEVDalQ5c1Q2UkZ0ZU1GV2ZNbkdEdUt5WmNwbEZQQVQ2RVotUXRBNGhDNHFkYk5ZVkEyNm5kVmhHb3ZqeWNyZ0VFYkh5bDlsNTNjODdoMVU4d2VaYV85d2o4bVNCRnprUzd4WDZhbmhqazh2V01iX2tmTHBydmZjejNNOic8Yj5CYW5rPC9iPiBTZWNyZWN5IEFjdCAoQlNBKSAtIE9DQy5nb3ZCpwE8Yj5UaGUgQmFuazwvYj4gU2VjcmVjeSBBY3Qg4oCmIGVzdGFibGlzaGVzIHByb2dyYW0sIHJlY29yZGtlZXBpbmcgYW5kIHJlcG9ydGluZyByZXF1aXJlbWVudHMgZm9yIG5hdGlvbmFsIDxiPmJhbmtzPC9iPiwgZmVkZXJhbCBzYXZpbmdzIGFzc29jaWF0aW9ucywgZmVkZXJhbCBicmFuY2hlc0oCYnlKAmlzUgFhIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZkZlBXaElSRkFKX2lwTVNHM1pQalhRNU5PNmRCTTVJNktSbFRNOEF2VkR1UWp3aWRFQ2pUOXNUNlJGdGVNRldmTW5HRHVLeVpjcGxGUEFUNkVaLVF0QTRoQzRxZGJOWVZBMjZuZFZoR292anljcmdFRWJIeWw5bDUzYzg3aDFVOHdlWmFfOXdqOG1TQkZ6a1M3eFg2YW5oams4dldNYl9rZkxwcnZmY3ozTRIEGgIIABrfAxICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQLkDCAAQABgAIAAqDQoDdGhlFQzum0AaAWEywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RmRmUFdoSVJGQUpfaXBNU0czWlBqWFE1Tk82ZEJNNUk2S1JsVE04QXZWRHVRandpZEVDalQ5c1Q2UkZ0ZU1GV2ZNbkdEdUt5WmNwbEZQQVQ2RVotUXRBNGhDNHFkYk5ZVkEyNm5kVmhHb3ZqeWNyZ0VFYkh5bDlsNTNjODdoMVU4d2VaYV85d2o4bVNCRnprUzd4WDZhbmhqazh2V01iX2tmTHBydmZjejNNOic8Yj5CYW5rPC9iPiBTZWNyZWN5IEFjdCAoQlNBKSAtIE9DQy5nb3ZCpwE8Yj5UaGUgQmFuazwvYj4gU2VjcmVjeSBBY3Qg4oCmIGVzdGFibGlzaGVzIHByb2dyYW0sIHJlY29yZGtlZXBpbmcgYW5kIHJlcG9ydGluZyByZXF1aXJlbWVudHMgZm9yIG5hdGlvbmFsIDxiPmJhbmtzPC9iPiwgZmVkZXJhbCBzYXZpbmdzIGFzc29jaWF0aW9ucywgZmVkZXJhbCBicmFuY2hlc0oCYnlKAmlzUgFhIgIQAUgAWABoAA",
+      "source": "Office of the Comptroller of the Currency (OCC) (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "U.S. Bank: Personal Banking, Credit Cards, Loans & Investing",
+      "link": "https://www.usbank.com/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVURg6bQaKlSnmxN9N2vHQHtuIuREDbv8P3FNHTVcBi0xSgA5cUX9pkpgbpMlPSmafk7U_-rG5tozgUIeh221Ugx3VPRos3kbd3h245przprhAdw53KNsM&ved=2ahUKEwiC257N35-XAxWfE1kFHZWrEOsQFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://www.usbank.com",
+      "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwBACdASogACAAPrUurVanIacnG_DgFolqALUhQVYdIAAk0Bbpq-GWQf0t4Nz29CAA4nxAARYhei6IOWwbAXsv-XCtxDLzZ-HRfOv-ZuxdT5S6vhOZtlgoGFnxHDIC_bcKrRxpwmnnahwcwyCOJHjS053TBZyGf_Pb4Dt_wDnyH4nqXkDpejavbt-5EcVaNv1fVnVQdJZxgIAA.webp",
+      "snippet": "Experience personalized banking services for your unique needs with U.S. Bank - Checking, credit cards, home loans. Check your rate to get started.",
+      "snippet_highlighted_words": [
+        "banking",
+        "Bank",
+        "rate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Experience personalized banking services for your unique needs with U.S. Bank - Checking, credit cards, home loans. Check your rate to get started.",
+          "source_info_link": "https://www.usbank.com/index.html",
+          "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADwBACdASogACAAPrUurVanIacnG_DgFolqALUhQVYdIAAk0Bbpq-GWQf0t4Nz29CAA4nxAARYhei6IOWwbAXsv-XCtxDLzZ-HRfOv-ZuxdT5S6vhOZtlgoGFnxHDIC_bcKrRxpwmnnahwcwyCOJHjS053TBZyGf_Pb4Dt_wDnyH4nqXkDpejavbt-5EcVaNv1fVnVQdJZxgIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVlVSZzZiUWFLbFNubXhOOU4ydkhRSHR1SXVSRURidjhQM0ZOSFRWY0JpMHhTZ0E1Y1VYOXBrcGdicE1sUFNtYWZrN1VfLXJHNXRvemdVSWVoMjIxVWd4M1ZQUm9zM2tiZDNoMjQ1cHJ6cHJoQWR3NTNLTnNNEgQaAggAGtADEgIIARoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAqgMIABAAGAAgACoNCgN0aGUVkMOwQBoBYTKKAS9nb3RvP3VybD1DQUVTWEFIck96QVZVUmc2YlFhS2xTbm14TjlOMnZIUUh0dUl1UkVEYnY4UDNGTkhUVmNCaTB4U2dBNWNVWDlwa3BnYnBNbFBTbWFmazdVXy1yRzV0b3pnVUllaDIyMVVneDNWUFJvczNrYmQzaDI0NXByenByaEFkdzUzS05zTTpOVS5TLiA8Yj5CYW5rPC9iPjogUGVyc29uYWwgPGI-QmFua2luZzwvYj4sIENyZWRpdCBDYXJkcywgTG9hbnMgJmFtcDsgSW52ZXN0aW5nQqgBRXhwZXJpZW5jZSBwZXJzb25hbGl6ZWQgPGI-YmFua2luZzwvYj4gc2VydmljZXMgZm9yIHlvdXIgdW5pcXVlIG5lZWRzIHdpdGggVS5TLiA8Yj5CYW5rPC9iPiAtIENoZWNraW5nLCBjcmVkaXQgY2FyZHMsIGhvbWUgbG9hbnMuIENoZWNrIHlvdXIgPGI-cmF0ZTwvYj4gdG8gZ2V0IHN0YXJ0ZWQuSgJieUoCaXNSAWEiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVlVSZzZiUWFLbFNubXhOOU4ydkhRSHR1SXVSRURidjhQM0ZOSFRWY0JpMHhTZ0E1Y1VYOXBrcGdicE1sUFNtYWZrN1VfLXJHNXRvemdVSWVoMjIxVWd4M1ZQUm9zM2tiZDNoMjQ1cHJ6cHJoQWR3NTNLTnNNEgQaAggAGtADEgIIARoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAqgMIABAAGAAgACoNCgN0aGUVkMOwQBoBYTKKAS9nb3RvP3VybD1DQUVTWEFIck96QVZVUmc2YlFhS2xTbm14TjlOMnZIUUh0dUl1UkVEYnY4UDNGTkhUVmNCaTB4U2dBNWNVWDlwa3BnYnBNbFBTbWFmazdVXy1yRzV0b3pnVUllaDIyMVVneDNWUFJvczNrYmQzaDI0NXByenByaEFkdzUzS05zTTpOVS5TLiA8Yj5CYW5rPC9iPjogUGVyc29uYWwgPGI-QmFua2luZzwvYj4sIENyZWRpdCBDYXJkcywgTG9hbnMgJmFtcDsgSW52ZXN0aW5nQqgBRXhwZXJpZW5jZSBwZXJzb25hbGl6ZWQgPGI-YmFua2luZzwvYj4gc2VydmljZXMgZm9yIHlvdXIgdW5pcXVlIG5lZWRzIHdpdGggVS5TLiA8Yj5CYW5rPC9iPiAtIENoZWNraW5nLCBjcmVkaXQgY2FyZHMsIGhvbWUgbG9hbnMuIENoZWNrIHlvdXIgPGI-cmF0ZTwvYj4gdG8gZ2V0IHN0YXJ0ZWQuSgJieUoCaXNSAWEiAhABSABYAGgA",
+      "source": "U.S. Bank"
+    },
+    {
+      "position": 5,
+      "title": "Premier Banking & Lending | BANK",
+      "link": "https://www.bank.bank/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUQHrOzAV0hF6PE3p5ecb9YRffYlj8ipQkMZWknqsjZTHz-fOTUmojzrnQKWXvKLSRpFRKnDb4iiG-A9ZOXWjyMP2vtHOPA1KhKj5GbAC-T2rMQ&ved=2ahUKEwiC257N35-XAxWfE1kFHZWrEOsQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.bank.bank",
+      "favicon": "https://serpapi.com/images/i/UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASocABwAPrUurVanIacnG_DgFolpAACI5k0xMhFrGgAAAP74rGi6lz0EjbJE02DjmOcW4znXBTUIUOWzANNYVb2tBlGhTn7RT_wAAAAA.webp",
+      "snippet": "BANK provides banking and lending services to a variety of customers from our offices in Des Moines and across Southeast Iowa.",
+      "snippet_highlighted_words": [
+        "BANK",
+        "banking"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "BANK provides banking and lending services to a variety of customers from our offices in Des Moines and across Southeast Iowa.",
+          "source_info_link": "https://www.bank.bank/",
+          "icon": "https://serpapi.com/images/i/UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASocABwAPrUurVanIacnG_DgFolpAACI5k0xMhFrGgAAAP74rGi6lz0EjbJE02DjmOcW4znXBTUIUOWzANNYVb2tBlGhTn7RT_wAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWMGhGNlBFM3A1ZWNiOVlSZmZZbGo4aXBRa01aV2tucXNqWlRIei1mT1RVbW9qenJuUUtXWHZLTFNScEZSS25EYjRpaUctQTlaT1hXanlNUDJ2dEhPUEExS2hLajVHYkFDLVQyck1REgQaAggAGokDEgIIARoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA4wIIABAAGAAgACoNCgN0aGUV3HW0QBoBYTJ8L2dvdG8_dXJsPUNBRVNVUUhyT3pBVjBoRjZQRTNwNWVjYjlZUmZmWWxqOGlwUWtNWldrbnFzalpUSHotZk9UVW1vanpyblFLV1h2S0xTUnBGUktuRGI0aWlHLUE5Wk9YV2p5TVAydnRIT1BBMUtoS2o1R2JBQy1UMnJNUToyUHJlbWllciA8Yj5CYW5raW5nPC9iPiAmYW1wOyBMZW5kaW5nIHwgPGI-QkFOSzwvYj5CjAE8Yj5CQU5LPC9iPiBwcm92aWRlcyA8Yj5iYW5raW5nPC9iPiBhbmQgbGVuZGluZyBzZXJ2aWNlcyB0byBhIHZhcmlldHkgb2YgY3VzdG9tZXJzIGZyb20gb3VyIG9mZmljZXMgaW4gRGVzIE1vaW5lcyBhbmQgYWNyb3NzIFNvdXRoZWFzdCBJb3dhLkoCaXNKAmJ5UgFhIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWMGhGNlBFM3A1ZWNiOVlSZmZZbGo4aXBRa01aV2tucXNqWlRIei1mT1RVbW9qenJuUUtXWHZLTFNScEZSS25EYjRpaUctQTlaT1hXanlNUDJ2dEhPUEExS2hLajVHYkFDLVQyck1REgQaAggAGokDEgIIARoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA4wIIABAAGAAgACoNCgN0aGUV3HW0QBoBYTJ8L2dvdG8_dXJsPUNBRVNVUUhyT3pBVjBoRjZQRTNwNWVjYjlZUmZmWWxqOGlwUWtNWldrbnFzalpUSHotZk9UVW1vanpyblFLV1h2S0xTUnBGUktuRGI0aWlHLUE5Wk9YV2p5TVAydnRIT1BBMUtoS2o1R2JBQy1UMnJNUToyUHJlbWllciA8Yj5CYW5raW5nPC9iPiAmYW1wOyBMZW5kaW5nIHwgPGI-QkFOSzwvYj5CjAE8Yj5CQU5LPC9iPiBwcm92aWRlcyA8Yj5iYW5raW5nPC9iPiBhbmQgbGVuZGluZyBzZXJ2aWNlcyB0byBhIHZhcmlldHkgb2YgY3VzdG9tZXJzIGZyb20gb3VyIG9mZmljZXMgaW4gRGVzIE1vaW5lcyBhbmQgYWNyb3NzIFNvdXRoZWFzdCBJb3dhLkoCaXNKAmJ5UgFhIgIQAUgAWABoAA",
+      "source": "bank.Bank"
+    },
+    {
+      "position": 6,
+      "title": "The Conference of State Bank Supervisors",
+      "link": "https://www.csbs.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVUykxTRKYYwy2SkLrBSyxLJt_RtYI5U9rUziuWtJJTeuQYlQDJtVJPNu6bWvw18sprOASq3kdd7Przc9XdV0r_Wk-TnbWznP_E_G1&ved=2ahUKEwiC257N35-XAxWfE1kFHZWrEOsQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://www.csbs.org",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEVJe6xJfK1Je6xFeas6c6hwlbzO2uff5--uwtdahrPE0uL____v8_cdZqGUr8v7_f5Je6xJe62Ezr7mAAAAEnRSTlP_XIj_________________jiudDecfAAABJklEQVR4AZSSVYLAIAxE0yZIGArt_S-7WFi394U8NEMfOE76wF8ElsUSdp9pIM6Hjo_EXWBNYZB0GBJhZBkCNlMIgI-NDCgfJzsgacMDrhuSkS9puBiVphBKxxHTFIKsu_L7I6qyCdzQUpS7QDH5RgCiTAFOGwm1jDvkXK6GmuCxoS4ogNyoSyD2FYNaxjMlWt_bTwkPRKgL1p9f-_9i3Z9G3vM8HwbofMf9HPf7kZ-OMNjYl9wDA1ZDeApC6joqZOWeVMddkDQ6qPBiQm1YYJiAnBrZ8hAQrk5YggKzWDGaUEMHiLYDam6EIh_uEFexMhZlHyEil5-ZJC2lb63O8hCQU8dCa5mMW_gY-wpjXJJLXPQTVyZfBgYcrCyoOY8ZW9ajPHcDAOjYEuFqRah5AAAAAElFTkSuQmCC.png",
+      "snippet": "This rulemaking would update FDIC regulations to reflect the realities of modern banking and help preserve competitive balance within the dual banking system.",
+      "snippet_highlighted_words": [
+        "banking",
+        "banking"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This rulemaking would update FDIC regulations to reflect the realities of modern banking and help preserve competitive balance within the dual banking system.",
+          "source_info_link": "https://www.csbs.org/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEVJe6xJfK1Je6xFeas6c6hwlbzO2uff5--uwtdahrPE0uL____v8_cdZqGUr8v7_f5Je6xJe62Ezr7mAAAAEnRSTlP_XIj_________________jiudDecfAAABJklEQVR4AZSSVYLAIAxE0yZIGArt_S-7WFi394U8NEMfOE76wF8ElsUSdp9pIM6Hjo_EXWBNYZB0GBJhZBkCNlMIgI-NDCgfJzsgacMDrhuSkS9puBiVphBKxxHTFIKsu_L7I6qyCdzQUpS7QDH5RgCiTAFOGwm1jDvkXK6GmuCxoS4ogNyoSyD2FYNaxjMlWt_bTwkPRKgL1p9f-_9i3Z9G3vM8HwbofMf9HPf7kZ-OMNjYl9wDA1ZDeApC6joqZOWeVMddkDQ6qPBiQm1YYJiAnBrZ8hAQrk5YggKzWDGaUEMHiLYDam6EIh_uEFexMhZlHyEil5-ZJC2lb63O8hCQU8dCa5mMW_gY-wpjXJJLXPQTVyZfBgYcrCyoOY8ZW9ajPHcDAOjYEuFqRah5AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWVXlreFRSS1lZd3kyU2tMckJTeXhMSnRfUnRZSTVVOXJVeml1V3RKSlRldVFZbFFESnRWSlBOdTZiV3Z3MThzcHJPQVNxM2tkZDdQcnpjOVhkVjByX1drLVRuYld6blBfRV9HMRIEGgIIABqkAxICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQP4CCAAQABgAIAAqDQoDdGhlFcWwH0AaAWEyei9nb3RvP3VybD1DQUVTVUFIck96QVZVeWt4VFJLWVl3eTJTa0xyQlN5eExKdF9SdFlJNVU5clV6aXVXdEpKVGV1UVlsUURKdFZKUE51NmJXdncxOHNwck9BU3Eza2RkN1ByemM5WGRWMHJfV2stVG5iV3puUF9FX0cxOi9UaGUgQ29uZmVyZW5jZSBvZiBTdGF0ZSA8Yj5CYW5rPC9iPiBTdXBlcnZpc29yc0KsAVRoaXMgcnVsZW1ha2luZyB3b3VsZCB1cGRhdGUgRkRJQyByZWd1bGF0aW9ucyB0byByZWZsZWN0IHRoZSByZWFsaXRpZXMgb2YgbW9kZXJuIDxiPmJhbmtpbmc8L2I-IGFuZCBoZWxwIHByZXNlcnZlIGNvbXBldGl0aXZlIGJhbGFuY2Ugd2l0aGluIHRoZSBkdWFsIDxiPmJhbmtpbmc8L2I-IHN5c3RlbS5KAmlzSgJieVIBYSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWVXlreFRSS1lZd3kyU2tMckJTeXhMSnRfUnRZSTVVOXJVeml1V3RKSlRldVFZbFFESnRWSlBOdTZiV3Z3MThzcHJPQVNxM2tkZDdQcnpjOVhkVjByX1drLVRuYld6blBfRV9HMRIEGgIIABqkAxICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQP4CCAAQABgAIAAqDQoDdGhlFcWwH0AaAWEyei9nb3RvP3VybD1DQUVTVUFIck96QVZVeWt4VFJLWVl3eTJTa0xyQlN5eExKdF9SdFlJNVU5clV6aXVXdEpKVGV1UVlsUURKdFZKUE51NmJXdncxOHNwck9BU3Eza2RkN1ByemM5WGRWMHJfV2stVG5iV3puUF9FX0cxOi9UaGUgQ29uZmVyZW5jZSBvZiBTdGF0ZSA8Yj5CYW5rPC9iPiBTdXBlcnZpc29yc0KsAVRoaXMgcnVsZW1ha2luZyB3b3VsZCB1cGRhdGUgRkRJQyByZWd1bGF0aW9ucyB0byByZWZsZWN0IHRoZSByZWFsaXRpZXMgb2YgbW9kZXJuIDxiPmJhbmtpbmc8L2I-IGFuZCBoZWxwIHByZXNlcnZlIGNvbXBldGl0aXZlIGJhbGFuY2Ugd2l0aGluIHRoZSBkdWFsIDxiPmJhbmtpbmc8L2I-IHN5c3RlbS5KAmlzSgJieVIBYSICEAFIAFgAaAA",
+      "source": "csbs.org",
+      "read_more_link": "https://www.csbs.org/#:~:text=This%20rulemaking%20would%20update%20FDIC,within%20the%20dual%20banking%20system."
+    },
+    {
+      "position": 7,
+      "title": "IAEA Low Enriched Uranium (LEU) Bank",
+      "link": "http://www.iaea.org/topics/iaea-low-enriched-uranium-bank",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVsvvpaU-vKwpM86BCuYHZudYLPFyVNJ6hE5bZ2l12-fAbeI1AiC_6FSDjq7m6KI3xhVu4j4BG1HN60IaZCOBibX-hp1U3eexsoaOK2KDpIs1qgnERkdS4pYm0sKtxYyAUjOts-yBh2IYZWii5aNac&ved=2ahUKEwiC257N35-XAxWfE1kFHZWrEOsQFnoECEQQAQ&uoh=1",
+      "displayed_link": "http://www.iaea.org \u203a topics \u203a iaea-low-enriched-uraniu...",
+      "favicon": "https://serpapi.com/images/i/UklGRqwBAABXRUJQVlA4IKABAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0ygxgmeayX_9QS63xZZp--VhtYqyrkSUiPC_wLYhWSUhNNve0I8F14AADOPlsZM0JeVLxdOsk639HpDPTXAag-nOM--43wczjwOdszn9nxFRtYTXyoGBMcyjfmNa54fhA8IV9-qxhsmHr8Uo593-leePz-6PDbVrhgyx5OXg3RW08WvZpL6zopi_pjOArpy3NnG_KCk93zp00EKsxJ5tSV8S6Pj7o453a4av3FNvbtDq-xfd1AXoQiCMUetYllAJh7knMGgExYyk3yPLPb0gEulGwLBGhroi2q3WZqP94-GE7SA5QGOR7kDfOZ2x-h1v7QzfEs7fejJoRTd14zhRVXgd1euimX9lZu8ttdxDSnDBTv_8LOtzzdDi6334vpHJHxeujHMRZaHrFudaP5cihGILckcW_S6bvW7hVkj4eH97bWvjwhPx0_dcsqzcODyKedU2b61VHBN_73hwe5_8iMJfy0rF1dMx0sJqTKP-W_GsizheuiMnGSMLMsRCPm3ojA5cAAAA.webp",
+      "snippet": "The IAEA LEU Bank is a physical stock of 90 metric tons of low enriched uranium hexafluoride suitable to make fuel for a typical light water reactor,",
+      "snippet_highlighted_words": [
+        "Bank"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The IAEA LEU Bank is a physical stock of 90 metric tons of low enriched uranium hexafluoride suitable to make fuel for a typical light water reactor,",
+          "source_info_link": "http://www.iaea.org/topics/iaea-low-enriched-uranium-bank",
+          "icon": "https://serpapi.com/images/i/UklGRqwBAABXRUJQVlA4IKABAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0ygxgmeayX_9QS63xZZp--VhtYqyrkSUiPC_wLYhWSUhNNve0I8F14AADOPlsZM0JeVLxdOsk639HpDPTXAag-nOM--43wczjwOdszn9nxFRtYTXyoGBMcyjfmNa54fhA8IV9-qxhsmHr8Uo593-leePz-6PDbVrhgyx5OXg3RW08WvZpL6zopi_pjOArpy3NnG_KCk93zp00EKsxJ5tSV8S6Pj7o453a4av3FNvbtDq-xfd1AXoQiCMUetYllAJh7knMGgExYyk3yPLPb0gEulGwLBGhroi2q3WZqP94-GE7SA5QGOR7kDfOZ2x-h1v7QzfEs7fejJoRTd14zhRVXgd1euimX9lZu8ttdxDSnDBTv_8LOtzzdDi6334vpHJHxeujHMRZaHrFudaP5cihGILckcW_S6bvW7hVkj4eH97bWvjwhPx0_dcsqzcODyKedU2b61VHBN_73hwe5_8iMJfy0rF1dMx0sJqTKP-W_GsizheuiMnGSMLMsRCPm3ojA5cAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVnN2dnBhVS12S3dwTTg2QkN1WUhadWRZTFBGeVZOSjZoRTViWjJsMTItZkFiZUkxQWlDXzZGU0RqcTdtNktJM3hoVnU0ajRCRzFITjYwSWFaQ09CaWJYLWhwMVUzZWV4c29hT0syS0RwSXMxcWduRVJrZFM0cFltMHNLdHhZeUFVak90cy15QmgySVlaV2lpNWFOYWMSBBoCCAAawQMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCbAwgAEAAYACAAKg0KA3RoZRXWZ6ZAGgFhMqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVnN2dnBhVS12S3dwTTg2QkN1WUhadWRZTFBGeVZOSjZoRTViWjJsMTItZkFiZUkxQWlDXzZGU0RqcTdtNktJM3hoVnU0ajRCRzFITjYwSWFaQ09CaWJYLWhwMVUzZWV4c29hT0syS0RwSXMxcWduRVJrZFM0cFltMHNLdHhZeUFVak90cy15QmgySVlaV2lpNWFOYWM6K0lBRUEgTG93IEVucmljaGVkIFVyYW5pdW0gKExFVSkgPGI-QmFuazwvYj5CnAFUaGUgSUFFQSBMRVUgPGI-QmFuazwvYj4gaXMgYSBwaHlzaWNhbCBzdG9jayBvZiA5MCBtZXRyaWMgdG9ucyBvZiBsb3cgZW5yaWNoZWQgdXJhbml1bSBoZXhhZmx1b3JpZGUgc3VpdGFibGUgdG8gbWFrZSBmdWVsIGZvciBhIHR5cGljYWwgbGlnaHQgd2F0ZXIgcmVhY3RvcixKAmlzSgJieVIBYSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVnN2dnBhVS12S3dwTTg2QkN1WUhadWRZTFBGeVZOSjZoRTViWjJsMTItZkFiZUkxQWlDXzZGU0RqcTdtNktJM3hoVnU0ajRCRzFITjYwSWFaQ09CaWJYLWhwMVUzZWV4c29hT0syS0RwSXMxcWduRVJrZFM0cFltMHNLdHhZeUFVak90cy15QmgySVlaV2lpNWFOYWMSBBoCCAAawQMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCbAwgAEAAYACAAKg0KA3RoZRXWZ6ZAGgFhMqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVnN2dnBhVS12S3dwTTg2QkN1WUhadWRZTFBGeVZOSjZoRTViWjJsMTItZkFiZUkxQWlDXzZGU0RqcTdtNktJM3hoVnU0ajRCRzFITjYwSWFaQ09CaWJYLWhwMVUzZWV4c29hT0syS0RwSXMxcWduRVJrZFM0cFltMHNLdHhZeUFVak90cy15QmgySVlaV2lpNWFOYWM6K0lBRUEgTG93IEVucmljaGVkIFVyYW5pdW0gKExFVSkgPGI-QmFuazwvYj5CnAFUaGUgSUFFQSBMRVUgPGI-QmFuazwvYj4gaXMgYSBwaHlzaWNhbCBzdG9jayBvZiA5MCBtZXRyaWMgdG9ucyBvZiBsb3cgZW5yaWNoZWQgdXJhbml1bSBoZXhhZmx1b3JpZGUgc3VpdGFibGUgdG8gbWFrZSBmdWVsIGZvciBhIHR5cGljYWwgbGlnaHQgd2F0ZXIgcmVhY3RvcixKAmlzSgJieVIBYSICEAFIAFgAaAA",
+      "source": "International Atomic Energy Agency"
+    },
+    {
+      "position": 8,
+      "title": "Wells Fargo Bank | Financial Services & Online Banking",
+      "link": "https://www.wellsfargo.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVcIqW2KJCoQ8va1K93usSLshX2TdzjUW7ty3fuq78UnIEMwjWeXD_YyJQVzcyAFQWFeZFyEolewfu8clp7njdQ_jZmccarnnLENJHurztS4zh&ved=2ahUKEwiC257N35-XAxWfE1kFHZWrEOsQFnoECEIQAQ&uoh=1",
+      "displayed_link": "https://www.wellsfargo.com",
+      "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALszNDTeFIJU348kG-1QxjrVu-68iOkNo1Ykj7tFugAA_pygNUXHRPUBDwq9nW41KJqUtWq1t5nP7_3OqupmZVDFg9VTrp5U4b4X_0v--K3BD_6ERtJrqSVf4AUB__JT-u7jLYGBH1EiBfJnM9KVT8cTlP7l_8FrzbVZ1H_6EJn8I5J5OBYS-CXm7fubtkyVMjPun_X_d_3CzkgzLI3TpLPsY0rT6poQUb30fqP3f_t_z_rr51N97tt9b3FV6vxpRZFc_5TbJZcTiz0HwBf9wprjDUKnDHImgn6n6oX_dpID6gn_H_uceikViiddAsgMSq9LYFAum5BijWFXiuKZkWnoAA.webp",
+      "snippet": "Committed to the financial health of our customers and communities. Explore bank accounts, loans, mortgages, investing, credit cards & banking services\u00bb",
+      "snippet_highlighted_words": [
+        "bank",
+        "banking"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Committed to the financial health of our customers and communities. Explore bank accounts, loans, mortgages, investing, credit cards & banking services\u00bb",
+          "source_info_link": "https://www.wellsfargo.com/",
+          "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALszNDTeFIJU348kG-1QxjrVu-68iOkNo1Ykj7tFugAA_pygNUXHRPUBDwq9nW41KJqUtWq1t5nP7_3OqupmZVDFg9VTrp5U4b4X_0v--K3BD_6ERtJrqSVf4AUB__JT-u7jLYGBH1EiBfJnM9KVT8cTlP7l_8FrzbVZ1H_6EJn8I5J5OBYS-CXm7fubtkyVMjPun_X_d_3CzkgzLI3TpLPsY0rT6poQUb30fqP3f_t_z_rr51N97tt9b3FV6vxpRZFc_5TbJZcTiz0HwBf9wprjDUKnDHImgn6n6oX_dpID6gn_H_uceikViiddAsgMSq9LYFAum5BijWFXiuKZkWnoAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVmNJcVcyS0pDb1E4dmExSzkzdXNTTHNoWDJUZHpqVVc3dHkzZnVxNzhVbklFTXdqV2VYRF9ZeUpRVnpjeUFGUVdGZVpGeUVvbGV3ZnU4Y2xwN25qZFFfalptY2Nhcm5uTEVOSkh1cnp0UzR6aBIEGgIIABrFAxICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQJ8DCAAQABgAIAAqDQoDdGhlFaqMKkAaAWEyggEvZ290bz91cmw9Q0FFU1ZnSHJPekFWY0lxVzJLSkNvUTh2YTFLOTN1c1NMc2hYMlRkempVVzd0eTNmdXE3OFVuSUVNd2pXZVhEX1l5SlFWemN5QUZRV0ZlWkZ5RW9sZXdmdThjbHA3bmpkUV9qWm1jY2Fybm5MRU5KSHVyenRTNHpoOkhXZWxscyBGYXJnbyA8Yj5CYW5rPC9iPiB8IEZpbmFuY2lhbCBTZXJ2aWNlcyAmYW1wOyBPbmxpbmUgPGI-QmFua2luZzwvYj5CqwFDb21taXR0ZWQgdG8gdGhlIGZpbmFuY2lhbCBoZWFsdGggb2Ygb3VyIGN1c3RvbWVycyBhbmQgY29tbXVuaXRpZXMuIEV4cGxvcmUgPGI-YmFuazwvYj4gYWNjb3VudHMsIGxvYW5zLCBtb3J0Z2FnZXMsIGludmVzdGluZywgY3JlZGl0IGNhcmRzICZhbXA7IDxiPmJhbmtpbmc8L2I-IHNlcnZpY2VzwrtKAmlzSgJieVIBYSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVmNJcVcyS0pDb1E4dmExSzkzdXNTTHNoWDJUZHpqVVc3dHkzZnVxNzhVbklFTXdqV2VYRF9ZeUpRVnpjeUFGUVdGZVpGeUVvbGV3ZnU4Y2xwN25qZFFfalptY2Nhcm5uTEVOSkh1cnp0UzR6aBIEGgIIABrFAxICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQJ8DCAAQABgAIAAqDQoDdGhlFaqMKkAaAWEyggEvZ290bz91cmw9Q0FFU1ZnSHJPekFWY0lxVzJLSkNvUTh2YTFLOTN1c1NMc2hYMlRkempVVzd0eTNmdXE3OFVuSUVNd2pXZVhEX1l5SlFWemN5QUZRV0ZlWkZ5RW9sZXdmdThjbHA3bmpkUV9qWm1jY2Fybm5MRU5KSHVyenRTNHpoOkhXZWxscyBGYXJnbyA8Yj5CYW5rPC9iPiB8IEZpbmFuY2lhbCBTZXJ2aWNlcyAmYW1wOyBPbmxpbmUgPGI-QmFua2luZzwvYj5CqwFDb21taXR0ZWQgdG8gdGhlIGZpbmFuY2lhbCBoZWFsdGggb2Ygb3VyIGN1c3RvbWVycyBhbmQgY29tbXVuaXRpZXMuIEV4cGxvcmUgPGI-YmFuazwvYj4gYWNjb3VudHMsIGxvYW5zLCBtb3J0Z2FnZXMsIGludmVzdGluZywgY3JlZGl0IGNhcmRzICZhbXA7IDxiPmJhbmtpbmc8L2I-IHNlcnZpY2VzwrtKAmlzSgJieVIBYSICEAFIAFgAaAA",
+      "source": "wellsfargo.com"
+    },
+    {
+      "position": 9,
+      "title": "Publications & Research: Reports, Data, and More",
+      "link": "https://www.worldbank.org/ext/en/research-publications",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAV3aW1_r6ODlHKVJcMP3t2XLUugA_-bfCwC_doIsgfPH_EluWeJyyiEboh_MLTVTKKtSeXXr1XmgXRWQ9e_9hgj2OLKZPnoLR2Mprh2l2Ofh3Y0efgbPC6MU58Kmzc2eSGr3BBOlKRlHS1Dl3P&ved=2ahUKEwiC257N35-XAxWfE1kFHZWrEOsQFnoECEMQAQ&uoh=1",
+      "displayed_link": "https://www.worldbank.org \u203a ... \u203a Research & Publications",
+      "favicon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0ygxg9ldkAlAL9-MCtACdcp4Yx7LwD_uydvc5ILP3_tpxicU47NEkr0xVAAP71E8jN2yCP6zUN1jxlcF-MoW3DzDgjlNdMvW7HeNZsAQs0Mz_-4e1TDaAZLUTyp9E_oHjV1bCnGrJ73mmSRq_RhuVwSK1Cetz-nzeXA7Kx4Tz3M7i2M0rAWhs8P0l8wU4Vyp4Bzwp3q1DeyOdOzziCzfQiBNzmIeA2RE9rtL9ZfxSDmdRCCK4BE_Tty_3rkdCaTXDm47gpWzc6qOTIk1qTIezhO2l88V1ebHXYWjhrBLJGLC9gu8-ci8F6OuZBzdV-_TGyqa86t9JUylszkNTT2xDl0I7OwaxON1rKOR_zBPjgFXxPTJbPJg-f6UHWQF6-svXQg9y6Mi_qcFgZNKJmMPM8XFr20YNkv5fND2PfgKOitcEFoAAA.webp",
+      "snippet": "Explore World Bank Group flagship reports and publications on global development \u2014 from economic outlooks and working papers to regional data and policy ...",
+      "snippet_highlighted_words": [
+        "Bank"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Explore World Bank Group flagship reports and publications on global development \u2014 from economic outlooks and working papers to regional data and policy ...",
+          "source_info_link": "https://www.worldbank.org/ext/en/research-publications",
+          "icon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0ygxg9ldkAlAL9-MCtACdcp4Yx7LwD_uydvc5ILP3_tpxicU47NEkr0xVAAP71E8jN2yCP6zUN1jxlcF-MoW3DzDgjlNdMvW7HeNZsAQs0Mz_-4e1TDaAZLUTyp9E_oHjV1bCnGrJ73mmSRq_RhuVwSK1Cetz-nzeXA7Kx4Tz3M7i2M0rAWhs8P0l8wU4Vyp4Bzwp3q1DeyOdOzziCzfQiBNzmIeA2RE9rtL9ZfxSDmdRCCK4BE_Tty_3rkdCaTXDm47gpWzc6qOTIk1qTIezhO2l88V1ebHXYWjhrBLJGLC9gu8-ci8F6OuZBzdV-_TGyqa86t9JUylszkNTT2xDl0I7OwaxON1rKOR_zBPjgFXxPTJbPJg-f6UHWQF6-svXQg9y6Mi_qcFgZNKJmMPM8XFr20YNkv5fND2PfgKOitcEFoAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVjNhVzFfcjZPRGxIS1ZKY01QM3QyWExVdWdBXy1iZkN3Q19kb0lzZ2ZQSF9FbHVXZUp5eWlFYm9oX01MVFZUS0t0U2VYWHIxWG1nWFJXUTllXzloZ2oyT0xLWlBub0xSMk1wcmgybDJPZmgzWTBlZmdiUEM2TVU1OEttemMyZVNHcjNCQk9sS1JsSFMxRGwzUBIEGgIIABroAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMIDCAAQABgAIAAqDQoDdGhlFbSPikAaAWEypgEvZ290bz91cmw9Q0FFU2NRSHJPekFWM2FXMV9yNk9EbEhLVkpjTVAzdDJYTFV1Z0FfLWJmQ3dDX2RvSXNnZlBIX0VsdVdlSnl5aUVib2hfTUxUVlRLS3RTZVhYcjFYbWdYUldROWVfOWhnajJPTEtaUG5vTFIyTXByaDJsMk9maDNZMGVmZ2JQQzZNVTU4S216YzJlU0dyM0JCT2xLUmxIUzFEbDNQOkhQdWJsaWNhdGlvbnMgJmFtcDsgUmVzZWFyY2g6IFJlcG9ydHMsIERhdGEsIGFuZCBNb3JlIC0gV29ybGQgPGI-QmFuazwvYj5CqgFFeHBsb3JlIFdvcmxkIDxiPkJhbms8L2I-IEdyb3VwIGZsYWdzaGlwIHJlcG9ydHMgYW5kIHB1YmxpY2F0aW9ucyBvbiBnbG9iYWwgZGV2ZWxvcG1lbnQg4oCUIGZyb20gZWNvbm9taWMgb3V0bG9va3MgYW5kIHdvcmtpbmcgcGFwZXJzIHRvIHJlZ2lvbmFsIGRhdGEgYW5kIHBvbGljeSZuYnNwOy4uLkoCYnlKAmlzUgFhIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVjNhVzFfcjZPRGxIS1ZKY01QM3QyWExVdWdBXy1iZkN3Q19kb0lzZ2ZQSF9FbHVXZUp5eWlFYm9oX01MVFZUS0t0U2VYWHIxWG1nWFJXUTllXzloZ2oyT0xLWlBub0xSMk1wcmgybDJPZmgzWTBlZmdiUEM2TVU1OEttemMyZVNHcjNCQk9sS1JsSFMxRGwzUBIEGgIIABroAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMIDCAAQABgAIAAqDQoDdGhlFbSPikAaAWEypgEvZ290bz91cmw9Q0FFU2NRSHJPekFWM2FXMV9yNk9EbEhLVkpjTVAzdDJYTFV1Z0FfLWJmQ3dDX2RvSXNnZlBIX0VsdVdlSnl5aUVib2hfTUxUVlRLS3RTZVhYcjFYbWdYUldROWVfOWhnajJPTEtaUG5vTFIyTXByaDJsMk9maDNZMGVmZ2JQQzZNVTU4S216YzJlU0dyM0JCT2xLUmxIUzFEbDNQOkhQdWJsaWNhdGlvbnMgJmFtcDsgUmVzZWFyY2g6IFJlcG9ydHMsIERhdGEsIGFuZCBNb3JlIC0gV29ybGQgPGI-QmFuazwvYj5CqgFFeHBsb3JlIFdvcmxkIDxiPkJhbms8L2I-IEdyb3VwIGZsYWdzaGlwIHJlcG9ydHMgYW5kIHB1YmxpY2F0aW9ucyBvbiBnbG9iYWwgZGV2ZWxvcG1lbnQg4oCUIGZyb20gZWNvbm9taWMgb3V0bG9va3MgYW5kIHdvcmtpbmcgcGFwZXJzIHRvIHJlZ2lvbmFsIGRhdGEgYW5kIHBvbGljeSZuYnNwOy4uLkoCYnlKAmlzUgFhIgIQAUgAWABoAA",
+      "source": "World Bank Group"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 10 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=The+Bank+Rate+listed+by+RBI+is+5.50%25.&sca_esv=7a80360a426ed37a&sxsrf=APpeQntsHQx7110v4pQ9HO5r_84aFzq8fA:1791095745267&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

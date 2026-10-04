@@ -1,0 +1,388 @@
+{
+  "search_metadata": {
+    "id": "6ac1f75217bdbf071f01fd07",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aw5Dgrr3S6NeMvVbCbqzjlC3ZaWPVh1c6LAVlC8KLMc/6ac1f75217bdbf071f01fd07.json",
+    "markdown_endpoint": "https://serpapi.com/searches/aw5Dgrr3S6NeMvVbCbqzjlC3ZaWPVh1c6LAVlC8KLMc/6ac1f75217bdbf071f01fd07.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/aw5Dgrr3S6NeMvVbCbqzjlC3ZaWPVh1c6LAVlC8KLMc/6ac1f75217bdbf071f01fd07.json_with_pixel_position",
+    "created_at": "2026-10-04 06:50:58 UTC",
+    "processed_at": "2026-10-04 06:50:58 UTC",
+    "google_url": "https://www.google.com/search?q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&oq=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/aw5Dgrr3S6NeMvVbCbqzjlC3ZaWPVh1c6LAVlC8KLMc/6ac1f75217bdbf071f01fd07.html",
+    "total_time_taken": 0.4
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "The repo rate was cut to 5.25% in December 2025.",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "The repo rate was cut to 5.25% in December 2025.",
+    "total_results": 73700000,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What happens when the repo rate is reduced?",
+      "type": "ai_overview",
+      "page_token": "U5Qil3icHdBdboIwAADg7DI-CoXpFhOzpAJFJrAWWqAvCz_DCuVHISK87S471U6zZN8Rvu8feWnr36dYjGM_7BRlmqb1uevO8mudd42SDnObK3kqZZbm9W77sgVvZb43hwkeugli2vfMIGpoCM03ig1txTWt8ANXlh0sokxUcc0MScPYka7sm4xJK7dJGKHHITKde6IeNYqcBYfExUxExSJOWWiCjGHd1aHtUtmmrXPCIeSsZQlhXkUNrPILaGgFUz96aKE2Tj7tQ67119R8fS5iMSSaPHILmm4FAUFEz5kFA-RtssbDZBE4adzAAkzjtSOKhs6BWetFxfwMwJEjdiuYRdDFgcT2Zj_i9BQzxjU5F4jdqU5BUiXAlc5HQLnNI-c9Q7xdlfl9r6_-x_afZTPu-lt3_gOfIHh-",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=U5Qil3icHdBdboIwAADg7DI-CoXpFhOzpAJFJrAWWqAvCz_DCuVHISK87S471U6zZN8Rvu8feWnr36dYjGM_7BRlmqb1uevO8mudd42SDnObK3kqZZbm9W77sgVvZb43hwkeugli2vfMIGpoCM03ig1txTWt8ANXlh0sokxUcc0MScPYka7sm4xJK7dJGKHHITKde6IeNYqcBYfExUxExSJOWWiCjGHd1aHtUtmmrXPCIeSsZQlhXkUNrPILaGgFUz96aKE2Tj7tQ67119R8fS5iMSSaPHILmm4FAUFEz5kFA-RtssbDZBE4adzAAkzjtSOKhs6BWetFxfwMwJEjdiuYRdDFgcT2Zj_i9BQzxjU5F4jdqU5BUiXAlc5HQLnNI-c9Q7xdlfl9r6_-x_afZTPu-lt3_gOfIHh-",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJGOWlORjl0TVZRNWRYUkRUMjVsVkV4VGJIQkNObFZ3V0dOVGVEbFNOamRJVUZGRFVrNUxiRXB1TURkaVFVb3llSFpvUkRoMldVMVdRa1JEV2paS2RFcFhORlJ4VmpKaFFuUmlkRUZwTTNReWJWRjJSM1ZVUTBkamR4SVhWWFptUW1GMlpUSklTVGQyTlU1dlVHMWtaV3QxVVZFYUlrRkVjM0k1WmxFMmIyMXNWWFZxZVdaa2N6SjNhbEpDWVRVMU5XODBWRmxxUzJjIiwiZmN2IjoiMyIsImVpIjoiVXZmQmF2ZTJISTd2NU5vUG1kZWt1UVEiLCJxYyI6IkNpOTBhR1VnY21Wd2J5QnlZWFJsSUhkaGN5QmpkWFFnZEc4Z05TNHlOU1VnYVc0Z1pHVmpaVzFpWlhJZ01qQXlOUkFBZmJxVldqOCIsInF1ZXN0aW9uIjoiV2hhdCBoYXBwZW5zIHdoZW4gdGhlIHJlcG8gcmF0ZSBpcyByZWR1Y2VkPyIsImxrIjoiR2laM2FHRjBJR2hoY0hCbGJuTWdkMmhsYmlCeVpYQnZJSEpoZEdVZ2FYTWdjbVZrZFdObFpBIiwiYnMiOiJjLU1LNTlJT3owZ3NVY2hJTENoSXpTdFdLTTlJelZNb3lVaFZLRW90eUZjb1NpeEpWY2dzQm5KU1NwTlRVLXlOTktUVXlqR1VZMVBLNWMtbEdwNlprNk1RNU9TcGtGeGFncVFvTVQweE0wOEJpSXdNak16c2pkU2tWTXBCQ291U012RXA1TExta2c3UHFJUllBYmN2dHlDX3FDUXhyOFRlU0VaS3FoeW5ORVF6ME4ySmFXbXB5U1hGcUQ2RWFzWWxMY0FJQUEiLCJpZCI6ImZjX1V2ZkJhdmUySEk3djVOb1BtZGVrdVFRXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJGOWlORjl0TVZRNWRYUkRUMjVsVkV4VGJIQkNObFZ3V0dOVGVEbFNOamRJVUZGRFVrNUxiRXB1TURkaVFVb3llSFpvUkRoMldVMVdRa1JEV2paS2RFcFhORlJ4VmpKaFFuUmlkRUZwTTNReWJWRjJSM1ZVUTBkamR4SVhWWFptUW1GMlpUSklTVGQyTlU1dlVHMWtaV3QxVVZFYUlrRkVjM0k1WmxFMmIyMXNWWFZxZVdaa2N6SjNhbEpDWVRVMU5XODBWRmxxUzJjIiwiZmN2IjoiMyIsImVpIjoiVXZmQmF2ZTJISTd2NU5vUG1kZWt1UVEiLCJxYyI6IkNpOTBhR1VnY21Wd2J5QnlZWFJsSUhkaGN5QmpkWFFnZEc4Z05TNHlOU1VnYVc0Z1pHVmpaVzFpWlhJZ01qQXlOUkFBZmJxVldqOCIsInF1ZXN0aW9uIjoiV2hhdCBoYXBwZW5zIHdoZW4gdGhlIHJlcG8gcmF0ZSBpcyByZWR1Y2VkPyIsImxrIjoiR2laM2FHRjBJR2hoY0hCbGJuTWdkMmhsYmlCeVpYQnZJSEpoZEdVZ2FYTWdjbVZrZFdObFpBIiwiYnMiOiJjLU1LNTlJT3owZ3NVY2hJTENoSXpTdFdLTTlJelZNb3lVaFZLRW90eUZjb1NpeEpWY2dzQm5KU1NwTlRVLXlOTktUVXlqR1VZMVBLNWMtbEdwNlprNk1RNU9TcGtGeGFncVFvTVQweE0wOEJpSXdNak16c2pkU2tWTXBCQ291U012RXA1TExta2c3UHFJUllBYmN2dHlDX3FDUXhyOFRlU0VaS3FoeW5ORVF6ME4ySmFXbXB5U1hGcUQ2RWFzWWxMY0FJQUEiLCJpZCI6ImZjX1V2ZkJhdmUySEk3djVOb1BtZGVrdVFRXzUifQ%3D%3D"
+    },
+    {
+      "question": "Will RBI cut repo rate again in 2026?",
+      "type": "ai_overview",
+      "page_token": "2Qc-aHicHdDNboIwAADg7GU8qgXnoolZoiA_kU4KbaGXpbZqxRZQQZTb3mVPtafZstt3_r6-9ak8_7zcVdPUt_lo1HXd8FhVR70fisqM-O1ZipHgWu-4OM-nb1PwfhALtw2Wq0uwjHFdEweNU7feIKowBqQRGLTI0y2ylNo5sti7DeU6XHN7He8L9BHZLthg8Ewo8aOxbPKeTLiDtpEf8j8fIJBL4qptnsFaFtBJMGyTjMDUezgolRkr5UqQAEQJKD8yeE-8R0V6GYl12FKtKuSEl6iABaak42N4lSSyIZWvzKqX0mIaO8wkflju_PAGMw3ijG0TFzTcm9X7VJ43VNqukkQatsozpqOzCqGdg9TM4h1FmtsEYVSdYox6UWiDx6xNrTDPjbrSAgaE6EluyZ4acoHmcYU9wzgeHMR9YQ_-PxefB9PM62t1_AV2lYRZ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2Qc-aHicHdDNboIwAADg7GU8qgXnoolZoiA_kU4KbaGXpbZqxRZQQZTb3mVPtafZstt3_r6-9ak8_7zcVdPUt_lo1HXd8FhVR70fisqM-O1ZipHgWu-4OM-nb1PwfhALtw2Wq0uwjHFdEweNU7feIKowBqQRGLTI0y2ylNo5sti7DeU6XHN7He8L9BHZLthg8Ewo8aOxbPKeTLiDtpEf8j8fIJBL4qptnsFaFtBJMGyTjMDUezgolRkr5UqQAEQJKD8yeE-8R0V6GYl12FKtKuSEl6iABaak42N4lSSyIZWvzKqX0mIaO8wkflju_PAGMw3ijG0TFzTcm9X7VJ43VNqukkQatsozpqOzCqGdg9TM4h1FmtsEYVSdYox6UWiDx6xNrTDPjbrSAgaE6EluyZ4acoHmcYU9wzgeHMR9YQ_-PxefB9PM62t1_AV2lYRZ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJGOWlORjl0TVZRNWRYUkRUMjVsVkV4VGJIQkNObFZ3V0dOVGVEbFNOamRJVUZGRFVrNUxiRXB1TURkaVFVb3llSFpvUkRoMldVMVdRa1JEV2paS2RFcFhORlJ4VmpKaFFuUmlkRUZwTTNReWJWRjJSM1ZVUTBkamR4SVhWWFptUW1GMlpUSklTVGQyTlU1dlVHMWtaV3QxVVZFYUlrRkVjM0k1WmxFMmIyMXNWWFZxZVdaa2N6SjNhbEpDWVRVMU5XODBWRmxxUzJjIiwiZmN2IjoiMyIsImVpIjoiVXZmQmF2ZTJISTd2NU5vUG1kZWt1UVEiLCJxYyI6IkNpOTBhR1VnY21Wd2J5QnlZWFJsSUhkaGN5QmpkWFFnZEc4Z05TNHlOU1VnYVc0Z1pHVmpaVzFpWlhJZ01qQXlOUkFBZmJxVldqOCIsInF1ZXN0aW9uIjoiV2lsbCBSQkkgY3V0IHJlcG8gcmF0ZSBhZ2FpbiBpbiAyMDI2PyIsImxrIjoiR2lSM2FXeHNJSEppYVNCamRYUWdjbVZ3YnlCeVlYUmxJR0ZuWVdsdUlHbHVJREl3TWpZIiwiYnMiOiJjLU1LNTlJT3owZ3NVY2hJTENoSXpTdFdLTTlJelZNb3lVaFZLRW90eUZjb1NpeEpWY2dzQm5KU1NwTlRVLXlOTktUVXlqR1VZMVBLNWMtbEdwNlprNk1RNU9TcGtGeGFncVFvTVQweE0wOEJpSXdNak16c2pkU2tWTXBCQ291U012RXA1TExta2c3UHFJUllBYmN2dHlDX3FDUXhyOFRlU0VaS3FoeW5ORVF6ME4ySmFXbXB5U1hGcUQ2RWFzWWxMY0FJQUEiLCJpZCI6ImZjX1V2ZkJhdmUySEk3djVOb1BtZGVrdVFRXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJGOWlORjl0TVZRNWRYUkRUMjVsVkV4VGJIQkNObFZ3V0dOVGVEbFNOamRJVUZGRFVrNUxiRXB1TURkaVFVb3llSFpvUkRoMldVMVdRa1JEV2paS2RFcFhORlJ4VmpKaFFuUmlkRUZwTTNReWJWRjJSM1ZVUTBkamR4SVhWWFptUW1GMlpUSklTVGQyTlU1dlVHMWtaV3QxVVZFYUlrRkVjM0k1WmxFMmIyMXNWWFZxZVdaa2N6SjNhbEpDWVRVMU5XODBWRmxxUzJjIiwiZmN2IjoiMyIsImVpIjoiVXZmQmF2ZTJISTd2NU5vUG1kZWt1UVEiLCJxYyI6IkNpOTBhR1VnY21Wd2J5QnlZWFJsSUhkaGN5QmpkWFFnZEc4Z05TNHlOU1VnYVc0Z1pHVmpaVzFpWlhJZ01qQXlOUkFBZmJxVldqOCIsInF1ZXN0aW9uIjoiV2lsbCBSQkkgY3V0IHJlcG8gcmF0ZSBhZ2FpbiBpbiAyMDI2PyIsImxrIjoiR2lSM2FXeHNJSEppYVNCamRYUWdjbVZ3YnlCeVlYUmxJR0ZuWVdsdUlHbHVJREl3TWpZIiwiYnMiOiJjLU1LNTlJT3owZ3NVY2hJTENoSXpTdFdLTTlJelZNb3lVaFZLRW90eUZjb1NpeEpWY2dzQm5KU1NwTlRVLXlOTktUVXlqR1VZMVBLNWMtbEdwNlprNk1RNU9TcGtGeGFncVFvTVQweE0wOEJpSXdNak16c2pkU2tWTXBCQ291U012RXA1TExta2c3UHFJUllBYmN2dHlDX3FDUXhyOFRlU0VaS3FoeW5ORVF6ME4ySmFXbXB5U1hGcUQ2RWFzWWxMY0FJQUEiLCJpZCI6ImZjX1V2ZkJhdmUySEk3djVOb1BtZGVrdVFRXzUifQ%3D%3D"
+    },
+    {
+      "question": "Why is repo rate important?",
+      "type": "ai_overview",
+      "page_token": "GG6Y4HicHdBdboIwAADg7DI-yt900cQsYbQSomUUWn5eFmjBCgU6YQK-7S471U6zZN8Rvu8fee2a36dEjKMa9po2TdP60vcXWa5Z32r5sHRMY7mURc6a_fZla7xW7ACGyX7rJzsgSlEH65Hr9YUlvjCZv4pO-TlketFSPYrIXLbjjTjppqQ7p2iR9B1JThEaKM1oVtsTgeLKpV0zc2OiSGBkiCEw55a6QpDYOzOI8qAZZvzwADf5KZA7vWz4J7fEO6dKRoCiIoH3c8wrYsgRSe_BXc8NLe-OXaxnUj6HIB3jhCq-GENayykCIIQGNbPGE7wlSwgai9fULwx7zI70xinEx6tnYxctfpyFkdwBHEMRJ6gigELUZm5qqboAtAu75pGSjb2q2P1grf7HDh9VO-7Vrb_8AREGeuw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GG6Y4HicHdBdboIwAADg7DI-yt900cQsYbQSomUUWn5eFmjBCgU6YQK-7S471U6zZN8Rvu8fee2a36dEjKMa9po2TdP60vcXWa5Z32r5sHRMY7mURc6a_fZla7xW7ACGyX7rJzsgSlEH65Hr9YUlvjCZv4pO-TlketFSPYrIXLbjjTjppqQ7p2iR9B1JThEaKM1oVtsTgeLKpV0zc2OiSGBkiCEw55a6QpDYOzOI8qAZZvzwADf5KZA7vWz4J7fEO6dKRoCiIoH3c8wrYsgRSe_BXc8NLe-OXaxnUj6HIB3jhCq-GENayykCIIQGNbPGE7wlSwgai9fULwx7zI70xinEx6tnYxctfpyFkdwBHEMRJ6gigELUZm5qqboAtAu75pGSjb2q2P1grf7HDh9VO-7Vrb_8AREGeuw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJGOWlORjl0TVZRNWRYUkRUMjVsVkV4VGJIQkNObFZ3V0dOVGVEbFNOamRJVUZGRFVrNUxiRXB1TURkaVFVb3llSFpvUkRoMldVMVdRa1JEV2paS2RFcFhORlJ4VmpKaFFuUmlkRUZwTTNReWJWRjJSM1ZVUTBkamR4SVhWWFptUW1GMlpUSklTVGQyTlU1dlVHMWtaV3QxVVZFYUlrRkVjM0k1WmxFMmIyMXNWWFZxZVdaa2N6SjNhbEpDWVRVMU5XODBWRmxxUzJjIiwiZmN2IjoiMyIsImVpIjoiVXZmQmF2ZTJISTd2NU5vUG1kZWt1UVEiLCJxYyI6IkNpOTBhR1VnY21Wd2J5QnlZWFJsSUhkaGN5QmpkWFFnZEc4Z05TNHlOU1VnYVc0Z1pHVmpaVzFpWlhJZ01qQXlOUkFBZmJxVldqOCIsInF1ZXN0aW9uIjoiV2h5IGlzIHJlcG8gcmF0ZSBpbXBvcnRhbnQ/IiwibGsiOiJHaHAzYUhrZ2FYTWdjbVZ3YnlCeVlYUmxJR2x0Y0c5eWRHRnVkQSIsImJzIjoiYy1NSzU5SU96MGdzVWNoSUxDaEl6U3RXS005SXpWTW95VWhWS0VvdHlGY29TaXhKVmNnc0JuSlNTcE5UVS15Tk5LVFV5akdVWTFQSzVjLWxHcDZaazZNUTVPU3BrRnhhZ3FRb01UMHhNMDhCaUl3TWpNenNqZFNrVk1wQkNvdVNNdkVwNUxMbWtnN1BxSVJZQWJjdnR5Q19xQ1F4cjhUZVNFWktxaHluTkVRejBOMkphV21weVNYRnFENkVhc1lsTGNBSUFBIiwiaWQiOiJmY19VdmZCYXZlMkhJN3Y1Tm9QbWRla3VRUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJGOWlORjl0TVZRNWRYUkRUMjVsVkV4VGJIQkNObFZ3V0dOVGVEbFNOamRJVUZGRFVrNUxiRXB1TURkaVFVb3llSFpvUkRoMldVMVdRa1JEV2paS2RFcFhORlJ4VmpKaFFuUmlkRUZwTTNReWJWRjJSM1ZVUTBkamR4SVhWWFptUW1GMlpUSklTVGQyTlU1dlVHMWtaV3QxVVZFYUlrRkVjM0k1WmxFMmIyMXNWWFZxZVdaa2N6SjNhbEpDWVRVMU5XODBWRmxxUzJjIiwiZmN2IjoiMyIsImVpIjoiVXZmQmF2ZTJISTd2NU5vUG1kZWt1UVEiLCJxYyI6IkNpOTBhR1VnY21Wd2J5QnlZWFJsSUhkaGN5QmpkWFFnZEc4Z05TNHlOU1VnYVc0Z1pHVmpaVzFpWlhJZ01qQXlOUkFBZmJxVldqOCIsInF1ZXN0aW9uIjoiV2h5IGlzIHJlcG8gcmF0ZSBpbXBvcnRhbnQ%2FIiwibGsiOiJHaHAzYUhrZ2FYTWdjbVZ3YnlCeVlYUmxJR2x0Y0c5eWRHRnVkQSIsImJzIjoiYy1NSzU5SU96MGdzVWNoSUxDaEl6U3RXS005SXpWTW95VWhWS0VvdHlGY29TaXhKVmNnc0JuSlNTcE5UVS15Tk5LVFV5akdVWTFQSzVjLWxHcDZaazZNUTVPU3BrRnhhZ3FRb01UMHhNMDhCaUl3TWpNenNqZFNrVk1wQkNvdVNNdkVwNUxMbWtnN1BxSVJZQWJjdnR5Q19xQ1F4cjhUZVNFWktxaHluTkVRejBOMkphV21weVNYRnFENkVhc1lsTGNBSUFBIiwiaWQiOiJmY19VdmZCYXZlMkhJN3Y1Tm9QbWRla3VRUV81In0%3D"
+    },
+    {
+      "question": "What affects the repo rate?",
+      "type": "ai_overview",
+      "page_token": "q8peZnicHdBdboIwAADg7DI-jhaGy0zMEoSCRDCW0mJfFqBCkfIzIVZ92112qp1my07wJd_Xt2r69ucpk_M8TivD0Fo_18NQq9NzOXRGPt370ihzpYq8bFfL1yV8r8q1N2lnM2jnkI4jdTEggcIpsyU7o6jwY8xc-olJ7CdeXPFA-XkrcIpCeUh5IrqZFG7oHWlk5wHKxKPVrPVuJcNEAGXn4IYS6PTc5D0BbzsOY0Yf9EHaseGmSHjA1SGTEbWwuc_okgDqF1BUzK31aQO7uAH2n7GN0GCl2TgkrjMdoGxOSIEIUF2go-bnMkGQmrwNpejSe-K1ljjTfQGdmfv0IijCfhM6OIjve8ZJTJDcMRTkqUyP0JujBG65v30RkF4pEC5jEi-q8rq2Fv9j64-qm1fjZah_ASt4d-U",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=q8peZnicHdBdboIwAADg7DI-jhaGy0zMEoSCRDCW0mJfFqBCkfIzIVZ92112qp1my07wJd_Xt2r69ucpk_M8TivD0Fo_18NQq9NzOXRGPt370ihzpYq8bFfL1yV8r8q1N2lnM2jnkI4jdTEggcIpsyU7o6jwY8xc-olJ7CdeXPFA-XkrcIpCeUh5IrqZFG7oHWlk5wHKxKPVrPVuJcNEAGXn4IYS6PTc5D0BbzsOY0Yf9EHaseGmSHjA1SGTEbWwuc_okgDqF1BUzK31aQO7uAH2n7GN0GCl2TgkrjMdoGxOSIEIUF2go-bnMkGQmrwNpejSe-K1ljjTfQGdmfv0IijCfhM6OIjve8ZJTJDcMRTkqUyP0JujBG65v30RkF4pEC5jEi-q8rq2Fv9j64-qm1fjZah_ASt4d-U",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJGOWlORjl0TVZRNWRYUkRUMjVsVkV4VGJIQkNObFZ3V0dOVGVEbFNOamRJVUZGRFVrNUxiRXB1TURkaVFVb3llSFpvUkRoMldVMVdRa1JEV2paS2RFcFhORlJ4VmpKaFFuUmlkRUZwTTNReWJWRjJSM1ZVUTBkamR4SVhWWFptUW1GMlpUSklTVGQyTlU1dlVHMWtaV3QxVVZFYUlrRkVjM0k1WmxFMmIyMXNWWFZxZVdaa2N6SjNhbEpDWVRVMU5XODBWRmxxUzJjIiwiZmN2IjoiMyIsImVpIjoiVXZmQmF2ZTJISTd2NU5vUG1kZWt1UVEiLCJxYyI6IkNpOTBhR1VnY21Wd2J5QnlZWFJsSUhkaGN5QmpkWFFnZEc4Z05TNHlOU1VnYVc0Z1pHVmpaVzFpWlhJZ01qQXlOUkFBZmJxVldqOCIsInF1ZXN0aW9uIjoiV2hhdCBhZmZlY3RzIHRoZSByZXBvIHJhdGU/IiwibGsiOiJHaHAzYUdGMElHRm1abVZqZEhNZ2RHaGxJSEpsY0c4Z2NtRjBaUSIsImJzIjoiYy1NSzU5SU96MGdzVWNoSUxDaEl6U3RXS005SXpWTW95VWhWS0VvdHlGY29TaXhKVmNnc0JuSlNTcE5UVS15Tk5LVFV5akdVWTFQSzVjLWxHcDZaazZNUTVPU3BrRnhhZ3FRb01UMHhNMDhCaUl3TWpNenNqZFNrVk1wQkNvdVNNdkVwNUxMbWtnN1BxSVJZQWJjdnR5Q19xQ1F4cjhUZVNFWktxaHluTkVRejBOMkphV21weVNYRnFENkVhc1lsTGNBSUFBIiwiaWQiOiJmY19VdmZCYXZlMkhJN3Y1Tm9QbWRla3VRUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJGOWlORjl0TVZRNWRYUkRUMjVsVkV4VGJIQkNObFZ3V0dOVGVEbFNOamRJVUZGRFVrNUxiRXB1TURkaVFVb3llSFpvUkRoMldVMVdRa1JEV2paS2RFcFhORlJ4VmpKaFFuUmlkRUZwTTNReWJWRjJSM1ZVUTBkamR4SVhWWFptUW1GMlpUSklTVGQyTlU1dlVHMWtaV3QxVVZFYUlrRkVjM0k1WmxFMmIyMXNWWFZxZVdaa2N6SjNhbEpDWVRVMU5XODBWRmxxUzJjIiwiZmN2IjoiMyIsImVpIjoiVXZmQmF2ZTJISTd2NU5vUG1kZWt1UVEiLCJxYyI6IkNpOTBhR1VnY21Wd2J5QnlZWFJsSUhkaGN5QmpkWFFnZEc4Z05TNHlOU1VnYVc0Z1pHVmpaVzFpWlhJZ01qQXlOUkFBZmJxVldqOCIsInF1ZXN0aW9uIjoiV2hhdCBhZmZlY3RzIHRoZSByZXBvIHJhdGU%2FIiwibGsiOiJHaHAzYUdGMElHRm1abVZqZEhNZ2RHaGxJSEpsY0c4Z2NtRjBaUSIsImJzIjoiYy1NSzU5SU96MGdzVWNoSUxDaEl6U3RXS005SXpWTW95VWhWS0VvdHlGY29TaXhKVmNnc0JuSlNTcE5UVS15Tk5LVFV5akdVWTFQSzVjLWxHcDZaazZNUTVPU3BrRnhhZ3FRb01UMHhNMDhCaUl3TWpNenNqZFNrVk1wQkNvdVNNdkVwNUxMbWtnN1BxSVJZQWJjdnR5Q19xQ1F4cjhUZVNFWktxaHluTkVRejBOMkphV21weVNYRnFENkVhc1lsTGNBSUFBIiwiaWQiOiJmY19VdmZCYXZlMkhJN3Y1Tm9QbWRla3VRUV81In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "DnO-DniczVXbkqo4FP2A-Y7ji-cIBm21q6hTIaKCbdt4aS8vFEI6iCI2QdF-m3-ZT5ivma-ZgKB463N5mJpUYUiy12bvnb1cf_61nK8W__zxtx0Ea_rIcWEYFojnkSUumJ7LGXS_Mrk3b0l90_5OvY1v4rklmrbvuTi334pCzqQin8Nzcbh9k4wtBi2lsi0_ey-uhRcbTcvFLkR9ZlDssC_sHMrpHPtZfBHqbFGgBbwqNCuDtfMNDFstpQB4IBS6nOEyA_ifDqJADUoQsQcqd63YIfoZb7LMbBUoZ5BSPGXQhB1L0aRo8bpx35sSO1LsowPdabnNEMLnoy_tLlrNLp4Ok9I5RMNQknyF-HQcAkAkCe2Hlrc349QPo5k5vVt5meGyKbJiyS-EFVVOIeT8M1rWPrIJ47eWAl-kB6iF2v1yR3AFIhc-q9rnGcKoI3pj0k5XM8izHc4irH95buazqcjNTduMX3watTUa1HivsZ-0J2A6Khul3oICNJfqQs_p9tvAhJw5Y3ZLz7Cwpds6_z1eF0GxzNeESvVrzCeTHglFs4SahPZkNgf0WYWFp4JUTNmEssXNVjLaHd7qnogMUfbSjbMEeAVDyDtbJpfCOtyQoXxeS9RoRcdHnrOXHYGb84tMEYwlV2xKWunUZhGbNCkJqne6u7MwFRmdAkFnTdq9ylG67CuGV-rpWSfdC4-BnBWLqFEjpl9Al_UiLA3ESkPiOr2a8sHViQ-a1JFQL_3uMQDmKUKRs9wTWmbQUSivsX1TZvRBUq_PygP7SUZRLF6SXANdpkmu8j6MEXue7nXE50O60S-3rFLaXLAgyx55uwVdwSpN-2XYAaUH_LpsjD1NaYYleJstnjv7Bf0x_298StWJHNTpPp_Qz_CJqRO5oU4JGQ6dlKqTpibqdJ9P7TiQRJ0idKpOL4nJSZ2u-aRm-ZSqU_WQ0KU6_TKf5E_4dPzPvsEnlvotPin3-JSqU4ZPi0t1yuZ9UqeUT7-nTtrvqVNML3yYzqVq45D7kgVCf2GOCPZqoP_-0u6Mq3wXtfaDmhf-ULLe3ODRNazlV31uPUpADfbWV51teI_Yyr2LAxvnfbz28r4R4Hxo0Ly5CfKBly8XQPkLKOfnq3wdm9idYT_PSFou5Nyl74m8UdpNXBgE-nBcf6VWw3La1W-ranHjKbIzEObvan2t4pGpCI2n9cesUdqNhc1gbIO-5DzYBADeMauV5VbvQkXi67QklGGf8FP4MQqVcO4aYDst7bDqW-WB3VUHkgGDGkVTpxNuxrWWMgRvPbPYeIXOW3ta38laHBcVPxqC3u-2-BmiOdc3RdYgJQKfNTgi0IRoAjXWo0PDY3MItSa7c1kC7DZz1DR0TLdixajywgPLDzxgS6gYOZcE-7VY43N05YvFfwGEykpR",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DnO-DniczVXbkqo4FP2A-Y7ji-cIBm21q6hTIaKCbdt4aS8vFEI6iCI2QdF-m3-ZT5ivma-ZgKB463N5mJpUYUiy12bvnb1cf_61nK8W__zxtx0Ea_rIcWEYFojnkSUumJ7LGXS_Mrk3b0l90_5OvY1v4rklmrbvuTi334pCzqQin8Nzcbh9k4wtBi2lsi0_ey-uhRcbTcvFLkR9ZlDssC_sHMrpHPtZfBHqbFGgBbwqNCuDtfMNDFstpQB4IBS6nOEyA_ifDqJADUoQsQcqd63YIfoZb7LMbBUoZ5BSPGXQhB1L0aRo8bpx35sSO1LsowPdabnNEMLnoy_tLlrNLp4Ok9I5RMNQknyF-HQcAkAkCe2Hlrc349QPo5k5vVt5meGyKbJiyS-EFVVOIeT8M1rWPrIJ47eWAl-kB6iF2v1yR3AFIhc-q9rnGcKoI3pj0k5XM8izHc4irH95buazqcjNTduMX3watTUa1HivsZ-0J2A6Khul3oICNJfqQs_p9tvAhJw5Y3ZLz7Cwpds6_z1eF0GxzNeESvVrzCeTHglFs4SahPZkNgf0WYWFp4JUTNmEssXNVjLaHd7qnogMUfbSjbMEeAVDyDtbJpfCOtyQoXxeS9RoRcdHnrOXHYGb84tMEYwlV2xKWunUZhGbNCkJqne6u7MwFRmdAkFnTdq9ylG67CuGV-rpWSfdC4-BnBWLqFEjpl9Al_UiLA3ESkPiOr2a8sHViQ-a1JFQL_3uMQDmKUKRs9wTWmbQUSivsX1TZvRBUq_PygP7SUZRLF6SXANdpkmu8j6MEXue7nXE50O60S-3rFLaXLAgyx55uwVdwSpN-2XYAaUH_LpsjD1NaYYleJstnjv7Bf0x_298StWJHNTpPp_Qz_CJqRO5oU4JGQ6dlKqTpibqdJ9P7TiQRJ0idKpOL4nJSZ2u-aRm-ZSqU_WQ0KU6_TKf5E_4dPzPvsEnlvotPin3-JSqU4ZPi0t1yuZ9UqeUT7-nTtrvqVNML3yYzqVq45D7kgVCf2GOCPZqoP_-0u6Mq3wXtfaDmhf-ULLe3ODRNazlV31uPUpADfbWV51teI_Yyr2LAxvnfbz28r4R4Hxo0Ly5CfKBly8XQPkLKOfnq3wdm9idYT_PSFou5Nyl74m8UdpNXBgE-nBcf6VWw3La1W-ranHjKbIzEObvan2t4pGpCI2n9cesUdqNhc1gbIO-5DzYBADeMauV5VbvQkXi67QklGGf8FP4MQqVcO4aYDst7bDqW-WB3VUHkgGDGkVTpxNuxrWWMgRvPbPYeIXOW3ta38laHBcVPxqC3u-2-BmiOdc3RdYgJQKfNTgi0IRoAjXWo0PDY3MItSa7c1kC7DZz1DR0TLdixajywgPLDzxgS6gYOZcE-7VY43N05YvFfwGEykpR"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Save 35% on R.E.P.O. on Steam",
+      "link": "https://store.steampowered.com/app/3241660/REPO/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVriaG7tI5orNM-CjvQNMAJO0DgBgvqbEbVwCFYGhwPmnloi0muYXeRESA8qj8V_uudLigPNNTOC7CrpuaEmMGBif4s4r6mh-_1iJDdUcIOLe-mOMarBpUrieCB8pQ8AJ8c3ClDwHH&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://store.steampowered.com \u203a app \u203a REPO",
+      "favicon": "https://serpapi.com/images/i/UklGRoABAABXRUJQVlA4IHQBAABQBwCdASogACAAPrUurVanIacnG_DgFolsAJ0glciyixyIEeCGdePjr_-Ff3TcEiZOBhOcGrVvIo140gSPdeJRvyIAAP7-w5f3K9_DT5klw67Molj7ZMVuyqnACKXM9TVNQcbEuYER-vcz1uJZkHWyzcODtqieRG_cqHVLmNpxIi_M3qp0ENKY9tmqmC2OU77eccBm3iy1MAJvcxdKt7g6WVUugI5nc3Eq8QS553kjYuzqn_94ZjiAl2lEsz9woH0q1slXoi3Tnn-yH1tWc8mfj1OlRnz5vtAFXY3HEwhNY7sOyvHOT3qvos4L9xKz390T3hDknU50uakyIIceXSHeln1IQI572-atvAXnzBfeZPh0C3eW1fC81OCwM14bUEaXXz8_dXE1cZL0Zm4Uebci4Ae7E4BHrDqBxz2RffBSlEjXO1FvFVIgdFaTxM605MborI-93XEM6BMNkX6S8p8QlzVfaEM2eSEHQMfssjsXQKWQwAA.webp",
+      "snippet": "R.E.P.O.. Developer. semiwork. Publisher. semiwork. Released. Feb 26, 2025. An ... Buy R.E.P.O.. SPECIAL PROMOTION! Offer ends October 8. -35%. $9.99. $6.49. Add ...",
+      "snippet_highlighted_words": [
+        "R.E.P.O.",
+        "2025",
+        "R.E.P.O."
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "R.E.P.O.. Developer. semiwork. Publisher. semiwork. Released. Feb 26, 2025. An ... Buy R.E.P.O.. SPECIAL PROMOTION! Offer ends October 8. -35%. $9.99. $6.49. Add ...",
+          "source_info_link": "https://store.steampowered.com/app/3241660/REPO/",
+          "icon": "https://serpapi.com/images/i/UklGRoABAABXRUJQVlA4IHQBAABQBwCdASogACAAPrUurVanIacnG_DgFolsAJ0glciyixyIEeCGdePjr_-Ff3TcEiZOBhOcGrVvIo140gSPdeJRvyIAAP7-w5f3K9_DT5klw67Molj7ZMVuyqnACKXM9TVNQcbEuYER-vcz1uJZkHWyzcODtqieRG_cqHVLmNpxIi_M3qp0ENKY9tmqmC2OU77eccBm3iy1MAJvcxdKt7g6WVUugI5nc3Eq8QS553kjYuzqn_94ZjiAl2lEsz9woH0q1slXoi3Tnn-yH1tWc8mfj1OlRnz5vtAFXY3HEwhNY7sOyvHOT3qvos4L9xKz390T3hDknU50uakyIIceXSHeln1IQI572-atvAXnzBfeZPh0C3eW1fC81OCwM14bUEaXXz8_dXE1cZL0Zm4Uebci4Ae7E4BHrDqBxz2RffBSlEjXO1FvFVIgdFaTxM605MborI-93XEM6BMNkX6S8p8QlzVfaEM2eSEHQMfssjsXQKWQwAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnJpYUc3dEk1b3JOTS1DanZRTk1BSk8wRGdCZ3ZxYkViVndDRllHaHdQbW5sb2kwbXVZWGVSRVNBOHFqOFZfdXVkTGlnUE5OVE9DN0NycHVhRW1NR0JpZjRzNHI2bWgtXzFpSkRkVWNJT0xlLW1PTWFyQnBVcmllQ0I4cFE4QUo4YzNDbER3SEgSBBoCCAAa0AMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCqAwgAEAAYACAAKgoKA3RoZRWoi4tAMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnJpYUc3dEk1b3JOTS1DanZRTk1BSk8wRGdCZ3ZxYkViVndDRllHaHdQbW5sb2kwbXVZWGVSRVNBOHFqOFZfdXVkTGlnUE5OVE9DN0NycHVhRW1NR0JpZjRzNHI2bWgtXzFpSkRkVWNJT0xlLW1PTWFyQnBVcmllQ0I4cFE4QUo4YzNDbER3SEg6JFNhdmUgMzUlIG9uIDxiPlIuRS5QLk8uPC9iPiBvbiBTdGVhbUK_ATxiPlIuRS5QLk8uPC9iPi4gRGV2ZWxvcGVyLiBzZW1pd29yay4gUHVibGlzaGVyLiBzZW1pd29yay4gUmVsZWFzZWQuIEZlYiAyNiwgPGI-MjAyNTwvYj4uIEFuIC4uLiBCdXkgPGI-Ui5FLlAuTy48L2I-LiBTUEVDSUFMIFBST01PVElPTiEgT2ZmZXIgZW5kcyBPY3RvYmVyIDguIC0zNSUuICQ5Ljk5LiAkNi40OS4gQWRkJm5ic3A7Li4uSgJ0b0oDd2FzSgJpbiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnJpYUc3dEk1b3JOTS1DanZRTk1BSk8wRGdCZ3ZxYkViVndDRllHaHdQbW5sb2kwbXVZWGVSRVNBOHFqOFZfdXVkTGlnUE5OVE9DN0NycHVhRW1NR0JpZjRzNHI2bWgtXzFpSkRkVWNJT0xlLW1PTWFyQnBVcmllQ0I4cFE4QUo4YzNDbER3SEgSBBoCCAAa0AMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCqAwgAEAAYACAAKgoKA3RoZRWoi4tAMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnJpYUc3dEk1b3JOTS1DanZRTk1BSk8wRGdCZ3ZxYkViVndDRllHaHdQbW5sb2kwbXVZWGVSRVNBOHFqOFZfdXVkTGlnUE5OVE9DN0NycHVhRW1NR0JpZjRzNHI2bWgtXzFpSkRkVWNJT0xlLW1PTWFyQnBVcmllQ0I4cFE4QUo4YzNDbER3SEg6JFNhdmUgMzUlIG9uIDxiPlIuRS5QLk8uPC9iPiBvbiBTdGVhbUK_ATxiPlIuRS5QLk8uPC9iPi4gRGV2ZWxvcGVyLiBzZW1pd29yay4gUHVibGlzaGVyLiBzZW1pd29yay4gUmVsZWFzZWQuIEZlYiAyNiwgPGI-MjAyNTwvYj4uIEFuIC4uLiBCdXkgPGI-Ui5FLlAuTy48L2I-LiBTUEVDSUFMIFBST01PVElPTiEgT2ZmZXIgZW5kcyBPY3RvYmVyIDguIC0zNSUuICQ5Ljk5LiAkNi40OS4gQWRkJm5ic3A7Li4uSgJ0b0oDd2FzSgJpbiICEAFIAFgAaAA",
+      "source": "Steam",
+      "read_more_link": "https://store.steampowered.com/app/3241660/REPO/#:~:text=R.E.P.O.,with%20up%20to%206%20players.&text=Buy%20R.E.P.O.,Add%20to%20Cart"
+    },
+    {
+      "position": 2,
+      "title": "Repo command reference",
+      "link": "https://source.android.com/docs/setup/reference/repo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAV9UrwQ1PIvACfoUIsLZ5xfPwWc0pvzxeXtnkUZtG2JUKdgWZ9fenh7xHvhS9z6GBwLn9FTbWN21fj8B0z5cT8ZplAESdfbEtkhhOt__6XaHM6leKpbIa4T_HOLZVsaD-q1v322qrvJwggXA&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://source.android.com \u203a docs \u203a setup \u203a repo",
+      "favicon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAADQBQCdASocABwAPtE4tFooIigoGAEAGglsAMUHwWzAFsgrH9neZSPQ7379oL3Jiqjqoau42-vgAP7-LxP2PaKvc2cwx1tRCLM41eWj8-LgA3DxvVBTnwznNpKS-NSlL0fHITsdnc9UHm3VaxxQO3I7Zl8IV6l-wr5Nb3XhznKcvoomhAucMftfJ72abgHsvEm6Ig1TJrph9I2HwVP1OROL6tF39hCF3ZJDDFkynnsBlxv3XXt-xRLGhVDzm_2gEl64qcLr4YlTpeNF2Lu8Znoeo9AAAA.webp",
+      "date": "Sep 2, 2026",
+      "snippet": "Downloads new changes and updates the working files in your local environment, essentially accomplishing git fetch across all Git repositories.",
+      "about_this_result": {
+        "source": {
+          "description": "Downloads new changes and updates the working files in your local environment, essentially accomplishing git fetch across all Git repositories.",
+          "source_info_link": "https://source.android.com/docs/setup/reference/repo",
+          "icon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAADQBQCdASocABwAPtE4tFooIigoGAEAGglsAMUHwWzAFsgrH9neZSPQ7379oL3Jiqjqoau42-vgAP7-LxP2PaKvc2cwx1tRCLM41eWj8-LgA3DxvVBTnwznNpKS-NSlL0fHITsdnc9UHm3VaxxQO3I7Zl8IV6l-wr5Nb3XhznKcvoomhAucMftfJ72abgHsvEm6Ig1TJrph9I2HwVP1OROL6tF39hCF3ZJDDFkynnsBlxv3XXt-xRLGhVDzm_2gEl64qcLr4YlTpeNF2Lu8Znoeo9AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVjlVcndRMVBJdkFDZm9VSXNMWjV4ZlB3V2MwcHZ6eGVYdG5rVVp0RzJKVUtkZ1daOWZlbmg3eEh2aFM5ejZHQndMbjlGVGJXTjIxZmo4QjB6NWNUOFpwbEFFU2RmYkV0a2hoT3RfXzZYYUhNNmxlS3BiSWE0VF9IT0xaVnNhRC1xMXYzMjJxcnZKd2dnWEESBBoCCAAavQMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCXAwgAEAAYACAAKgoKA3RoZRWvtZxAMqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVjlVcndRMVBJdkFDZm9VSXNMWjV4ZlB3V2MwcHZ6eGVYdG5rVVp0RzJKVUtkZ1daOWZlbmg3eEh2aFM5ejZHQndMbjlGVGJXTjIxZmo4QjB6NWNUOFpwbEFFU2RmYkV0a2hoT3RfXzZYYUhNNmxlS3BiSWE0VF9IT0xaVnNhRC1xMXYzMjJxcnZKd2dnWEE6OzxiPlJlcG88L2I-IGNvbW1hbmQgcmVmZXJlbmNlIHwgQW5kcm9pZCBPcGVuIFNvdXJjZSBQcm9qZWN0Qo8BRG93bmxvYWRzIG5ldyBjaGFuZ2VzIGFuZCB1cGRhdGVzIHRoZSB3b3JraW5nIGZpbGVzIGluIHlvdXIgbG9jYWwgZW52aXJvbm1lbnQsIGVzc2VudGlhbGx5IGFjY29tcGxpc2hpbmcgZ2l0IGZldGNoIGFjcm9zcyBhbGwgR2l0IHJlcG9zaXRvcmllcy5KAmluSgN3YXNKAnRvIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVjlVcndRMVBJdkFDZm9VSXNMWjV4ZlB3V2MwcHZ6eGVYdG5rVVp0RzJKVUtkZ1daOWZlbmg3eEh2aFM5ejZHQndMbjlGVGJXTjIxZmo4QjB6NWNUOFpwbEFFU2RmYkV0a2hoT3RfXzZYYUhNNmxlS3BiSWE0VF9IT0xaVnNhRC1xMXYzMjJxcnZKd2dnWEESBBoCCAAavQMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCXAwgAEAAYACAAKgoKA3RoZRWvtZxAMqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVjlVcndRMVBJdkFDZm9VSXNMWjV4ZlB3V2MwcHZ6eGVYdG5rVVp0RzJKVUtkZ1daOWZlbmg3eEh2aFM5ejZHQndMbjlGVGJXTjIxZmo4QjB6NWNUOFpwbEFFU2RmYkV0a2hoT3RfXzZYYUhNNmxlS3BiSWE0VF9IT0xaVnNhRC1xMXYzMjJxcnZKd2dnWEE6OzxiPlJlcG88L2I-IGNvbW1hbmQgcmVmZXJlbmNlIHwgQW5kcm9pZCBPcGVuIFNvdXJjZSBQcm9qZWN0Qo8BRG93bmxvYWRzIG5ldyBjaGFuZ2VzIGFuZCB1cGRhdGVzIHRoZSB3b3JraW5nIGZpbGVzIGluIHlvdXIgbG9jYWwgZW52aXJvbm1lbnQsIGVzc2VudGlhbGx5IGFjY29tcGxpc2hpbmcgZ2l0IGZldGNoIGFjcm9zcyBhbGwgR2l0IHJlcG9zaXRvcmllcy5KAmluSgN3YXNKAnRvIgIQAUgAWABoAA",
+      "source": "Android Open Source Project",
+      "read_more_link": "https://source.android.com/docs/setup/reference/repo#:~:text=Downloads%20new%20changes%20and%20updates,fetch%20across%20all%20Git%20repositories."
+    },
+    {
+      "position": 3,
+      "title": "Centrally Cleared Repo Data Collection",
+      "link": "https://www.financialresearch.gov/data/collections/cleared-repo-data/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFSq9MIXD6mhAoomma-XZTvFwYk5_jADfld5Uib-VkvZSAUFTQGD0TPOFlgAsqYSVScsQ9_0XICDkuGDX-hDSkzBUFuvJtxt00_DT0zhlj5YecW4GzBaAWJX0MtoEgZJDqgJLBqCj3lt4nr7qYlwSp5zFulcmglMu25oI9g&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://www.financialresearch.gov \u203a data \u203a collections",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAADQBgCdASocABwAPtEutFooIagoGAEAGglmAJ0y3sFhCA_gHpBZ3HbAYOkYDZ5IREhYKOogoEOU22hv_RTmvIAA_p0V7Lb6QgmfCQzkDMX0fI-t452ZJqH6fBP-X366dPQ771ElLezbbFueu8-pRydwd_WndEep-qmb-tTV0FrAHcQ3eby8cy_6lUbecdi76JdVzsbYzRUf92pAH_UXAPdMxr7Ib_jzgayCPH9Hq_Tt9Nf81DiU3D0L0vIdZ_iY-4Otvwcy76k_d_nxpdO_ogJKxpZ_ld8Tvl2Eu2XbOkexRNDbWC6XUDwEm9NCQSWCXjGUWhHKwFubtJ7T7_aQarUaYqV_z7hyakJ1aBbWkmsnwik5ZVXVBhfiIbtlUjuT-AA.webp",
+      "snippet": "The OFR adopted a rule in February 2019 to establish a data collection covering centrally cleared funding transactions in the U.S. repurchase agreement ...",
+      "about_this_result": {
+        "source": {
+          "description": "The OFR adopted a rule in February 2019 to establish a data collection covering centrally cleared funding transactions in the U.S. repurchase agreement ...",
+          "source_info_link": "https://www.financialresearch.gov/data/collections/cleared-repo-data/",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAADQBgCdASocABwAPtEutFooIagoGAEAGglmAJ0y3sFhCA_gHpBZ3HbAYOkYDZ5IREhYKOogoEOU22hv_RTmvIAA_p0V7Lb6QgmfCQzkDMX0fI-t452ZJqH6fBP-X366dPQ771ElLezbbFueu8-pRydwd_WndEep-qmb-tTV0FrAHcQ3eby8cy_6lUbecdi76JdVzsbYzRUf92pAH_UXAPdMxr7Ib_jzgayCPH9Hq_Tt9Nf81DiU3D0L0vIdZ_iY-4Otvwcy76k_d_nxpdO_ogJKxpZ_ld8Tvl2Eu2XbOkexRNDbWC6XUDwEm9NCQSWCXjGUWhHKwFubtJ7T7_aQarUaYqV_z7hyakJ1aBbWkmsnwik5ZVXVBhfiIbtlUjuT-AA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZTcTlNSVhENm1oQW9vbW1hLVhaVHZGd1lrNV9qQURmbGQ1VWliLVZrdlpTQVVGVFFHRDBUUE9GbGdBc3FZU1ZTY3NROV8wWElDRGt1R0RYLWhEU2t6QlVGdXZKdHh0MDBfRFQwemhsajVZZWNXNEd6QmFBV0pYME10b0VnWkpEcWdKTEJxQ2ozbHQ0bnI3cVlsd1NwNXpGdWxjbWdsTXUyNW9JOWcSBBoCCAAa2AMSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCyAwgAEAAYACAAKgoKA3RoZRX-ladAMrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZTcTlNSVhENm1oQW9vbW1hLVhaVHZGd1lrNV9qQURmbGQ1VWliLVZrdlpTQVVGVFFHRDBUUE9GbGdBc3FZU1ZTY3NROV8wWElDRGt1R0RYLWhEU2t6QlVGdXZKdHh0MDBfRFQwemhsajVZZWNXNEd6QmFBV0pYME10b0VnWkpEcWdKTEJxQ2ozbHQ0bnI3cVlsd1NwNXpGdWxjbWdsTXUyNW9JOWc6LUNlbnRyYWxseSBDbGVhcmVkIDxiPlJlcG88L2I-IERhdGEgQ29sbGVjdGlvbkKgAVRoZSBPRlIgYWRvcHRlZCBhIHJ1bGUgaW4gRmVicnVhcnkgMjAxOSB0byBlc3RhYmxpc2ggYSBkYXRhIGNvbGxlY3Rpb24gY292ZXJpbmcgY2VudHJhbGx5IGNsZWFyZWQgZnVuZGluZyB0cmFuc2FjdGlvbnMgaW4gdGhlIFUuUy4gcmVwdXJjaGFzZSBhZ3JlZW1lbnQmbmJzcDsuLi5KAnRvSgN3YXNKAmluIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZTcTlNSVhENm1oQW9vbW1hLVhaVHZGd1lrNV9qQURmbGQ1VWliLVZrdlpTQVVGVFFHRDBUUE9GbGdBc3FZU1ZTY3NROV8wWElDRGt1R0RYLWhEU2t6QlVGdXZKdHh0MDBfRFQwemhsajVZZWNXNEd6QmFBV0pYME10b0VnWkpEcWdKTEJxQ2ozbHQ0bnI3cVlsd1NwNXpGdWxjbWdsTXUyNW9JOWcSBBoCCAAa2AMSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCyAwgAEAAYACAAKgoKA3RoZRX-ladAMrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZTcTlNSVhENm1oQW9vbW1hLVhaVHZGd1lrNV9qQURmbGQ1VWliLVZrdlpTQVVGVFFHRDBUUE9GbGdBc3FZU1ZTY3NROV8wWElDRGt1R0RYLWhEU2t6QlVGdXZKdHh0MDBfRFQwemhsajVZZWNXNEd6QmFBV0pYME10b0VnWkpEcWdKTEJxQ2ozbHQ0bnI3cVlsd1NwNXpGdWxjbWdsTXUyNW9JOWc6LUNlbnRyYWxseSBDbGVhcmVkIDxiPlJlcG88L2I-IERhdGEgQ29sbGVjdGlvbkKgAVRoZSBPRlIgYWRvcHRlZCBhIHJ1bGUgaW4gRmVicnVhcnkgMjAxOSB0byBlc3RhYmxpc2ggYSBkYXRhIGNvbGxlY3Rpb24gY292ZXJpbmcgY2VudHJhbGx5IGNsZWFyZWQgZnVuZGluZyB0cmFuc2FjdGlvbnMgaW4gdGhlIFUuUy4gcmVwdXJjaGFzZSBhZ3JlZW1lbnQmbmJzcDsuLi5KAnRvSgN3YXNKAmluIgIQAUgAWABoAA",
+      "source": "Office of Financial Research (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "3. What is the role of repo in the financial markets? \u00bb",
+      "link": "https://www.icmagroup.org/market-practice-and-regulatory-policy/repo-and-collateral-markets/icma-ercc-publications/frequently-asked-questions-on-repo/3-what-is-the-role-of-repo-in-the-financial-markets/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgIB6zswFTpzrxPG_KcUs1EUOIO60MGIi4xugG3hFD-eTnE6Ynx1ujNdyqLv9tJp1z5-0KAcikG7fjYVUM3S59A29VYfszES776BmIbUftF4ua3R8BNFOa-bgK773KJfWUXdNiwmiSO8qr2RI1BTjITkTBJIlQpMnhjezJnXiYzQ6dfYzfC-DmEsjdAIBdd6nLrqsKzEHxIPsSswA3EmujBOlaYv4N-xOsSD0qB8VrY-Asfl1xy0LFznDEKEAEcWFNbIM0GaIKuLqtTIrkmJ64HJh_7gFg53ksQjr5R6mXMLLt-A51UySbM8Yb_8zdpp2w-7ExpHr9jJtH-LbqFN85cHWhAHMSqN&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://www.icmagroup.org \u203a icma-ercc-publications",
+      "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglkALOMFSK8D3VkJ1yPWPqGGojjfDP9dFgIAsS0AAD-9glTzfmNeYn6jpw8SuM64qk5fmLp2OuL__WhCLZVSysJ34O_8UxprZ-A3_fc5GNVurInl_8mF8MPG-8OZl--_18AhorvQYFfwPT75Vym15OQlAhLmCXEWebUJFwkn-bEPMNllkD3J3nZE2bmNBdSyLciaS-_is-8lN7GOClrUSIsWFXkHzcwjslpDmJZqIT2DieEQjQBAwkrBp7tqA_w4DOQLebUTHiA_wBj-3Q6MGMsRPIO5dUywLYnIqYq7vWaXcIrw-l67qAA.webp",
+      "snippet": "And repo allows investors to buy and finance purchases of foreign securities in the same currency, avoiding exchange rate risk and facilitating the cross-border ...",
+      "snippet_highlighted_words": [
+        "repo",
+        "rate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "And repo allows investors to buy and finance purchases of foreign securities in the same currency, avoiding exchange rate risk and facilitating the cross-border ...",
+          "source_info_link": "https://www.icmagroup.org/market-practice-and-regulatory-policy/repo-and-collateral-markets/icma-ercc-publications/frequently-asked-questions-on-repo/3-what-is-the-role-of-repo-in-the-financial-markets/",
+          "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglkALOMFSK8D3VkJ1yPWPqGGojjfDP9dFgIAsS0AAD-9glTzfmNeYn6jpw8SuM64qk5fmLp2OuL__WhCLZVSysJ34O_8UxprZ-A3_fc5GNVurInl_8mF8MPG-8OZl--_18AhorvQYFfwPT75Vym15OQlAhLmCXEWebUJFwkn-bEPMNllkD3J3nZE2bmNBdSyLciaS-_is-8lN7GOClrUSIsWFXkHzcwjslpDmJZqIT2DieEQjQBAwkrBp7tqA_w4DOQLebUTHiA_wBj-3Q6MGMsRPIO5dUywLYnIqYq7vWaXcIrw-l67qAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4CL2dvdG8_dXJsPUNBRVNoZ0lCNnpzd0ZUcHpyeFBHX0tjVXMxRVVPSU82ME1HSWk0eHVnRzNoRkQtZVRuRTZZbngxdWpOZHlxTHY5dEpwMXo1LTBLQWNpa0c3ZmpZVlVNM1M1OUEyOVZZZnN6RVM3NzZCbUliVWZ0RjR1YTNSOEJORk9hLWJnSzc3M0tKZldVWGROaXdtaVNPOHFyMlJJMUJUaklUa1RCSklsUXBNbmhqZXpKblhpWXpRNmRmWXpmQy1EbUVzamRBSUJkZDZuTHJxc0t6RUh4SVBzU3N3QTNFbXVqQk9sYVl2NE4teE9zU0QwcUI4VnJZLUFzZmwxeHkwTEZ6bkRFS0VBRWNXRk5iSU0wR2FJS3VMcXRUSXJrbUo2NEhKaF83Z0ZnNTNrc1FqcjVSNm1YTUxMdC1BNTFVeVNiTThZYl84emRwcDJ3LTdFeHBIcjlqSnRILUxicUZOODVjSFdoQUhNU3FOEgQaAggAGrMFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjQUIABAAGAAgACoKCgN0aGUVBldlQDLuAi9nb3RvP3VybD1DQUVTaGdJQjZ6c3dGVHB6cnhQR19LY1VzMUVVT0lPNjBNR0lpNHh1Z0czaEZELWVUbkU2WW54MXVqTmR5cUx2OXRKcDF6NS0wS0FjaWtHN2ZqWVZVTTNTNTlBMjlWWWZzekVTNzc2Qm1JYlVmdEY0dWEzUjhCTkZPYS1iZ0s3NzNLSmZXVVhkTml3bWlTTzhxcjJSSTFCVGpJVGtUQkpJbFFwTW5oamV6Sm5YaVl6UTZkZll6ZkMtRG1Fc2pkQUlCZGQ2bkxycXNLekVIeElQc1Nzd0EzRW11akJPbGFZdjROLXhPc1NEMHFCOFZyWS1Bc2ZsMXh5MExGem5ERUtFQUVjV0ZOYklNMEdhSUt1THF0VElya21KNjRISmhfN2dGZzUza3NRanI1UjZtWE1MTHQtQTUxVXlTYk04WWJfOHpkcHAydy03RXhwSHI5akp0SC1MYnFGTjg1Y0hXaEFITVNxTjo_My4gV2hhdCBpcyB0aGUgcm9sZSBvZiA8Yj5yZXBvPC9iPiBpbiB0aGUgZmluYW5jaWFsIG1hcmtldHM_IMK7QrcBQW5kIDxiPnJlcG88L2I-IGFsbG93cyBpbnZlc3RvcnMgdG8gYnV5IGFuZCBmaW5hbmNlIHB1cmNoYXNlcyBvZiBmb3JlaWduIHNlY3VyaXRpZXMgaW4gdGhlIHNhbWUgY3VycmVuY3ksIGF2b2lkaW5nIGV4Y2hhbmdlIDxiPnJhdGU8L2I-IHJpc2sgYW5kIGZhY2lsaXRhdGluZyB0aGUgY3Jvc3MtYm9yZGVyJm5ic3A7Li4uSgJpbkoDd2FzSgJ0byICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4CL2dvdG8_dXJsPUNBRVNoZ0lCNnpzd0ZUcHpyeFBHX0tjVXMxRVVPSU82ME1HSWk0eHVnRzNoRkQtZVRuRTZZbngxdWpOZHlxTHY5dEpwMXo1LTBLQWNpa0c3ZmpZVlVNM1M1OUEyOVZZZnN6RVM3NzZCbUliVWZ0RjR1YTNSOEJORk9hLWJnSzc3M0tKZldVWGROaXdtaVNPOHFyMlJJMUJUaklUa1RCSklsUXBNbmhqZXpKblhpWXpRNmRmWXpmQy1EbUVzamRBSUJkZDZuTHJxc0t6RUh4SVBzU3N3QTNFbXVqQk9sYVl2NE4teE9zU0QwcUI4VnJZLUFzZmwxeHkwTEZ6bkRFS0VBRWNXRk5iSU0wR2FJS3VMcXRUSXJrbUo2NEhKaF83Z0ZnNTNrc1FqcjVSNm1YTUxMdC1BNTFVeVNiTThZYl84emRwcDJ3LTdFeHBIcjlqSnRILUxicUZOODVjSFdoQUhNU3FOEgQaAggAGrMFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjQUIABAAGAAgACoKCgN0aGUVBldlQDLuAi9nb3RvP3VybD1DQUVTaGdJQjZ6c3dGVHB6cnhQR19LY1VzMUVVT0lPNjBNR0lpNHh1Z0czaEZELWVUbkU2WW54MXVqTmR5cUx2OXRKcDF6NS0wS0FjaWtHN2ZqWVZVTTNTNTlBMjlWWWZzekVTNzc2Qm1JYlVmdEY0dWEzUjhCTkZPYS1iZ0s3NzNLSmZXVVhkTml3bWlTTzhxcjJSSTFCVGpJVGtUQkpJbFFwTW5oamV6Sm5YaVl6UTZkZll6ZkMtRG1Fc2pkQUlCZGQ2bkxycXNLekVIeElQc1Nzd0EzRW11akJPbGFZdjROLXhPc1NEMHFCOFZyWS1Bc2ZsMXh5MExGem5ERUtFQUVjV0ZOYklNMEdhSUt1THF0VElya21KNjRISmhfN2dGZzUza3NRanI1UjZtWE1MTHQtQTUxVXlTYk04WWJfOHpkcHAydy03RXhwSHI5akp0SC1MYnFGTjg1Y0hXaEFITVNxTjo_My4gV2hhdCBpcyB0aGUgcm9sZSBvZiA8Yj5yZXBvPC9iPiBpbiB0aGUgZmluYW5jaWFsIG1hcmtldHM_IMK7QrcBQW5kIDxiPnJlcG88L2I-IGFsbG93cyBpbnZlc3RvcnMgdG8gYnV5IGFuZCBmaW5hbmNlIHB1cmNoYXNlcyBvZiBmb3JlaWduIHNlY3VyaXRpZXMgaW4gdGhlIHNhbWUgY3VycmVuY3ksIGF2b2lkaW5nIGV4Y2hhbmdlIDxiPnJhdGU8L2I-IHJpc2sgYW5kIGZhY2lsaXRhdGluZyB0aGUgY3Jvc3MtYm9yZGVyJm5ic3A7Li4uSgJpbkoDd2FzSgJ0byICEAFIAFgAaAA",
+      "source": "The International Capital Market Association \u00bb",
+      "read_more_link": "https://www.icmagroup.org/market-practice-and-regulatory-policy/repo-and-collateral-markets/icma-ercc-publications/frequently-asked-questions-on-repo/3-what-is-the-role-of-repo-in-the-financial-markets/#:~:text=And%20repo%20allows%20investors%20to,cross%2Dborder%20diversification%20of%20investment%20portfolios."
+    },
+    {
+      "position": 5,
+      "title": "Repo Game - Play R.E.P.O Online for FREE!",
+      "link": "https://repoonlinegame.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVLhe2Tx8lwmpBQDqlHBLd3zQl9cGR685auZbCERbOuVr_vN0T8XTZVC00fQIhI4WLst0QPlrZRZglqYKmvzP7mZFG23HJgcfVKm6NbGop-Fcn&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://repoonlinegame.com",
+      "favicon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAAAQCQCdASocABwAPtE-tFooIigoFAEAGglsAJ0vPiQfneKtwANsB4wHrR6YB6AHSvkRL-wG7AByO15EEt-hBf_aokUlUT4x0d_8NF3PuBDKBgAA_vYJuJGLpqtwPcNNFPrnUtCC5FLyv4xXZ-8jZM36sdv0zHjuAruDRRJ0UpX2-xGJAnVnqOp5Dpmv_TUv-3vPbty03AduV8Ag_KhilD2xM69fitJICorbIouC6Kmsew_5s7uOHBlZiZtkuE_UDPagrNfXlhBs98a-pXTjp4vI_RXR04-NIR-UV8s_EztNEaFSUFw75gKxpWH4pf11-wfW3IoUJHhg8x7g4XPEIjENkvGrajPetdTDAQ7P92DD3XPW4C_2DCBPrwzG3WwEScWixcb2J1jdj1WGVxdek6IVlP1blduvF_ev7ekMkpDoQZ66H_upDS0t36TC8tPu_mwkVvf-X76CNBXJMQ-9iyEci3pxaADw_X4lL0cybea0bMa0LJoBnfS5IUMTtjhpDbjXCXp5PW4R3ZrBGgHOIZ9z_0128rX8KMB9ac55H_VXHoiI1Sy_HI8F1YAAAA.webp",
+      "snippet": "REPO is completely free and runs directly in your browser with no downloads needed. Join the horror experience instantly. Can I play REPO with friends?",
+      "snippet_highlighted_words": [
+        "REPO is completely free"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "REPO is completely free and runs directly in your browser with no downloads needed. Join the horror experience instantly. Can I play REPO with friends?",
+          "source_info_link": "https://repoonlinegame.com/",
+          "icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAAAQCQCdASocABwAPtE-tFooIigoFAEAGglsAJ0vPiQfneKtwANsB4wHrR6YB6AHSvkRL-wG7AByO15EEt-hBf_aokUlUT4x0d_8NF3PuBDKBgAA_vYJuJGLpqtwPcNNFPrnUtCC5FLyv4xXZ-8jZM36sdv0zHjuAruDRRJ0UpX2-xGJAnVnqOp5Dpmv_TUv-3vPbty03AduV8Ag_KhilD2xM69fitJICorbIouC6Kmsew_5s7uOHBlZiZtkuE_UDPagrNfXlhBs98a-pXTjp4vI_RXR04-NIR-UV8s_EztNEaFSUFw75gKxpWH4pf11-wfW3IoUJHhg8x7g4XPEIjENkvGrajPetdTDAQ7P92DD3XPW4C_2DCBPrwzG3WwEScWixcb2J1jdj1WGVxdek6IVlP1blduvF_ev7ekMkpDoQZ66H_upDS0t36TC8tPu_mwkVvf-X76CNBXJMQ-9iyEci3pxaADw_X4lL0cybea0bMa0LJoBnfS5IUMTtjhpDbjXCXp5PW4R3ZrBGgHOIZ9z_0128rX8KMB9ac55H_VXHoiI1Sy_HI8F1YAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVkxoZTJUeDhsd21wQlFEcWxIQkxkM3pRbDljR1I2ODVhdVpiQ0VSYk91VnJfdk4wVDhYVFpWQzAwZlFJaEk0V0xzdDBRUGxyWlJaZ2xxWUttdnpQN21aRkcyM0hKZ2NmVkttNk5iR29wLUZjbhIEGgIIABqmAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIADCAAQABgAIAAqCgoDdGhlFeVtxEAyggEvZ290bz91cmw9Q0FFU1ZnSHJPekFWTGhlMlR4OGx3bXBCUURxbEhCTGQzelFsOWNHUjY4NWF1WmJDRVJiT3VWcl92TjBUOFhUWlZDMDBmUUloSTRXTHN0MFFQbHJaUlpnbHFZS212elA3bVpGRzIzSEpnY2ZWS202TmJHb3AtRmNuOjc8Yj5SZXBvPC9iPiBHYW1lIC0gUGxheSA8Yj5SLkUuUC5PPC9iPiBPbmxpbmUgZm9yIEZSRUUhQp4BPGI-UkVQTyBpcyBjb21wbGV0ZWx5IGZyZWU8L2I-IGFuZCBydW5zIGRpcmVjdGx5IGluIHlvdXIgYnJvd3NlciB3aXRoIG5vIGRvd25sb2FkcyBuZWVkZWQuIEpvaW4gdGhlIGhvcnJvciBleHBlcmllbmNlIGluc3RhbnRseS4gQ2FuIEkgcGxheSBSRVBPIHdpdGggZnJpZW5kcz9KAnRvSgN3YXNKAmluIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVkxoZTJUeDhsd21wQlFEcWxIQkxkM3pRbDljR1I2ODVhdVpiQ0VSYk91VnJfdk4wVDhYVFpWQzAwZlFJaEk0V0xzdDBRUGxyWlJaZ2xxWUttdnpQN21aRkcyM0hKZ2NmVkttNk5iR29wLUZjbhIEGgIIABqmAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIADCAAQABgAIAAqCgoDdGhlFeVtxEAyggEvZ290bz91cmw9Q0FFU1ZnSHJPekFWTGhlMlR4OGx3bXBCUURxbEhCTGQzelFsOWNHUjY4NWF1WmJDRVJiT3VWcl92TjBUOFhUWlZDMDBmUUloSTRXTHN0MFFQbHJaUlpnbHFZS212elA3bVpGRzIzSEpnY2ZWS202TmJHb3AtRmNuOjc8Yj5SZXBvPC9iPiBHYW1lIC0gUGxheSA8Yj5SLkUuUC5PPC9iPiBPbmxpbmUgZm9yIEZSRUUhQp4BPGI-UkVQTyBpcyBjb21wbGV0ZWx5IGZyZWU8L2I-IGFuZCBydW5zIGRpcmVjdGx5IGluIHlvdXIgYnJvd3NlciB3aXRoIG5vIGRvd25sb2FkcyBuZWVkZWQuIEpvaW4gdGhlIGhvcnJvciBleHBlcmllbmNlIGluc3RhbnRseS4gQ2FuIEkgcGxheSBSRVBPIHdpdGggZnJpZW5kcz9KAnRvSgN3YXNKAmluIgIQAUgAWABoAA",
+      "source": "repoonlinegame.com",
+      "read_more_link": "https://repoonlinegame.com/#:~:text=REPO%20is%20completely%20free%20and,I%20play%20REPO%20with%20friends%3F"
+    },
+    {
+      "position": 6,
+      "title": "R.E.P.O Co-op Gameplay - HILARIOUS HORROR WITH ZOE ...",
+      "link": "https://www.youtube.com/watch?v=SH6Pjx3NJco",
+      "displayed_link": "33.2K+ views \u00b7 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6ac1f75217bdbf071f01fd07/images/m2PdPqLcFCV_Xz6z8FuMGeFj4Pu0xy-tUDzBCOVPjlQ.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "Like Phasmophobia and Lethal Company before it, REPO gameplay is an hilarious co-op horror game that's currently THE BIG THING in streaming ...",
+      "duration": "1:31:11",
+      "about_this_result": {
+        "source": {
+          "description": "Like Phasmophobia and Lethal Company before it, REPO gameplay is an hilarious co-op horror game that's currently THE BIG THING in streaming ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjhBbzE2LWd5RGFpQ2ZSMUF3a3A3dlNoVmlaMGlhRGpqN2dQeTRZbHE2cWYwNkVCcEN2SnNXNll5VzM3NWVXY05WVElWak9BOEFvMGliNXJvTWY2NV85Y014Y3Z2WTdWa2lTV0lkUHNmZDFPb3hVeWx0SE1VM2lYRkZYWXNoV1FjZ1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjhBbzE2LWd5RGFpQ2ZSMUF3a3A3dlNoVmlaMGlhRGpqN2dQeTRZbHE2cWYwNkVCcEN2SnNXNll5VzM3NWVXY05WVElWak9BOEFvMGliNXJvTWY2NV85Y014Y3Z2WTdWa2lTV0lkUHNmZDFPb3hVeWx0SE1VM2lYRkZYWXNoV1FjZ1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTP-tgS_-lIy76bK6FaR02X4nfNB_skLf6RvQ",
+      "source": "YouTube \u00b7 Eurogamer"
+    },
+    {
+      "position": 7,
+      "title": "r/REPOgame",
+      "link": "https://www.reddit.com/r/REPOgame/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVCf62o3__37BFGKTYu91_JJSOpTqYSXfcRhFBLVPI3UwPzqrPcpkmbEPtDRnTsIOK961sBrG8b1iZHJx4GpHKrboIXrqnk9PxrYwCpu1aIUkxE4qbHLl8DA&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQFnoECEkQAQ&uoh=1",
+      "displayed_link": "44.6K+ followers",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "r/REPOgame: Official subreddit for semiwork's R.E.P.O..",
+      "snippet_highlighted_words": [
+        "R.E.P.O."
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "r/REPOgame: Official subreddit for semiwork's R.E.P.O..",
+          "source_info_link": "https://www.reddit.com/r/REPOgame/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVkNmNjJvM19fMzdCRkdLVFl1OTFfSkpTT3BUcVlTWGZjUmhGQkxWUEkzVXdQenFyUGNwa21iRVB0RFJuVHNJT0s5NjFzQnJHOGIxaVpISng0R3BIS3Jib0lYcnFuazlQeHJZd0NwdTFhSVVreEU0cWJITGw4REESBBoCCAAarwISAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCJAggAEAAYACAAKgoKA3RoZRUgZKJAMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVkNmNjJvM19fMzdCRkdLVFl1OTFfSkpTT3BUcVlTWGZjUmhGQkxWUEkzVXdQenFyUGNwa21iRVB0RFJuVHNJT0s5NjFzQnJHOGIxaVpISng0R3BIS3Jib0lYcnFuazlQeHJZd0NwdTFhSVVreEU0cWJITGw4REE6E3IvUkVQT2dhbWUgLSBSZWRkaXRCQnIvUkVQT2dhbWU6IE9mZmljaWFsIHN1YnJlZGRpdCBmb3Igc2VtaXdvcmsmIzM5O3MgPGI-Ui5FLlAuTy48L2I-LkoCaW5KA3dhc0oCdG8iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVkNmNjJvM19fMzdCRkdLVFl1OTFfSkpTT3BUcVlTWGZjUmhGQkxWUEkzVXdQenFyUGNwa21iRVB0RFJuVHNJT0s5NjFzQnJHOGIxaVpISng0R3BIS3Jib0lYcnFuazlQeHJZd0NwdTFhSVVreEU0cWJITGw4REESBBoCCAAarwISAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCJAggAEAAYACAAKgoKA3RoZRUgZKJAMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVkNmNjJvM19fMzdCRkdLVFl1OTFfSkpTT3BUcVlTWGZjUmhGQkxWUEkzVXdQenFyUGNwa21iRVB0RFJuVHNJT0s5NjFzQnJHOGIxaVpISng0R3BIS3Jib0lYcnFuazlQeHJZd0NwdTFhSVVreEU0cWJITGw4REE6E3IvUkVQT2dhbWUgLSBSZWRkaXRCQnIvUkVQT2dhbWU6IE9mZmljaWFsIHN1YnJlZGRpdCBmb3Igc2VtaXdvcmsmIzM5O3MgPGI-Ui5FLlAuTy48L2I-LkoCaW5KA3dhc0oCdG8iAhABSABYAGgA",
+      "source": "Reddit \u00b7 r/REPOgame"
+    },
+    {
+      "position": 8,
+      "title": "Seeking thoughts on advantages of the Repo.transact ...",
+      "link": "https://elixirforum.com/t/seeking-thoughts-on-advantages-of-the-repo-transact-pattern-vs-disadvantages-i-ve-read-about-ecto-multi/61733",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwwEB6zswFdk0U4ileyyVl8J0qU-fdvkIcD0y8H1_nRGeWr99rPAaBFEtKVXfhjDQr21tS6DxYGCIxd3o0eSKgHbLutd8H0uHWM09G1N1BJ87gIziPOttvwCxpseaDKCUIpHzLA7D_F2vjm9A3o_Cu1YYKpzwwQEvt7d0raA7tgiZzuCYV1YcTj-cfw6lvme5MMsyRmSkIV82nbMyHZ6sWFMvEo4Bd3GmH1pj4DNciT50F_R3LThZ7o0RbGaOZndP2UtX-z4&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQFnoECE8QAQ&uoh=1",
+      "displayed_link": "https://elixirforum.com \u203a seeking-thoughts-on-advantag...",
+      "favicon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAAAQBwCdASocABwAPtEutFooIagoGAEAGglsALEMizwOABtgBaemc98r_WZW7XXLTp0X8iOoy3VPgoTbnM4t_Fx6AAD-_sKgyYJq7YRzTqr8knlLf1j8a3wO0ZvuohUA0Whn1_31jtB6yrWhcyD0_5j6d5Ajd59AiU7ZYdw6DO-jR-tWcZSDjwChw3ZpOClE0WTkUlfrxdWu6EzQzmmHDBJUpgoh-_6oNpUclNBj8w7NoGdVgtm15X-dMxgK4mD5uiGK4MqQFUosakosR2vcXVkj26WwPOsyjrKUXh0cNOpQ80N9U_H9njhpSik-7afoNnyuv5sjksoXNYYsS0QC3BOUalHSvFbFhl5LfdnGgAA.webp",
+      "snippet": "Hello,. I am looking to more closely understand the advantages of the Repo.transact pattern and the quoted disadvantages of Ecto.Multi .",
+      "snippet_highlighted_words": [
+        "the Repo"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Hello,. I am looking to more closely understand the advantages of the Repo.transact pattern and the quoted disadvantages of Ecto.Multi .",
+          "source_info_link": "https://elixirforum.com/t/seeking-thoughts-on-advantages-of-the-repo-transact-pattern-vs-disadvantages-i-ve-read-about-ecto-multi/61733",
+          "icon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAAAQBwCdASocABwAPtEutFooIagoGAEAGglsALEMizwOABtgBaemc98r_WZW7XXLTp0X8iOoy3VPgoTbnM4t_Fx6AAD-_sKgyYJq7YRzTqr8knlLf1j8a3wO0ZvuohUA0Whn1_31jtB6yrWhcyD0_5j6d5Ajd59AiU7ZYdw6DO-jR-tWcZSDjwChw3ZpOClE0WTkUlfrxdWu6EzQzmmHDBJUpgoh-_6oNpUclNBj8w7NoGdVgtm15X-dMxgK4mD5uiGK4MqQFUosakosR2vcXVkj26WwPOsyjrKUXh0cNOpQ80N9U_H9njhpSik-7afoNnyuv5sjksoXNYYsS0QC3BOUalHSvFbFhl5LfdnGgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUCL2dvdG8_dXJsPUNBRVN3d0VCNnpzd0ZkazBVNGlsZXl5Vmw4SjBxVS1mZHZrSWNEMHk4SDFfblJHZVdyOTlyUEFhQkZFdEtWWGZoakRRcjIxdFM2RHhZR0NJeGQzbzBlU0tnSGJMdXRkOEgwdUhXTTA5RzFOMUJKODdnSXppUE90dHZ3Q3hwc2VhREtDVUlwSHpMQTdEX0YydmptOUEzb19DdTFZWUtwend3UUV2dDdkMHJhQTd0Z2laenVDWVYxWWNUai1jZnc2bHZtZTVNTXN5Um1Ta0lWODJuYk15SFo2c1dGTXZFbzRCZDNHbUgxcGo0RE5jaVQ1MEZfUjNMVGhaN28wUmJHYU9abmRQMlV0WC16NBIEGgIIABq3BBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCTBAgAEAAYACAAKgoKA3RoZRWP_YhAMpUCL2dvdG8_dXJsPUNBRVN3d0VCNnpzd0ZkazBVNGlsZXl5Vmw4SjBxVS1mZHZrSWNEMHk4SDFfblJHZVdyOTlyUEFhQkZFdEtWWGZoakRRcjIxdFM2RHhZR0NJeGQzbzBlU0tnSGJMdXRkOEgwdUhXTTA5RzFOMUJKODdnSXppUE90dHZ3Q3hwc2VhREtDVUlwSHpMQTdEX0YydmptOUEzb19DdTFZWUtwend3UUV2dDdkMHJhQTd0Z2laenVDWVYxWWNUai1jZnc2bHZtZTVNTXN5Um1Ta0lWODJuYk15SFo2c1dGTXZFbzRCZDNHbUgxcGo0RE5jaVQ1MEZfUjNMVGhaN28wUmJHYU9abmRQMlV0WC16NDpGU2Vla2luZyB0aG91Z2h0cyBvbiBhZHZhbnRhZ2VzIG9mIDxiPnRoZSBSZXBvPC9iPi50cmFuc2FjdCBwYXR0ZXJuIC4uLkKPAUhlbGxvLC4gSSBhbSBsb29raW5nIHRvIG1vcmUgY2xvc2VseSB1bmRlcnN0YW5kIHRoZSBhZHZhbnRhZ2VzIG9mIDxiPnRoZSBSZXBvPC9iPi50cmFuc2FjdCBwYXR0ZXJuIGFuZCB0aGUgcXVvdGVkIGRpc2FkdmFudGFnZXMgb2YgRWN0by5NdWx0aSAuSgJpbkoDd2FzSgJ0byICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUCL2dvdG8_dXJsPUNBRVN3d0VCNnpzd0ZkazBVNGlsZXl5Vmw4SjBxVS1mZHZrSWNEMHk4SDFfblJHZVdyOTlyUEFhQkZFdEtWWGZoakRRcjIxdFM2RHhZR0NJeGQzbzBlU0tnSGJMdXRkOEgwdUhXTTA5RzFOMUJKODdnSXppUE90dHZ3Q3hwc2VhREtDVUlwSHpMQTdEX0YydmptOUEzb19DdTFZWUtwend3UUV2dDdkMHJhQTd0Z2laenVDWVYxWWNUai1jZnc2bHZtZTVNTXN5Um1Ta0lWODJuYk15SFo2c1dGTXZFbzRCZDNHbUgxcGo0RE5jaVQ1MEZfUjNMVGhaN28wUmJHYU9abmRQMlV0WC16NBIEGgIIABq3BBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCTBAgAEAAYACAAKgoKA3RoZRWP_YhAMpUCL2dvdG8_dXJsPUNBRVN3d0VCNnpzd0ZkazBVNGlsZXl5Vmw4SjBxVS1mZHZrSWNEMHk4SDFfblJHZVdyOTlyUEFhQkZFdEtWWGZoakRRcjIxdFM2RHhZR0NJeGQzbzBlU0tnSGJMdXRkOEgwdUhXTTA5RzFOMUJKODdnSXppUE90dHZ3Q3hwc2VhREtDVUlwSHpMQTdEX0YydmptOUEzb19DdTFZWUtwend3UUV2dDdkMHJhQTd0Z2laenVDWVYxWWNUai1jZnc2bHZtZTVNTXN5Um1Ta0lWODJuYk15SFo2c1dGTXZFbzRCZDNHbUgxcGo0RE5jaVQ1MEZfUjNMVGhaN28wUmJHYU9abmRQMlV0WC16NDpGU2Vla2luZyB0aG91Z2h0cyBvbiBhZHZhbnRhZ2VzIG9mIDxiPnRoZSBSZXBvPC9iPi50cmFuc2FjdCBwYXR0ZXJuIC4uLkKPAUhlbGxvLC4gSSBhbSBsb29raW5nIHRvIG1vcmUgY2xvc2VseSB1bmRlcnN0YW5kIHRoZSBhZHZhbnRhZ2VzIG9mIDxiPnRoZSBSZXBvPC9iPi50cmFuc2FjdCBwYXR0ZXJuIGFuZCB0aGUgcXVvdGVkIGRpc2FkdmFudGFnZXMgb2YgRWN0by5NdWx0aSAuSgJpbkoDd2FzSgJ0byICEAFIAFgAaAA",
+      "source": "Elixir Forum",
+      "read_more_link": "https://elixirforum.com/t/seeking-thoughts-on-advantages-of-the-repo-transact-pattern-vs-disadvantages-i-ve-read-about-ecto-multi/61733#:~:text=Hello%2C,quoted%20disadvantages%20of%20Ecto.Multi%20."
+    },
+    {
+      "position": 9,
+      "title": "The Fed - FIMA Repo Facility FAQs",
+      "link": "https://www.federalreserve.gov/monetarypolicy/fima-repo-facility-faqs.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFRu1L7OtAB9c3LRyuuGlSGWzy1kSmtsM0YMPkEjLzGWSFsdxMI66cPDS50I2-PM5uTwAujCL5I6U5kv8Ux8Q5ARwCzcQyNj39I4XIHJviJ4DCMZwdS-uh79DzRj0GYTMF8OArRvccueP7DUW5SS9EDyrlisgtxG1n_mE95yKDzU&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQFnoECEoQAQ&uoh=1",
+      "displayed_link": "https://www.federalreserve.gov \u203a monetarypolicy \u203a fim...",
+      "favicon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBQCdASocABwAPtEutFooIagoGAEAGglqAKwvd_qoQknoAflKMx2CmRL6g2Sfg-kwwrh1GqRAAP7wxAh-R2lIjm-lvgijhVwNaowT3BvlEFt_ozAb-fjfvyvr7v3WCH4plzvbdg4BSH2J2_QFNikpcTgZO5lWBL1P1cFwsyMST8WUVPWj5SxqS0R-DorubIA4uWdSiFy-GJ6awSDZOJHo8PD-gfDKPSyLvhN6TFqghA99JljWddWh5jJgRsugrb11Ln2J9ROjvYuUG_fz1Zogsa_YLDOYk5L2Z-Zf_wzPQC__CHvpld1uPm63RHE6Wup64HllLKTcmEMshZJuA_ppBD_sJasGLVTq6c__jUxuHEZKTkvL683orwUn2gGYL3Paxgj8UbUVDAAA.webp",
+      "snippet": "The offering rate generally exceeds private repo rates when the Treasury market is functioning well, so the facility will primarily be used only in times of ...",
+      "snippet_highlighted_words": [
+        "rate",
+        "repo"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The offering rate generally exceeds private repo rates when the Treasury market is functioning well, so the facility will primarily be used only in times of ...",
+          "source_info_link": "https://www.federalreserve.gov/monetarypolicy/fima-repo-facility-faqs.htm",
+          "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBQCdASocABwAPtEutFooIagoGAEAGglqAKwvd_qoQknoAflKMx2CmRL6g2Sfg-kwwrh1GqRAAP7wxAh-R2lIjm-lvgijhVwNaowT3BvlEFt_ozAb-fjfvyvr7v3WCH4plzvbdg4BSH2J2_QFNikpcTgZO5lWBL1P1cFwsyMST8WUVPWj5SxqS0R-DorubIA4uWdSiFy-GJ6awSDZOJHo8PD-gfDKPSyLvhN6TFqghA99JljWddWh5jJgRsugrb11Ln2J9ROjvYuUG_fz1Zogsa_YLDOYk5L2Z-Zf_wzPQC__CHvpld1uPm63RHE6Wup64HllLKTcmEMshZJuA_ppBD_sJasGLVTq6c__jUxuHEZKTkvL683orwUn2gGYL3Paxgj8UbUVDAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZSdTFMN090QUI5YzNMUnl1dUdsU0dXenkxa1NtdHNNMFlNUGtFakx6R1dTRnNkeE1JNjZjUERTNTBJMi1QTTV1VHdBdWpDTDVJNlU1a3Y4VXg4UTVBUndDemNReU5qMzlJNFhJSEp2aUo0RENNWndkUy11aDc5RHpSajBHWVRNRjhPQXJSdmNjdWVQN0RVVzVTUzlFRHlybGlzZ3R4RzFuX21FOTV5S0R6VRIEGgIIABr9AxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNcDCAAQABgAIAAqCgoDdGhlFaoMf0AywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RlJ1MUw3T3RBQjljM0xSeXV1R2xTR1d6eTFrU210c00wWU1Qa0VqTHpHV1NGc2R4TUk2NmNQRFM1MEkyLVBNNXVUd0F1akNMNUk2VTVrdjhVeDhRNUFSd0N6Y1F5TmozOUk0WElISnZpSjREQ01ad2RTLXVoNzlEelJqMEdZVE1GOE9BclJ2Y2N1ZVA3RFVXNVNTOUVEeXJsaXNndHhHMW5fbUU5NXlLRHpVOjpUaGUgRmVkIC0gRklNQSA8Yj5SZXBvPC9iPiBGYWNpbGl0eSBGQVFzIC0gRmVkZXJhbCBSZXNlcnZlQrMBVGhlIG9mZmVyaW5nIDxiPnJhdGU8L2I-IGdlbmVyYWxseSBleGNlZWRzIHByaXZhdGUgPGI-cmVwbzwvYj4gcmF0ZXMgd2hlbiB0aGUgVHJlYXN1cnkgbWFya2V0IGlzIGZ1bmN0aW9uaW5nIHdlbGwsIHNvIHRoZSBmYWNpbGl0eSB3aWxsIHByaW1hcmlseSBiZSB1c2VkIG9ubHkgaW4gdGltZXMgb2YmbmJzcDsuLi5KAmluSgN3YXNKAnRvIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZSdTFMN090QUI5YzNMUnl1dUdsU0dXenkxa1NtdHNNMFlNUGtFakx6R1dTRnNkeE1JNjZjUERTNTBJMi1QTTV1VHdBdWpDTDVJNlU1a3Y4VXg4UTVBUndDemNReU5qMzlJNFhJSEp2aUo0RENNWndkUy11aDc5RHpSajBHWVRNRjhPQXJSdmNjdWVQN0RVVzVTUzlFRHlybGlzZ3R4RzFuX21FOTV5S0R6VRIEGgIIABr9AxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNcDCAAQABgAIAAqCgoDdGhlFaoMf0AywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RlJ1MUw3T3RBQjljM0xSeXV1R2xTR1d6eTFrU210c00wWU1Qa0VqTHpHV1NGc2R4TUk2NmNQRFM1MEkyLVBNNXVUd0F1akNMNUk2VTVrdjhVeDhRNUFSd0N6Y1F5TmozOUk0WElISnZpSjREQ01ad2RTLXVoNzlEelJqMEdZVE1GOE9BclJ2Y2N1ZVA3RFVXNVNTOUVEeXJsaXNndHhHMW5fbUU5NXlLRHpVOjpUaGUgRmVkIC0gRklNQSA8Yj5SZXBvPC9iPiBGYWNpbGl0eSBGQVFzIC0gRmVkZXJhbCBSZXNlcnZlQrMBVGhlIG9mZmVyaW5nIDxiPnJhdGU8L2I-IGdlbmVyYWxseSBleGNlZWRzIHByaXZhdGUgPGI-cmVwbzwvYj4gcmF0ZXMgd2hlbiB0aGUgVHJlYXN1cnkgbWFya2V0IGlzIGZ1bmN0aW9uaW5nIHdlbGwsIHNvIHRoZSBmYWNpbGl0eSB3aWxsIHByaW1hcmlseSBiZSB1c2VkIG9ubHkgaW4gdGltZXMgb2YmbmJzcDsuLi5KAmluSgN3YXNKAnRvIgIQAUgAWABoAA",
+      "source": "Federal Reserve (.gov)",
+      "read_more_link": "https://www.federalreserve.gov/monetarypolicy/fima-repo-facility-faqs.htm#:~:text=The%20offering%20rate%20generally%20exceeds,times%20of%20unusual%20market%20stress."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Repo How many players minimum",
+      "link": "https://www.google.com/search?sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&q=Repo+How+many+players+minimum&sa=X&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Repo+How+many+players+minimum"
+    },
+    {
+      "block_position": 1,
+      "query": "R.E.P.O. game age rating",
+      "link": "https://www.google.com/search?sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&q=R.E.P.O.+game+age+rating&sa=X&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=R.E.P.O.+game+age+rating"
+    },
+    {
+      "block_position": 1,
+      "query": "R.E.P.O. game price",
+      "link": "https://www.google.com/search?sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&q=R.E.P.O.+game+price&sa=X&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=R.E.P.O.+game+price"
+    },
+    {
+      "block_position": 1,
+      "query": "REPO mobile Play Store",
+      "link": "https://www.google.com/search?sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&q=REPO+mobile+Play+Store&sa=X&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=REPO+mobile+Play+Store"
+    },
+    {
+      "block_position": 1,
+      "query": "R.E.P.O. game PC",
+      "link": "https://www.google.com/search?sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&q=R.E.P.O.+game+PC&sa=X&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=R.E.P.O.+game+PC"
+    },
+    {
+      "block_position": 1,
+      "query": "Repo storage",
+      "link": "https://www.google.com/search?sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&q=Repo+storage&sa=X&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Repo+storage"
+    },
+    {
+      "block_position": 1,
+      "query": "R.E.P.O. game Android",
+      "link": "https://www.google.com/search?sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&q=R.E.P.O.+game+Android&sa=X&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=R.E.P.O.+game+Android"
+    },
+    {
+      "block_position": 1,
+      "query": "R.E.P.O. buy",
+      "link": "https://www.google.com/search?sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&q=R.E.P.O.+buy&sa=X&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=R.E.P.O.+buy"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&ei=UvfBave2HI7v5NoPmdekuQQ&start=10&sa=N&sstk=AS6-VmLfSmXPQvwKZu4_-RYcjnfCNqZfhZVqoZfgDlmI619ZV8oWIaFgGzLGRT5DrwB5HVSAyqw8Yvi-hXnSpwWgGLyRXR-ENe6hgw&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ8NMDegQIOxAO",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&ei=UvfBave2HI7v5NoPmdekuQQ&start=10&sa=N&sstk=AS6-VmLfSmXPQvwKZu4_-RYcjnfCNqZfhZVqoZfgDlmI619ZV8oWIaFgGzLGRT5DrwB5HVSAyqw8Yvi-hXnSpwWgGLyRXR-ENe6hgw&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ8tMDegQIOxAE",
+      "3": "https://www.google.com/search?q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&ei=UvfBave2HI7v5NoPmdekuQQ&start=20&sa=N&sstk=AS6-VmLfSmXPQvwKZu4_-RYcjnfCNqZfhZVqoZfgDlmI619ZV8oWIaFgGzLGRT5DrwB5HVSAyqw8Yvi-hXnSpwWgGLyRXR-ENe6hgw&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ8tMDegQIOxAG",
+      "4": "https://www.google.com/search?q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&ei=UvfBave2HI7v5NoPmdekuQQ&start=30&sa=N&sstk=AS6-VmLfSmXPQvwKZu4_-RYcjnfCNqZfhZVqoZfgDlmI619ZV8oWIaFgGzLGRT5DrwB5HVSAyqw8Yvi-hXnSpwWgGLyRXR-ENe6hgw&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ8tMDegQIOxAI",
+      "5": "https://www.google.com/search?q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&ei=UvfBave2HI7v5NoPmdekuQQ&start=40&sa=N&sstk=AS6-VmLfSmXPQvwKZu4_-RYcjnfCNqZfhZVqoZfgDlmI619ZV8oWIaFgGzLGRT5DrwB5HVSAyqw8Yvi-hXnSpwWgGLyRXR-ENe6hgw&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ8tMDegQIOxAK",
+      "6": "https://www.google.com/search?q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&sca_esv=7a80360a426ed37a&sxsrf=APpeQnt0VSj7FPCFjjYtaF65-pOHP04feQ:1791096658472&ei=UvfBave2HI7v5NoPmdekuQQ&start=50&sa=N&sstk=AS6-VmLfSmXPQvwKZu4_-RYcjnfCNqZfhZVqoZfgDlmI619ZV8oWIaFgGzLGRT5DrwB5HVSAyqw8Yvi-hXnSpwWgGLyRXR-ENe6hgw&ved=2ahUKEwj3p9iA45-XAxWON1kFHZkrKUcQ8tMDegQIOxAM"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+repo+rate+was+cut+to+5.25%25+in+December+2025.&start=50"
+    }
+  }
+}

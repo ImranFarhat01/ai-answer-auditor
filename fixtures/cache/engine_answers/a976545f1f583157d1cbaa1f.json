@@ -1,0 +1,160 @@
+{
+  "search_metadata": {
+    "id": "6ac1f3a37ec029b73ad0f5fa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/xsEL1X-IStFU3ptld-KVwEYraz-P43SqHUiDjuLVMOc/6ac1f3a37ec029b73ad0f5fa.json",
+    "markdown_endpoint": "https://serpapi.com/searches/xsEL1X-IStFU3ptld-KVwEYraz-P43SqHUiDjuLVMOc/6ac1f3a37ec029b73ad0f5fa.md",
+    "created_at": "2026-10-04 06:35:15 UTC",
+    "processed_at": "2026-10-04 06:35:15 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=What+is+the+current+repo+rate+set+by+the+Reserve+Bank+of+India%3F&udm=50",
+    "raw_html_file": "https://serpapi.com/searches/xsEL1X-IStFU3ptld-KVwEYraz-P43SqHUiDjuLVMOc/6ac1f3a37ec029b73ad0f5fa.html",
+    "prettify_html_file": "https://serpapi.com/searches/xsEL1X-IStFU3ptld-KVwEYraz-P43SqHUiDjuLVMOc/6ac1f3a37ec029b73ad0f5fa.prettify",
+    "total_time_taken": 8.62
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "What is the current repo rate set by the Reserve Bank of India?",
+    "device": "desktop"
+  },
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "The current repo rate set by the Reserve Bank of India (RBI) is 5.25%.",
+      "snippet_highlighted_words": [
+        "5.25%"
+      ],
+      "reference_indexes": [
+        0
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Key Policy Rates"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "The RBI maintains the following key interest rates as of the latest monetary policy updates:"
+    },
+    {
+      "type": "table",
+      "table": [
+        [
+          "Rate Category",
+          "Rate Percentage"
+        ],
+        [
+          "Repo Rate",
+          "5.25%"
+        ],
+        [
+          "Reverse Repo Rate",
+          "3.35%"
+        ],
+        [
+          "Marginal Standing Facility (MSF) Rate",
+          "5.50%"
+        ],
+        [
+          "Standing Deposit Facility (SDF) Rate",
+          "5.00%"
+        ],
+        [
+          "Bank Rate",
+          "5.50%"
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Rate Category"
+          },
+          {
+            "snippet": "Rate Percentage"
+          }
+        ],
+        [
+          {
+            "snippet": "Repo Rate"
+          },
+          {
+            "snippet": "5.25%"
+          }
+        ],
+        [
+          {
+            "snippet": "Reverse Repo Rate"
+          },
+          {
+            "snippet": "3.35%"
+          }
+        ],
+        [
+          {
+            "snippet": "Marginal Standing Facility (MSF) Rate"
+          },
+          {
+            "snippet": "5.50%"
+          }
+        ],
+        [
+          {
+            "snippet": "Standing Deposit Facility (SDF) Rate"
+          },
+          {
+            "snippet": "5.00%"
+          }
+        ],
+        [
+          {
+            "snippet": "Bank Rate"
+          },
+          {
+            "snippet": "5.50%"
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "rate_category": "Repo Rate",
+          "rate_percentage": "5.25%"
+        },
+        {
+          "rate_category": "Reverse Repo Rate",
+          "rate_percentage": "3.35%"
+        },
+        {
+          "rate_category": "Marginal Standing Facility (MSF) Rate",
+          "rate_percentage": "5.50%"
+        },
+        {
+          "rate_category": "Standing Deposit Facility (SDF) Rate",
+          "rate_percentage": "5.00%"
+        },
+        {
+          "rate_category": "Bank Rate",
+          "rate_percentage": "5.50%"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "You can check further announcements and details directly via the Reserve Bank of India."
+    },
+    {
+      "type": "paragraph",
+      "snippet": "If you would like, I can set up a task to notify you of any upcoming changes or rate reviews by the Reserve Bank of India's Monetary Policy Committee."
+    }
+  ],
+  "references": [
+    {
+      "index": 0,
+      "title": "What is Repo Rate? Meaning, Current Rates and Impact",
+      "link": "https://www.bajajhousingfinance.in/repo-rate",
+      "snippet": "As per the announcement made by the Reserve Bank of India (RBI) on 05 August 2026, the current Repo Rate is 5.25%. The Reverse Repo Rate is 3.35%.",
+      "source": "Bajaj Housing Finance Ltd",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bajajhousingfinance.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdRTPI8pcmMUO3cpSvmgbB6GWKiXyMU-qCoAVIz1Vuic13W7ityG_08TtSHdFaPUing1dQDu-5_fGrEJIPiAiw3oEe7VZMkWiRVGa"
+    }
+  ],
+  "reconstructed_markdown": "The current repo rate set by the Reserve Bank of India \\(RBI\\) is 5.25%. [0]\n\n### Current Key Policy Rates\n\nThe RBI maintains the following key interest rates as of the latest monetary policy updates:\n\n| Rate Category | Rate Percentage |\n| --- | --- |\n| Repo Rate | 5.25% |\n| Reverse Repo Rate | 3.35% |\n| Marginal Standing Facility \\(MSF\\) Rate | 5.50% |\n| Standing Deposit Facility \\(SDF\\) Rate | 5.00% |\n| Bank Rate | 5.50% |\n\nYou can check further announcements and details directly via the Reserve Bank of India.\n\nIf you would like, I can set up a task to notify you of any upcoming changes or rate reviews by the Reserve Bank of India's Monetary Policy Committee.\n\n\n### References\n\n[0] [What is Repo Rate? Meaning, Current Rates and Impact](https://www.google.com/goto?url=CAESZwHrOzAVYPkBK9dGGGlHIT388jo_D42QlNveCqSDD0srnUOf_OM16F9dI_FthLsKyAy-ByBoem-hcq-V_3le8EILc-z7RFjGXV5gjZEJO7VV3srpqw1_hHofGuPYIEAIKR_XeVm82j4) \u2014 As per the announcement made by the Reserve Bank of India \\(RBI\\) on 05 August 2026, the current Repo Rate is 5.25%. The Reverse Repo Rate is 3.35%.\n"
+}
