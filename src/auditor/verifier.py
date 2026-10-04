@@ -7,6 +7,8 @@ from dataclasses import dataclass, field
 import serpapi
 from groq import Groq
 
+from auditor.cache import cached
+
 MODEL = "openai/gpt-oss-120b"
 
 VERIFY_PROMPT = """You are fact-checking one claim using search result snippets.
@@ -37,15 +39,22 @@ class VerificationResult:
     error: str | None = None
 
 
-def _search_for_claim(client: serpapi.Client, claim: str) -> list[dict]:
-    """Run a plain Google search for a claim and return simplified snippets."""
-    res = client.search(
+@cached("verification_searches")
+def _raw_claim_search(claim: str, api_key: str) -> dict:
+    """The actual cached SerpApi call for verifying a claim."""
+    client = serpapi.Client(api_key=api_key, timeout=60)
+    return client.search(
         {
             "engine": "google",
             "q": claim,
             "num": 5,
         }
     ).as_dict()
+
+
+def _search_for_claim(client: serpapi.Client, claim: str) -> list[dict]:
+    """Run a plain Google search for a claim and return simplified snippets."""
+    res = _raw_claim_search(claim, client.api_key)
 
     organic = res.get("organic_results", [])
     snippets = []
